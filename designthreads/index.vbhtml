@@ -4,16 +4,14 @@
     Layout = "~/_DTLayout.vbhtml"
 End Code
 
-
-
-<h1>Trends: 2018 Predictions</h1>
+<h1>Featured: 2018 Predictions</h1>
     <div class="row">
         <div class="col-xs-12">
-            <a href="">
-                <img class="img-responsive" src="~/images/greenbriar.jpg">
+            <a href="~/archive/Trends-03_18-2018_Predictions.vbhtml">
+                <img class="img-responsive" src="~/images/Trends-2018Predictions-MixedMetals1.jpg">
             </a>
-            <div class="caption">Dorothy Draper's signature black and white floor, shown here at the Greenbrier. All Greenbrier images courtesy of the Greenbrier.</div>
-            <a class="btn sb-primary-bg shadow-1" href="">Read More</a>
+            <div class="caption">Looking to the past helps shape our future in many ways. We can learn from its mistakes and improve upon it. As the new year slowly takes shape, we are beginning to see which trends are setting the tone for this year.</div>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-03_18-2018_Predictions.vbhtml"">read more</a>
             <hr />
         </div>
     </div>
