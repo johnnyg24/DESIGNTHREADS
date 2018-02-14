@@ -493,6 +493,7 @@
     <Content Include="Content\bootstrap\bootstrap-grid.scss" />
     <Content Include="Content\bootstrap\bootstrap-flex.scss" />
     <Content Include="archive\A_Peek_Inside-01_15-test.vbhtml" />
+    <Content Include="archive\Trends-03_18-2018_Predictions.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular.js" />
