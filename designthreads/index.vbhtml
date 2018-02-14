@@ -6,17 +6,17 @@ End Code
 
 
 
-@*<h1>Celbrating over 94 years of Dorthy Draper</h1>
+<h1>Trends: 2018 Predictions</h1>
     <div class="row">
         <div class="col-xs-12">
             <a href="">
-                <img class="img-responsive" src="~/designthreads/images/greenbriar.jpg">
+                <img class="img-responsive" src="~/images/greenbriar.jpg">
             </a>
             <div class="caption">Dorothy Draper's signature black and white floor, shown here at the Greenbrier. All Greenbrier images courtesy of the Greenbrier.</div>
             <a class="btn sb-primary-bg shadow-1" href="">Read More</a>
             <hr />
         </div>
-    </div>*@
+    </div>
 <h3>Recent</h3>
 <div class="row">
     <div class="col-md-4">
