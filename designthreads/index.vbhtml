@@ -23,7 +23,7 @@ End Code
         <a href="~/archive/Chroma_Color-01_18-2018_Colors_of_the_Year.vbhtml">
             <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/designthreads/images/greenbriar.jpg">
         </a>
-        <div class="caption">Dorothy Draper's signature black and white floor, shown here at the Greenbrier. All Greenbrier images courtesy of the Greenbrier.</div>
+        <div class="caption">signature black and white floor, shown here at the Greenbrier. All Greenbrier images courtesy of the Greenbrier.</div>
         <div class="caption">
             <h3>Celbrating Dorthy Draper</h3>
             <p>Color, while stationary and static, is also fluid and constantly changing. Just as trends, design, and the world around us innovates, so too does color. Every year, the big names in the color industry spend countless hours determining which shade they should name for the following year.  </p>
