@@ -364,7 +364,6 @@
     <Content Include="archive\Design_Style-11_15-American_Country.vbhtml" />
     <Content Include="archive\Design_Style-12_14-Traditional.vbhtml" />
     <Content Include="archive\Design_Style-12_16-Transitional.vbhtml" />
-    <Content Include="archive\dtstarter.vbhtml" />
     <Content Include="archive\History-01_16-History_of_Chenille.vbhtml" />
     <Content Include="archive\History-02_14-History_of_Silk.vbhtml" />
     <Content Include="archive\History-02_16-History_of_Pinking_Shears.vbhtml" />
@@ -493,6 +492,7 @@
     <Content Include="Content\bootstrap\bootstrap-reboot.scss" />
     <Content Include="Content\bootstrap\bootstrap-grid.scss" />
     <Content Include="Content\bootstrap\bootstrap-flex.scss" />
+    <Content Include="archive\A_Peek_Inside-01_14-test.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular.js" />
