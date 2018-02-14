@@ -15,8 +15,8 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.halehdesigninc.com/estate2.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-LRClassicBlue.png"></a></div>
-	<div class="col-md-6"><a href="http://oguindecorativearts.com/faux-finish-gallery" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-LRFresco.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.halehdesigninc.com/estate2.html" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-LRClassicBlue.png"></a></div>
+	<div class="col-md-6"><a href="http://oguindecorativearts.com/faux-finish-gallery" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-LRFresco.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
@@ -24,8 +24,8 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.dailymail.co.uk/femail/article-2037812/Dragons-Dens-Hilary-Devey-puts-2-2m-Staffordshire-home-market.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo4.jpg"></a></div>
-	<div class="col-md-6"><a href="http://www.dailymail.co.uk/femail/article-2037812/Dragons-Dens-Hilary-Devey-puts-2-2m-Staffordshire-home-market.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo3.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.dailymail.co.uk/femail/article-2037812/Dragons-Dens-Hilary-Devey-puts-2-2m-Staffordshire-home-market.html" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo4.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.dailymail.co.uk/femail/article-2037812/Dragons-Dens-Hilary-Devey-puts-2-2m-Staffordshire-home-market.html" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo3.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
@@ -33,8 +33,8 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.halehdesigninc.com/portfolio/estate-i/#prettyPhoto[gallery1]/9/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo2.jpg"></a></div>
-	<div class="col-md-6"><a href="http://www.midesigncorp.com/wp-content/uploads/2017/04/Sunset-Blvd-1004.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo9.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.halehdesigninc.com/portfolio/estate-i/#prettyPhoto[gallery1]/9/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo2.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.midesigncorp.com/wp-content/uploads/2017/04/Sunset-Blvd-1004.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo9.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
@@ -42,8 +42,8 @@ End Code
 <div class="spacer"></div>	
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.ruedigerbenedikt.com/blog/wp-content/uploads/2012/11/elegant-living-room1.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo5.jpg"></a></div>
-	<div class="col-md-6"><a href="http://www.charlesneal.com/projects/hollywood-hills-estate/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-LRGold.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.ruedigerbenedikt.com/blog/wp-content/uploads/2012/11/elegant-living-room1.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo5.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.charlesneal.com/projects/hollywood-hills-estate/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-LRGold.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
@@ -51,8 +51,8 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.salon.ru/article.plx?id=11460&path=interior" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-RococoDR.jpg"></a></div>
-	<div class="col-md-6"><a href="http://www.perlalichi.com/gallery/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Gold.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.salon.ru/article.plx?id=11460&path=interior" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-RococoDR.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.perlalichi.com/gallery/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Gold.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
@@ -60,34 +60,34 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><a href="http://www.homedit.com/black-and-gold-bedrooms/luxury-black-and-gold-bedroom-interior-design/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-BRBlackGold.jpg"></a></div>
-	<div class="col-md-6"><a href="http://www.sfadesign.com/los-angeles-2/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-BWBR.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.homedit.com/black-and-gold-bedrooms/luxury-black-and-gold-bedroom-interior-design/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-BRBlackGold.jpg"></a></div>
+	<div class="col-md-6"><a href="http://www.sfadesign.com/los-angeles-2/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-BWBR.jpg"></a></div>
 </div>
 <div class="spacer"></div>
 
 <p>Luxury at its finest, Baroque and Rococo interiors showcase a passion for the grandiose. Impressive from every aspect, these designs are not for the faint of heart. Encompassing design elements that range from modern and contemporary to eclectic and victorian, these interiors are the embodiment of spectacular interior design. Inspired by history, Baroque-Rococo interiors instill a sense of timeless grandeur and are one of today's most extravagent methods of design. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo8.jpg">
+<div align="center"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8.jpg">
 	<div class="source-link">Room Image Credit: <a href="http://www.horchow.com/Furniture/Living-Room/Shop-Our-Living-Rooms/Lena/cat19270734/c.cat" target="_blank">Horchow</a>, Lena Living Room Collection.</div>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-3">
-        <a href="~/details?sku=CHAN-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo8-Chantilly1Platinum.jpg"></a>
+        <a href="~/details?sku=CHAN-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Chantilly1Platinum.jpg"></a>
         Number 1: Chantilly 1 Platinum
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=PARS-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo8-Parson1Pewter.jpg"></a>
+        <a href="~/details?sku=PARS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Parson1Pewter.jpg"></a>
         Number 2: Parson 1 Pewter
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=VEND-13" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo8-Vendi13Blossom.jpg"></a>
+        <a href="~/details?sku=VEND-13" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Vendi13Blossom.jpg"></a>
         Number 3: Vendi 13 Blossom
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=OPAL-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Baroque-Rococo8-Opal1Smoke.jpg"></a>
+        <a href="~/details?sku=OPAL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Opal1Smoke.jpg"></a>
         Number 4: Opal 1 Smoke
     </div>
 </div>

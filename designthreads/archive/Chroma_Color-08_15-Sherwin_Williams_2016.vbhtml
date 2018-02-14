@@ -22,7 +22,7 @@ End Code
 <h4>Pura Vida</h4>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2016-PuraVida.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-PuraVida.jpg"></div>
 <div class="spacer"></div>
 
 <div class="text-center"><a href="~/details?sku=TIAR-1" target="_blank">Tiara 1 Sand</a></div>
@@ -35,7 +35,7 @@ End Code
 <h4>M&aacute;s Amor Por Favor</h4>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2016-MasAmorPorFavor.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-MasAmorPorFavor.jpg"></div>
 <div class="spacer"></div>
 
 <div class="text-center"><a href="~/details?sku=GYRO-1" target="_blank">Gyro 1 Butterscotch</a></div>
@@ -48,7 +48,7 @@ End Code
 <h4>Nouveau Narrative</h4>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2016-NouveauNarrative.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-NouveauNarrative.jpg"></div>
 <div class="spacer"></div>
 
 <div class="text-center"><a href="~/details?sku=KEEG-1" target="_blank">Keegan 1 Jewel</a></div>
@@ -61,7 +61,7 @@ End Code
 <h4>Trajectory</h4>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2016-Trajectory.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-Trajectory.jpg"></div>
 <div class="spacer"></div>
 
 <div class="text-center"><a href="~/details?sku=OSCA-1" target="_blank">Oscar 1 Violet</a></div>

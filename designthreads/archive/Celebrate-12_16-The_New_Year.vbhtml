@@ -13,15 +13,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://craftthatparty.blogspot.com/2012/12/new-years-eve-party-diy-confetti-wreath.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-Sequins.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-Sequins.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.stlmag.com/home/Holiday-Decor-for-Thanksgiving-Hanukkah-Christmas-and-New-Years-Eve-on-a-Budget/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-SideTable3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-SideTable3.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://frame.bloglovin.com/?blog=7689639&post=2109588203" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-BarCart2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-BarCart2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -32,15 +32,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="https://www.forrent.com/blog/food-entertaining/new-years-eve-bar-cart-party/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-BarCart.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-BarCart.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://celebrationsathomeblog.com/new-years-eve-golden-glam-dinner-party/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-DiningTable.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-DiningTable.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://catchmyparty.com/photos/2015058" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-SideTable2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-SideTable2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -51,15 +51,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://karaspartyideas.com/2013/12/when-the-clock-strikes-midnight-themed-pink-gold-new-years-eve-photo-shoot.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-SideTable.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-SideTable.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://studiodiy.com/2014/12/22/diy-clock-balloons-for-new-years-eve/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-Balloons.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-Balloons.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.thesweetestoccasion.com/2011/12/new-years-eve-party-ideas/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-NewYears-Mantle.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-Mantle.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

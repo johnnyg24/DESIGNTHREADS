@@ -16,19 +16,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://theselby.com/galleries/locations/the-louis-vuitton-family-home-and-the-louis-vuitton-bag-workshop-in-asnierese/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LouisVuitton.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LouisVuitton.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.newartinterior.eu/en/view-showcase/18/Private-Residence-61" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-Bedroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.margodowninginteriors.com/portfolio.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-ModernTownhome.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-ModernTownhome.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.draperdbs.com/gallery/media-room-custom-cabinets-art-nouveau/#1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-Library.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Library.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -40,19 +40,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://designfile.architecturaldigest.com/photo/bedroom-vladimir-alexandrovich-fabrikov-alan-wazenberg-new-york-new-york-200601" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-BRDoors.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-BRDoors.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://hauthaus.com/remodel_fairmount.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-Kitchen.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Kitchen.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.sarahklassen.com/2012/09/interior-masculine-mood.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-StainedGlass.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-StainedGlass.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://interiordesignfiles.com/art-nouveau-style-house-villa-liberty/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-DiningRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-DiningRoom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -62,7 +62,7 @@ End Code
 
 <div align="center">
     <a href="http://carolinebeaupere.com/content/ansonia" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LRFireplace-Wide.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFireplace-Wide.jpg"></a>
     <div class="source-link">Caroline Beaupere Interior Architecture and Design; <a href="http://carolinebeaupere.com/content/ansonia" target="_blank">Ansonia I residence</a></div>
 </div>
 <div class="spacer"></div>
@@ -70,22 +70,22 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=INDE-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LRFire-Independence5Eggshell.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Independence5Eggshell.jpg"></a>
 		Number 1. Independence 5 Eggshell
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MARJ-9" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LRFire-Marjorie9Snow.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Marjorie9Snow.jpg"></a>
 		Number 2. Marjorie 9 Snow
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=VEND-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LRFire-Vendi3Mist.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Vendi3Mist.jpg"></a>
 		Number 3. Vendi 3 Mist
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TURC-7" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtNouveau-LRFire-Turco7Espresso.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Turco7Espresso.jpg"></a>
 		Number 4. Turco 7 Espresso
 	</div>
 </div>

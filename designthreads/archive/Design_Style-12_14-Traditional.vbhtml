@@ -19,15 +19,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="https://www.houzz.com/photos/1557823/Living-Areas-traditional-living-room-dallas" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-FamilyRm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-FamilyRm.jpg"></a>
     </div>
 	<div class="col-md-4">
         <a href="https://static1.squarespace.com/static/58b6e403d482e97e3bc07ec9/58b7336df7e0ab5a74512602/58b73a7415d5db263948b984/1490820762308/03starin-pacific_st_res-0100.jpg?format=1500w" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-LRChateau.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-LRChateau.jpg"></a>
     </div>
 	<div class="col-md-4">
         <a href="http://www.thompsoncustomhomes.com/project-gallery/bordley" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-StoneLvngRm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-StoneLvngRm.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -38,15 +38,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="http://www.carolinadesignassociates.com/galleries/living-spaces" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-BrownLvngRm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-BrownLvngRm.jpg"></a>
     </div>
 	<div class="col-md-4">
         <a href="http://jacobhand.com/spaces/#36" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-DRAntlers.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-DRAntlers.jpg"></a>
     </div>
 	<div class="col-md-4">
         <a href="http://www.mitchellwall.com/projects.php?r=48&p=35" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-PresRm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-PresRm.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -56,34 +56,34 @@ End Code
 <p>From furnishings and windows to the floors and more, these all play major roles in the creation of a Traditional interior. Evoking an essence of the past whilst offering the best of today's design, Traditional interiors combine the best of the past with the present. Their homey ambiance belies the quiet sophistication that rules within. The coziness and warmth that Traditional interiors exude make them a great choice for nearly any home. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-LaketownLvngRm.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-LaketownLvngRm.jpg"></div>
 <div class="source-link">Room Image Credit: <a href="https://www.houzz.com/photos/5180046/Hall-traditional-family-room-salt-lake-city" target="_blank">Laketown, Utah Project</a>, by Smart Construction, Bear Lake.</div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=EMBA-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-Laketown-Embassy1Misty.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Embassy1Misty.jpg"></a>
         <div class="text-center">Number 1: Embassy 1 Misty</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=BRON-3" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-Laketown-Bronco3Bark.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Bronco3Bark.jpg"></a>
         <div class="text-center">Number 2: Bronco 3 Bark</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=CREO-10" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-Laketown-Creole2Camel.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Creole2Camel.jpg"></a>
         <div class="text-center">Number 3: Creole 10 Camel</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=GIGO-15" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-Laketown-Gigonda15Moonstone.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Gigonda15Moonstone.jpg"></a>
         <div class="text-center">Number 4: Gigonda 15 Moonstone</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=OSCA-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Trad-Laketown-Oscar1Violet.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Oscar1Violet.jpg"></a>
         <div class="text-center">Number 5: Oscar 1 Violet</div>
     </div>
 </div>

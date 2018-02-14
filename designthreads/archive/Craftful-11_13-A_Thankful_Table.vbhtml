@@ -14,7 +14,7 @@ End Code
 <p>These crafts don't require much, just some supplies and a few minutes of your time. If you happen to have fabric and trim scraps, put them to good use! While two of these crafts recommend using burlap, feel free to use whatever you have available- and personalize them as you see fit. If chevrons and buttons are not to your liking, try leaves and berries to keep an Autumnal aura. </p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.inspiredbycharm.com/2013/10/diy-no-sew-burlap-table-runner.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-GoldDotTableRunner.jpg"></a>
+<div align="center"><a href="http://www.inspiredbycharm.com/2013/10/diy-no-sew-burlap-table-runner.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-GoldDotTableRunner.jpg"></a>
     <div class="source-link">Source: <a href="http://www.inspiredbycharm.com" target="_blank">Inspired By Charm</a>; DIY No Sew Burlap Table Runner</div>    
 </div>
 <div class="spacer"></div>
@@ -23,7 +23,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://jennysteffens.blogspot.com/2012/11/diy-thanksgiving-centerpiece-roses-mums.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-PumpkinVase.jpg"></a>
+<div align="center"><a href="http://jennysteffens.blogspot.com/2012/11/diy-thanksgiving-centerpiece-roses-mums.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-PumpkinVase.jpg"></a>
     <div class="source-link">Source: <a href="http://jennysteffens.blogspot.com" target="_blank">Everyday Occasions</a> by Jenny Steffens blog; DIY Thanksgiving Centerpiece</div>    
 </div>
 <div class="spacer"></div>
@@ -32,7 +32,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.marthastewart.com/280493/flaming-foliage-candleholders?czone=food%2Fthanksgiving-center%2Fthanksgiving-center-decor&gallery=274251&slide=280493&center=276949" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-LeafyCandleVotives.jpg"></a>
+<div align="center"><a href="http://www.marthastewart.com/280493/flaming-foliage-candleholders?czone=food%2Fthanksgiving-center%2Fthanksgiving-center-decor&gallery=274251&slide=280493&center=276949" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-LeafyCandleVotives.jpg"></a>
     <div class="source-link">Source: <a href="http://www.marthastewart.com" target="_blank">Martha Stewart.com</a>; Flaming Foliage Candleholders</div>
 </div>
 <div class="spacer"></div>
@@ -41,7 +41,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.marthastewart.com/938155/corkboard-leaf-trivets?czone=food%2Fthanksgiving-center%2Fthanksgiving-center-decor&gallery=274251&slide=938155&center=276949" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-CorkboardLeafTrivets.jpg"></a>
+<div align="center"><a href="http://www.marthastewart.com/938155/corkboard-leaf-trivets?czone=food%2Fthanksgiving-center%2Fthanksgiving-center-decor&gallery=274251&slide=938155&center=276949" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-CorkboardLeafTrivets.jpg"></a>
     <div class="source-link">Source: <a href="http://www.marthastewart.com" target="_blank">Martha Stewart.com</a>; Corkboard Leaf Trivets</div>
 </div>
 <div class="spacer"></div>
@@ -50,7 +50,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.iheartnaptime.net/burlap-craft/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-UtensilPouch2.jpg"></a>
+<div align="center"><a href="http://www.iheartnaptime.net/burlap-craft/" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-UtensilPouch2.jpg"></a>
     <div class=" source-link">Source: <a href="http://www.iheartnaptime.net" target="_blank"> i heart naptime</a>; DIY burlap craft {utensil holders}</div>    
 </div>
 <div class="spacer"></div>
@@ -59,7 +59,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.theribbonretreat.com/blog/napkin-rings.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Thankful-H400-NapkinRings.jpg"></a>
+<div align="center"><a href="http://www.theribbonretreat.com/blog/napkin-rings.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Thankful-H400-NapkinRings.jpg"></a>
     <div class="source-link">Source: <a href="http://www.theribbonretreat.com" target="_blank">the Ribbon Retreat</a> blog; Napkin Rings</div>
 </div>
 <div class="spacer"></div>

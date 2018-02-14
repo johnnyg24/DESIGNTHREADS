@@ -10,7 +10,7 @@ End Code
 <p class="opening">@PageData("description")</p>		
 <div class="spacer"></div>
 
-<img class="img-responsive" alt="" src="~/designthreads/images/CN-SneakPeek-Spring2015-Banner.jpg">
+<img class="img-responsive" alt="" src="~/images/CN-SneakPeek-Spring2015-Banner.jpg">
 <div class="spacer"></div>
 
 <p>Book 1383: Embroidery IV</p>
@@ -32,13 +32,13 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-SneakPeak-Spring2015-RL-RedPinkPurple.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-SneakPeak-Spring2015-RL-Neutrals.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-SneakPeak-Spring2015-RL-RedPinkPurple.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-SneakPeak-Spring2015-RL-Neutrals.jpg"></div>
 </div>
 <div class="spacer"></div>
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-SneakPeak-Spring2015-RL-BlueGreens.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-SneakPeak-Spring2015-TransTrims.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-SneakPeak-Spring2015-RL-BlueGreens.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-SneakPeak-Spring2015-TransTrims.jpg"></div>
 </div>
 <div class="spacer"></div>
 		

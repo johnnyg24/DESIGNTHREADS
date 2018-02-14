@@ -17,10 +17,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-sm-6">
-		<a href="http://www.ownbydesign.com/island-fusion-at-haulalai" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Tropical-LivingRoom-500.jpg"></a>
+		<a href="http://www.ownbydesign.com/island-fusion-at-haulalai" target="_blank"><img class="img-responsive" alt="" src="~/images/Tropical-LivingRoom-500.jpg"></a>
 	</div>
 	<div class="col-sm-6">
-		<a href="https://www.houzz.com/photos/1559883/Lot-82-tropical-dining-room-hawaii" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Tropical-DiningRoom-500.jpg"></a>
+		<a href="https://www.houzz.com/photos/1559883/Lot-82-tropical-dining-room-hawaii" target="_blank"><img class="img-responsive" alt="" src="~/images/Tropical-DiningRoom-500.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -30,10 +30,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://zakarchitecture.com/slides/cluster-house-3/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Tropical-Bedroom-500.jpg"></a>
+		<a href="http://zakarchitecture.com/slides/cluster-house-3/" target="_blank"><img class="img-responsive" alt="" src="~/images/Tropical-Bedroom-500.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.jpwaltersdesign.com/portfolio/hallman-bath/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Tropical-Bathroom-500.jpg"></a>
+		<a href="http://www.jpwaltersdesign.com/portfolio/hallman-bath/" target="_blank"><img class="img-responsive" alt="" src="~/images/Tropical-Bathroom-500.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -41,13 +41,13 @@ End Code
 <p>Neutral tones that highlight the natural beauty of the furnishings are customary, as they bring a sense of peace into the space. Popular colors consist of ivory whites, camel, and soft gold, as well as a variety of lush greens from sage, fern and moss to the earthier olive and avocado. While these make up a solid foundation, splashes of color are almost necessary so as not to become monotonous. Accessories are typically the best way to introduce some fresh colors; the always reliable throw pillows, rugs and framed art make doing so a breeze. Tropical styles are also full of greenery- potted plants and flowers breathe life into any size space. A few examples to try are philodendron, anthurium and ponytail palms as well as amaryllis, bougainvillea and hibiscus flowers. Accessories are also the decor that finishes the room, such as window coverings and flooring.These should also exhibit a natural quality. Window coverings can be breezy linen panels or something that is solid, such as matchstick blinds or plantation shutters. Flooring is commonly wood throughout the home so try adding texture with area rugs of natural fibers, like sisal, for an easy update. Other flooring choices are stone or natural tiles that mimic the outdoors. In the Tropical design style, it is the outdoors that greatly influences the indoors. </p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://finedesignhawaii.com/portfolio/hawaiian-cottage-style/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Tropical-KitchenGreen-500.jpg"></a></div>
+<div align="center"><a href="http://finedesignhawaii.com/portfolio/hawaiian-cottage-style/" target="_blank"><img class="img-responsive" alt="" src="~/images/Tropical-KitchenGreen-500.jpg"></a></div>
 <div class="spacer"></div>
 
 <p>Taking so much inspiration from its natural surroundings, the Tropical design style may not be for everyone. Large and lush, Tropical may be overwhelming for some, however its heart lies on a sunny beach and welcomes us all. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/designthreads/images/Tropical-Collage.jpg"></div>		
+<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/images/Tropical-Collage.jpg"></div>		
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

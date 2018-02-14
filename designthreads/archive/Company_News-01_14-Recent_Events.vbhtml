@@ -11,7 +11,7 @@ End Code
 <div class="spacer-1x"></div>
 <p>Recently, we have welcomed a new showroom to our ranks. Gladly we announce that Harsey &amp; Harsey at the Stonemill Design Center has begun to showcase our line of products. This is our third location with Harsey &amp; Harsey and we are thrilled to be expanding with them. Visit <a href="http://www.harseyandharsey.com" target="_blank">www.harseyandharsey.com</a> for more information. </p>	
 <div class="spacer-1x"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Jan'14-StoneMillDesignCenter.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-Jan'14-StoneMillDesignCenter.jpg"></div>
 <div class="spacer-1x"></div>
 <hr>
 <h4><strong>Regional Sales Meeting</strong></h4>
@@ -20,16 +20,16 @@ End Code
 <div class="spacer"></div>
 <div align="center" class="row">
 	<div class="col-sm-3">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Jan'14-Meeting1.jpg">
+	<img class="img-responsive" alt="" src="~/images/CN-RE-Jan'14-Meeting1.jpg">
 	</div>
 	<div class="col-sm-3">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Jan'14-Meeting2.jpg">
+	<img class="img-responsive" alt="" src="~/images/CN-RE-Jan'14-Meeting2.jpg">
 	</div>
 	<div class="col-sm-3">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Jan'14-CryptonHomeRep.jpg">
+	<img class="img-responsive" alt="" src="~/images/CN-RE-Jan'14-CryptonHomeRep.jpg">
 	</div>
 	<div class="col-sm-3">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Jan'14-OfficeGathering.jpg">	
+	<img class="img-responsive" alt="" src="~/images/CN-RE-Jan'14-OfficeGathering.jpg">	
 	</div>
 </div>	
 <div class="spacer-1x"></div>	
@@ -38,7 +38,7 @@ End Code
 <div class="spacer"></div>
 <p>As our sales representatives learned, Stout has some exciting new 'performance' products. With a few new books due out later this winter, these performance fabrics are already generating quite a buzz! Including Crypton Home&reg;, leathers treated with i-Clean&trade; technology, Sunbrella&reg; as well as a new showroom-only Marcus William&reg; line, these new collections are an exciting expansion to our inventory. </p>
 <div class="spacer-1x"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-MWJanco1.jpg"></div>	
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-MWJanco1.jpg"></div>	
 		
 		
 

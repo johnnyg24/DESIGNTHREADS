@@ -12,11 +12,11 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-homeclassics.jpg"></div>
+	<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-homeclassics.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center">
-	<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-HC-GreenChair.jpg"></div>
+	<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-HC-GreenChair.jpg"></div>
 <div class="spacer"></div>
 
 <h4><strong><a href="~/search/results?page=1&bknum=1352" target="_blank">Home Classics, book 1352</a></strong></h4>
@@ -34,28 +34,28 @@ Presenting over 80 patterns, our Home Classics is designed to work harmoniously 
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/designthreads/images/CN-RE-LateSpring15-John&Bob.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-John&Bob.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring15-John&Bob.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-John&Bob.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/designthreads/images/CN-RE-LateSpring15-LunchTable.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-LunchTable.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring15-LunchTable.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-LunchTable.jpg"></a>
 		</div>
 	<div class="col-md-4">
-		<a href="~/designthreads/images/CN-RE-LateSpring15-MarkC&Drinks.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-MarkC&Drinks.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring15-MarkC&Drinks.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-MarkC&Drinks.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
 
 <div align="center" class="row">
     <div class="col-md-6">
-        <a href="~/designthreads/images/CN-RE-LateSpring15-LunchRoom.jpg" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-LunchRoom.jpg"></a>
+        <a href="~/images/CN-RE-LateSpring15-LunchRoom.jpg" target="_blank">
+        <img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-LunchRoom.jpg"></a>
     </div>
     <div class="col-md-6">
-        <a href="~/designthreads/images/CN-RE-LateSpring15-BillGrilling.jpg" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-BillGrilling.jpg"></a>
+        <a href="~/images/CN-RE-LateSpring15-BillGrilling.jpg" target="_blank">
+        <img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-BillGrilling.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -70,13 +70,13 @@ Presenting over 80 patterns, our Home Classics is designed to work harmoniously 
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/CN-RE-LateSpring15-D4H.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-D4H.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring15-D4H.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-D4H.jpg"></a>
 		<div class="source-link">Cornice Fabric: <a href="~/details?sku=BUDD-4" target="_blank">Buddy 4 Rose</a></div>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg"></a>
 		<div class="source-link">Drapery Fabric: <a href="~/details?sku=CLOV-3" target="_blank">Clover 3 Cottoncandy</a></div>
 	</div>
 </div>
@@ -90,31 +90,31 @@ Presenting over 80 patterns, our Home Classics is designed to work harmoniously 
 
 <div align="center" class="row">
 	<div class="col-md-3">	
-		<a href="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Everyone.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Everyone.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Everyone.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Everyone.jpg"></a>
 		<div class="source-link">Everyone enjoying the retirement party.</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy-Gifts6.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy-Gifts6.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy-Gifts6.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy-Gifts6.jpg"></a>
 		<div class="source-link">The Stout families came together and gifted Kathy this Infinity diamond bracelet as a token of their appreciation, gratitude, and love. </div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-KathyBillBob.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-KathyBillBob.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-KathyBillBob.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-KathyBillBob.jpg"></a>
 		<div class="source-link">Kathy with Bill and Bob Greenawalt</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy&MrGreenawalt.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy&MrGreenawalt.jpg"></a>
+		<a href="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy&MrGreenawalt.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy&MrGreenawalt.jpg"></a>
 		<div class="source-link">Kathy with retired owner Mr. Greenawalt</div>
 	</div>
 </div>	
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy.jpg" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy.jpg"></a>
+    <a href="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy.jpg" target="_blank">
+    <img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring2015-KTK-RetirementParty-Kathy.jpg"></a>
     <div class="source-link">The ever beautiful Kathy Kolb!</div>
 </div>
 

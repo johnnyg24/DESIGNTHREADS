@@ -16,17 +16,17 @@ End Code
 <div class="row" align="center">
     <div class="col-md-4">
         <a href="http://www.metmuseum.org/collection/the-collection-online/search/50231?rpp=30&pg=1&ft=damask&pos=9" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-ChineseTwillDamask-Late8th.jpg">
+            <img class="img-responsive" alt="" src="~/images/History-Damask-ChineseTwillDamask-Late8th.jpg">
         </a>
     </div>
     <div class="col-md-4">
         <a href="http://www.metmuseum.org/collection/the-collection-online/search/70996?rpp=30&pg=1&ft=damask&pos=1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-ChineseDamask-14thC.jpg">
+            <img class="img-responsive" alt="" src="~/images/History-Damask-ChineseDamask-14thC.jpg">
         </a>
     </div>
     <div class="col-md-4">
         <a href="http://www.harvardartmuseums.org/collections/object/215086?position=9" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-SilkDamaskPanels-Late16th.jpg">
+            <img class="img-responsive" alt="" src="~/images/History-Damask-SilkDamaskPanels-Late16th.jpg">
         </a>
     </div>
 </div>
@@ -38,19 +38,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="http://www.harvardartmuseums.org/art/211181" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-SilkDamask-Early17th.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-SilkDamask-Early17th.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.harvardartmuseums.org/collections/object/228526?position=39" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-SilkDamaskCover-Late17th.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-SilkDamaskCover-Late17th.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.metmuseum.org/collection/the-collection-online/search/7586" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-RedSofa.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-RedSofa.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.harvardartmuseums.org/collections/object/214455?position=32" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-SatinDamaskPillow-Late19th.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-SatinDamaskPillow-Late19th.jpg"></a>
 	</div>
 </div>		
 <div class="spacer"></div>
@@ -62,15 +62,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="~/details?sku=ANDA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-Andalucia1Desert.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-Andalucia1Desert.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=BROW-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-Brownsdale3Stone.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-Brownsdale3Stone.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=FRAM-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-Framework1Pear.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-Framework1Pear.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -78,15 +78,15 @@ End Code
 <div class="row" align="center">	
 	<div class="col-md-4">
 		<a href="~/details?sku=NEOP-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-Neophyte2Toast.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-Neophyte2Toast.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=PRES-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-President1Seaglass.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-President1Seaglass.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=UPSW-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Damask-Upswing1Dove.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Damask-Upswing1Dove.jpg"></a>
 	</div>
 </div>		
 <div class="spacer"></div>		

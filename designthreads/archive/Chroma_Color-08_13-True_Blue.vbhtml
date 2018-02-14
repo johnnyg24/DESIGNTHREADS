@@ -20,7 +20,7 @@ End Code
 <p>Below you will find 20 of the coolest blue home goods.</p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Blue-Mix.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Blue-Mix.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

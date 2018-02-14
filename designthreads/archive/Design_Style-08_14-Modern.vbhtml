@@ -17,7 +17,7 @@ End Code
 
 <div align="center">
     <a href="http://designfile.architecturaldigest.com/photo/modern-bedroom-jacobsen-architecture-washington-dc-201102?sponsor=#" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-Bedroom.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedroom.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -26,7 +26,7 @@ End Code
 
 <div align="center">
     <a href="http://designfile.architecturaldigest.com/photo/modern-dining-room-anthony-montalto-new-york-new-york-200609" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-DiningRoom.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-DiningRoom.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -35,7 +35,7 @@ End Code
 
 <div align="center">
     <a href="http://designfile.architecturaldigest.com/photo/modern-media-game-room-jamie-bush-co-goldman-firth-rossi-malibu-california-201003?sponsor=" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-MediaRoom.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-MediaRoom.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -43,26 +43,26 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-LR.jpg">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-LR.jpg">
     <div class="source-link">Room Image Credit: <a href="http://zeroenergy.com/english-modern/lvb0ib7fsztkcgb6g76m7479cmofkk" target="_blank">Zero Energy Design</a></div>
 </div>
 <div class="spacer"></div>
 
 <div class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=SUPP-5" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-Supple5Acorn.jpg"></a>
+		<a href="~/details?sku=SUPP-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Supple5Acorn.jpg"></a>
 		<div class="text-center">Number 1: Supple 5 Acorn</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BEDL-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-Bedlington1Silver.jpg"></a>
+		<a href="~/details?sku=BEDL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedlington1Silver.jpg"></a>
 		<div class="text-center">Number 2: Bedlington 1 Silver</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DORS-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-Dorsett1Linen.jpg"></a>
+		<a href="~/details?sku=DORS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Dorsett1Linen.jpg"></a>
 		<div class="text-center">Number 3: Dorsett 1 Linen</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Modern-Independence5Eggshell.jpg"></a>
+		<a href="~/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Independence5Eggshell.jpg"></a>
 		<div class="text-center">Number 4: Independence 5 Eggshell</div>
 	</div>
 </div>

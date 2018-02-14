@@ -30,10 +30,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/search/results?page=1&bknum=1349" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-InOut-Bk1349.jpg"></a>
+		<a href="~/search/results?page=1&bknum=1349" target="_blank"><img class="img-responsive" alt="" src="~/images/History-InOut-Bk1349.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/search/results?page=1&bknum=1351" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-InOut-Bk1351.jpg"></a>
+		<a href="~/search/results?page=1&bknum=1351" target="_blank"><img class="img-responsive" alt="" src="~/images/History-InOut-Bk1351.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

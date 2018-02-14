@@ -13,7 +13,7 @@ End Code
 <p>Opening its doors back in the 1960's, Sunbrella started with awning fabric and eventually grew to include marine and boating textiles, then outdoor performance furniture upholstery. Dedicating itself to finding better alternatives for outdoor use, Sunbrella has gained the trust of many consumers with its prided durability. Stout is proud to say that we have been a wholesaler of Sunbrella since the 1990's and are still gladly selling their products.</p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/History-Sunbrella-1998.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/History-Sunbrella-1998.jpg"></div>
 <div class="spacer"></div>
 
 <p align="center" style="font-size:x-small">A Stout Brothers warrenty ad that was seen in our Sunbrella sample books in 1998</p>
@@ -27,10 +27,10 @@ End Code
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="~/search/results?page=1&bknum=1349" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Sunbrella-1349.jpg"></a>
+		<a href="~/search/results?page=1&bknum=1349" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Sunbrella-1349.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/search/results?page=1&bknum=1350" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Sunbrella-1350.jpg"></a>
+		<a href="~/search/results?page=1&bknum=1350" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Sunbrella-1350.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

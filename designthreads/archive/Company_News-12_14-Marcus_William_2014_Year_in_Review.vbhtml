@@ -8,7 +8,7 @@ End Code
 
 	
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-logobox.jpg"></div>		
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-logobox.jpg"></div>		
 <div class="spacer"></div>
 
 <p class="opening">@PageData("description")</p>
@@ -24,8 +24,8 @@ End Code
 <div class="spacer-1x"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Janco1.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Janco2.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Janco1.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Janco2.jpg"></div>
 </div>
 <hr/>
 <div class="spacer-1x"></div>
@@ -36,8 +36,8 @@ End Code
 <div class="spacer-1x"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Tsonga1.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Tsonga2.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Tsonga1.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Tsonga2.jpg"></div>
 </div>
 <hr/>		
 <div class="spacer-1x"></div>
@@ -47,7 +47,7 @@ End Code
 <p>A luxurious upholstery and irresistible drapery, Letino is a classic, soft velvet that is reassuringly durable. Reaching 100,000 rubs, this superior collection is perfect for contract use and with 25 opulent shades, will surpass expectations for private home functionality.</p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Letino.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Letino.jpg"></div>
 <hr/>
 <div class="spacer-1x"></div>
 
@@ -57,8 +57,8 @@ End Code
 <div class="spacer-1x"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Althea1-CC.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Althea2-CC.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Althea1-CC.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Althea2-CC.jpg"></div>
 </div>
 <hr/>
 <div class="spacer-1x"></div>
@@ -69,8 +69,8 @@ End Code
 <div class="spacer-1x"></div>
 
 <div class="row" align="center">
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Lamorna1-CC.jpg"></div>
-	<div class="col-md-6"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Lamorna2-CC.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Lamorna1-CC.jpg"></div>
+	<div class="col-md-6"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Lamorna2-CC.jpg"></div>
 </div>
 <hr/>
 <div class="spacer-1x"></div>
@@ -80,7 +80,7 @@ End Code
 <p>Quant is a highly decorative chenille fabric of upholstery weight. The lush chenille yarn rises above the surface in a unique way in which the highs and lows produce a shadowy effect. The viscose chenille produces a luxurious luster that is represented in 25 vibrant colors.</p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Quant.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Quant.jpg"></div>
 <hr/>
 <div class="spacer-1x"></div>
 
@@ -95,7 +95,7 @@ End Code
 The contrasting matt and shiny yarns create depth and subtle shimmer which complements the delicate woven patterns. Luminere is available in 4 stunning shades, highlighted with hints of metallic.</p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Luminere.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Luminere.jpg"></div>
 <div class="spacer"></div>
 
 <p>Now available! View the Luminere collection <a href="http://www.marcuswilliam.com/search/results?page=1&bknum=1386&pp=48" target="_blank">here</a>.</p>
@@ -105,7 +105,7 @@ The contrasting matt and shiny yarns create depth and subtle shimmer which compl
 <p>A unique collection of contemporary trevira fabrics which are suitable for both contract and domestic interiors. Couture combines style and function to create a beautiful range of fabrics that will add colour, texture and pattern into any room. Available in 8 sophisticated shades including smoke, linen, walnut, charcoal, denim, pistachio, plum and raspberry.</p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-MWRecap14-Couture.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-MWRecap14-Couture.jpg"></div>
 <div class="spacer"></div>
 
 <p>Now available! View the Luminere collection <a href="http://www.marcuswilliam.com/search/results?page=1&bknum=1387&pp=48" target="_blank">here</a>.</p>

@@ -16,24 +16,24 @@ End Code
 <div class="row" align="center">
 	<div class="col-sm-6 col-md-3">
 		<a href="~/details?sku=NOST-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-WingedWhimsy-Nostalgia1Citrus.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Nostalgia1Citrus.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="~/details?sku=BAGA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-WingedWhimsy-Bagatelle1Seaside.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Bagatelle1Seaside.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="~/details?sku=SECL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-WingedWhimsy-Secluded1Twig.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Secluded1Twig.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="~/details?sku=VALE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-WingedWhimsy-Valencia1Marine.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Valencia1Marine.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/designthreads/images/WingedWhimsy.jpg"></div>	
+<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/images/WingedWhimsy.jpg"></div>	
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

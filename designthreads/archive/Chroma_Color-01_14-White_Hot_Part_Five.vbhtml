@@ -18,11 +18,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://evensarc.com/project/santa-monica-beach-house" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Bathroom-Beachwood.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Beachwood.jpg"></a>
 	</div>
 		<div class="col-md-6">
 		<a href="https://www.venuereport.com/venue/big-fish-born/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Bathroom-Mirrors.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Mirrors.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -33,15 +33,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-sm-4">
 		<a href="http://www.housebeautiful.com/room-decorating/bathrooms/tips/g1332/unique-creative-bathroom-designs-1212/?slide=28&thumbnails=" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Bathroom-Art.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Art.jpg"></a>
 	</div>
 	<div class="col-sm-4">
 		<a href="http://www.luminosusdesigns.com/portfolio/pleasantville-bathrooms/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Bathroom-Lime.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Lime.jpg"></a>
 	</div>
 	<div class="col-sm-4">
 		<a href="http://www.katedavidsondesign.com/portfolio/residential-design/4-sideroad" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Bathroom-Texture.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Texture.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

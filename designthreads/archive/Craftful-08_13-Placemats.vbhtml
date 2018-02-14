@@ -22,7 +22,7 @@ End Code
 <p align="center">Please click the image for the link!</p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://fabricmutt.blogspot.com/2012/07/patio-place-mat-tutorial.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-Placemats.jpg"></a></div>
+<div align="center"><a href="http://fabricmutt.blogspot.com/2012/07/patio-place-mat-tutorial.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-Placemats.jpg"></a></div>
 <div class="source-link">Source: <a href="http://fabricmutt.blogspot.com/" target="_blank">Fabric Mutt</a> blog; Patio Place Mat Tutorial</div>
 <div class="spacer"></div>
 

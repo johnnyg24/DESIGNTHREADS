@@ -17,11 +17,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://erikabrechtel.com/2012/04/24/interview-designer-gabriel-hendifar/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-DarkChair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-DarkChair.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.architecturaldigest.com/gallery/hubert-zandberg-shirin-elghanayan-london-townhouse-renovation-slideshow#11" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-DeskChair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-DeskChair.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -32,11 +32,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://brookewagnerdesign.com/portfolio/wildlife/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-OpenDR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-OpenDR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.annlowengart.com/traditional-home-magazine-napa-showhouse" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Sofa.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Sofa.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -47,11 +47,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.michaelabrams.com/delaware" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-BR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="https://www.onekingslane.com/live-love-home/nina-farmer-home/?utm_content=nina_farmer_tour_daybed_vertical&utm_medium=social&crlt.pid=camp.tnz5UqmUuEV6&utm_source=pinterest&utm_campaign=room_blog" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Chaise.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Chaise.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -62,11 +62,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/photos/54560315/Rustic-Glam-Bungalow-eclectic-living-room-boise" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-GlamLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-GlamLR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://wilsonfuqua.com/projects/greenbrier/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-OfficeCurtains.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-OfficeCurtains.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -77,19 +77,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=DORS-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Dorsett2Camel.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Dorsett2Camel.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MEND-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Mendoza3Bayberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Mendoza3Bayberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ENTE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Enterprise1Fiesta.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Enterprise1Fiesta.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=SANG-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Sangria1Salmon.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Sangria1Salmon.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		
@@ -97,20 +97,20 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=GUAR-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Guardian3Shadow.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Guardian3Shadow.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=DRAG-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Dragonfly5Sky.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Dragonfly5Sky.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ROSE-10
 " target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Rosemont10Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Rosemont10Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=LUFT-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-FlameStitch-Luftania2Navy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Luftania2Navy.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

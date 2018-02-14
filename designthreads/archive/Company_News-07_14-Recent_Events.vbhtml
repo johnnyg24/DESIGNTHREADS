@@ -7,14 +7,14 @@ End Code
 
 	
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-LiveColorfully.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/RecentEvents-July-LiveColorfully.jpg"></div>
 <div class="spacer-1x"></div>
 <hr />
 <div class="spacer"></div>
 	
 <h4><strong>New Releases, Spring 2014</strong></h4>
 <div class="spacer"></div>			
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-RL18-border.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/RecentEvents-July-RL18-border.jpg"></div>
 <div class="spacer"></div>
 <p><strong>Rainbow Library</strong></p>
 <ul class="list-group no-side-border">
@@ -32,7 +32,7 @@ End Code
 <hr />
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-DenaSassy-border.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/RecentEvents-July-DenaSassy-border.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1365" target="_blank">Dena Home 'Sassy', 1365</a></strong></p>
 <p>Bringing Dena Home Designs back for another collection, our newest offering 'Sassy' is a combination of chic yet playful patterns as well as textural and vivid solids. This book is stylishly smart, perfect for the colorful summer season. </p>
@@ -44,13 +44,13 @@ End Code
 <p>Each year, Stout celebrates the Memorial Day weekend with a barbeque cookout on Friday. Everyone participates in some way by bringing in homemade goodies or the necessary supplies. It is a wonderful way to kick off the long holiday weekend. </p>
 <div class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-JohnGrilling.jpg">
+		<img class="img-responsive" alt="" src="~/images/RecentEvents-July-JohnGrilling.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-MemDayBurgers.jpg">
+		<img class="img-responsive" alt="" src="~/images/RecentEvents-July-MemDayBurgers.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/RecentEvents-July-MemDayFood.jpg">
+		<img class="img-responsive" alt="" src="~/images/RecentEvents-July-MemDayFood.jpg">
 	</div>
 </div>
 <hr />

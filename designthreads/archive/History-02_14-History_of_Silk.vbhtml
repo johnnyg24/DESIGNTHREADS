@@ -13,7 +13,7 @@ End Code
 <p>Silk, probably first used as early as 4000 BC, begins its full story sometime in the 27th century BC. It was at this time that the Chinese legend of the Goddess of Silk came to be. The wife of the Yellow Emperor, who ruled around 3000 BC, had the idea to weave silk after a cocoon fell into her tea and unwound itself. At her husband's urging, she began the art of raising silkworms, known as sericulture.</p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://hubpages.com/hub/The-Shiny-History-of-Silk#" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-GoddessOfSilk.jpg"></a></div>
+<div align="center"><a href="http://hubpages.com/hub/The-Shiny-History-of-Silk#" target="_blank"><img class="img-responsive" alt="" src="~/images/Silk-500-GoddessOfSilk.jpg"></a></div>
 <div class="spacer"></div>
 
 <p>Silk began its impressive journey long ago, but not just in China. Archeologists have found silk in the Egyptian tomb of a female mummy located near the Valley of Kings that dates to 1070 BC. Similarly, a room at the Caves of the Thousand Buddhas, near Dunhuang, Western China- was discovered to have been sealed with more than ten thousand manuscripts and silk banners, paintings, and textiles inside, all of which are from around 1015 BC. The high demand for this luxury textile in places west of China is how the trade route known as the 'Silk Road' came to be. Beginning in the 2nd century CE, it offered two routes to the Chinese, who then wished to sell and trade their precious silk goods. This was a long time coming though as silk had previously been restricted by an imperial decree in China, to be made and used only by the Emperor and wealthy families. Anyone who dared to break this decree faced the death penalty. It wasn't until 300 CE that the first silkworms and cocoons were smuggled out of China and into Japan, along with four Chinese girls who were forced into teaching the art of sericulture. This ended the nearly millennium long monopoly that China had on the silk trade.</p>
@@ -22,15 +22,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="https://depts.washington.edu/silkroad/museums/bm/bmdunhuang.html" target="_blank">		
-        <img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-CaveThousandBuddhas-Banner.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/Silk-500-CaveThousandBuddhas-Banner.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://smithsonianscience.org/2011/09/smithsonian-scientists-devise-new-technique-for-dating-silk/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-ChineseWarringStates-Fragment.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-ChineseWarringStates-Fragment.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://people.hofstra.edu/geotrans/eng/ch2en/conc2en/silkroad.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-SilkRoadMap.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-SilkRoadMap.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -41,15 +41,15 @@ End Code
 <div class="row" align="center">	
 	<div class="col-md-4">
 		<a href="http://artquill.blogspot.com/2013/05/early-textile-art-artcloth-marie.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-SilkTwill.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-SilkTwill.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/!ut/p/a1/pZDLTsMwEEV_pV1kaezYeS6tgJAqlUAQapxNNHEeNU3stLGAz8fZsSkPMauZ0ejMvRdXuMSVhjc1gFVGw7jOVVTnnEc-y8guz8JbwvPiMSyyh3viB_iAK1yNesCi02srtZ3tEYsTTGqpO-2Rd3M5LRvTb-BiPULDG9fII3RmNIOSMK571YO0i0cCFsVJunJmqVosGtpTaBpALJEUBdJvUUqaGNGWhSmTkMYkdhqF00iuFCe_svA9QbgX8TVGtKf4eWUcsn399HJXuOsvifzBye4nqc6qej2fK-6CNtp2HxaX_0p6nqaETagkCETCwnHg2-0nC8xyAQ!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?lng=en" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-ByzantineSilk.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-ByzantineSilk.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.vam.ac.uk/content/articles/t/the-silk-road-finds-map-1/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-KarakhojaDyedSilk.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-KarakhojaDyedSilk.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -60,15 +60,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="http://commons.wikimedia.org/wiki/File:Meister_nach_Chang_Hs%C3%BCan_001.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-OrientalLadies.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-OrientalLadies.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.metmuseum.org/toah/works-of-art/1988.296/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-EasternAsia.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-EasternAsia.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.buzzle.com/articles/inventions-of-the-1800s.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Silk-500-JacquardLoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Silk-500-JacquardLoom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

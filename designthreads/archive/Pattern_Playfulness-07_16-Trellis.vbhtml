@@ -14,11 +14,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="https://www.hudsoninteriordesigns.com/#/westnewtonproject1revisited/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-DR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-DR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.highgatehouse.com.au/projects/sunshine-coast-residence/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Porch.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Porch.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -29,15 +29,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="https://www.houzz.com.au/photos/6494935/bold-living-room-transitional-living-room-indianapolis" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-LR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.atmosphereid.ca/#!/portfolio-view/hospital-home-lottery-fall-2013/?rl" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Bedroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.petercorcoran.com/interiors2/luxury-residential-dining-chair" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-DiningChairs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-DiningChairs.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -48,15 +48,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="~/details?sku=COSB-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Cosby2Shrimp.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Cosby2Shrimp.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=ELMW-8" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Elmwood8Pearl.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Elmwood8Pearl.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=KAKA-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Kakapi3Hemp.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Kakapi3Hemp.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -64,15 +64,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="~/details?sku=VILL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Villager1Aqua.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Villager1Aqua.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=SCRU-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Scrunch1Seacrest.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Scrunch1Seacrest.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=CROI-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Croix1Bay.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Croix1Bay.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -80,15 +80,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="~/details?sku=WOLL-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Wollastan3Lime.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Wollastan3Lime.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=ALBA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Albany1Lapis.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Albany1Lapis.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=AUBU-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Trellis-Auburn2Silver.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Auburn2Silver.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>			

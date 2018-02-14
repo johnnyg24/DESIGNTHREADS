@@ -12,7 +12,7 @@ End Code
 
 <div align="center">
     <a href="https://www.houzz.com/photos/2903830/Princeton-Home-traditional-bedroom-new-york" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-GoldenBR.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-GoldenBR.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -22,19 +22,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="https://www.houzz.com/photos/328972/I-M-Pei-Building-contemporary-bedroom-new-york" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-LavenderBR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-LavenderBR.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="https://www.houzz.com/photos/1051438/Alabama-Lake-Home-traditional-bedroom-birmingham" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-BrownBR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-BrownBR.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.streeterhomes.com/new_projects.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-BlueLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-BlueLR.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="https://www.pacificainteriordesign.com/portfolio/lakewood-ranch/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-NavyLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-NavyLR.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -45,27 +45,27 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=ELIX-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-Elixir1Garden.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Elixir1Garden.jpg"></a>
 		Elixir 1 Garden
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=DELE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-Delegate1Beige.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Delegate1Beige.jpg"></a>
 		Delegate 1 Beige
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=CATE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-Category1Mocha.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Category1Mocha.jpg"></a>
 		Category 1 Mocha
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=ELAN-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-Elante1Orchid.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Elante1Orchid.jpg"></a>
 		Elante 1 Orchid
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=PIDC-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-Pidcock2Federal.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Pidcock2Federal.jpg"></a>
 		Pidcock 2 Federal
 	</div>
 </div>
@@ -74,34 +74,34 @@ End Code
 <p>Appearing in interiors from French Country to Modern, the buffalo check coordinates incredibly well with a number of designs. Its balanced repitition providing a strong, yet subtle visual, the buffalo check doesn't compete with its surroundings. Natural colored selections can easily be considered a grounding neutral while the vibrant, contrasting buffalo checks create a graphic focal point. However it is used, the buffalo check remains strong in interior design. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR.jpg"></div>
 <div class="source-link">Image via: House of Turquoise; Interior Design: M. Barnes &amp; Co.; <a href="http://www.houseofturquoise.com/2015/03/m-barnes-and-co.html" target="_blank">Sebastian residence</a>, Athens, Texas</div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=VISS-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR-Visso2Seaspray.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Visso2Seaspray.jpg"></a>
 		Number 1. Visso 2 Seaspray
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=ABBO-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR-Abbott3Seafoam.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Abbott3Seafoam.jpg"></a>
 		Number 2. Abbott 3 Seafoam
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=NEWH-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR-Newhaven5Cream.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Newhaven5Cream.jpg"></a>
 		Number 3. Newhaven 5 Cream
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=CATE-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR-Category2Spa.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Category2Spa.jpg"></a>
 		Number 4. Category 2 Spa
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=FOXB-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-BuffaloCheck-SeagreenBR-Foxboro1Harbor.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Foxboro1Harbor.jpg"></a>
 		Number 5. Foxboro 1 Harbor
 	</div>
 </div>

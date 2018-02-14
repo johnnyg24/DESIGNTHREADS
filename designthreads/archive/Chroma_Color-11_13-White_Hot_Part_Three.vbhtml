@@ -12,7 +12,7 @@ End Code
 
 <div align="center">
     <a href="http://www.taraseawright.com/interiors/#/interior-3/" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-Yellow.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-Yellow.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -22,15 +22,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.lorismyth.com/lori-smyth-design/1ctuipmsc83ro0de0vzvyjt5yrl9ec" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-SubwayTile.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-SubwayTile.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://cgapartners.net/portfolio?album=1&gallery=62" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-ColoredCeiling.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-ColoredCeiling.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.atlantahomesmag.com/article/perfect-pitch#photos" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-DarkEclectic.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-DarkEclectic.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -38,11 +38,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://caracasa.com/velux/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-OrangeChairs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-OrangeChairs.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.amytrowmandesign.com/#!pettigrew-ave/c20yx " target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-Kitchen-Wood.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-Wood.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>			

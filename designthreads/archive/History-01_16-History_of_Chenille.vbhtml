@@ -17,7 +17,7 @@ End Code
 <p>While chenille was leading the way in carpetry though parts of Europe, in the United States it was slowly becoming a trending textile for home goods. During the 1890's, a young woman named Catherine Evans (later adding Whitener) took a fascination with a family heirloom quilt made with the old process of 'candlewicking'. While this style of quilting had long since fallen out of style, its plushness inspired Catherine to recreate it herself. After trial and error, she was able to develop an easier, more efficient method of creating such beautiful handiwork. Family and friends admired her works of art and before long, Catherine had the beginnings of a business under way. Teaching local women how to make her now well-known chenille quilts is said to be the reason for its rapid growth in popularity. Spreading through the southern states of Georgia, Tennessee, and the Carolina's, these chenille products were soon picked up by retailers and the industrial movement of chenille began its journey. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-TuftedBedspreads.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/History-Chenille-TuftedBedspreads.jpg"></div>
 <div class="spacer"></div>
 
 <p>By the 1920's and 30's, Catherine Evans' hometown of Dalton, Georgia had become known as the 'Tufted Bedspread Capital' of the US. Demand grew for this plush novelty and soon it saw its way into throw blankets, bathmats, and more. As its popularity grew, retailers found that the 'spread houses' and handiwork of the original students of Catherine Evans were not efficient enough. Shifting from farm homes to factories, companies were now allowed greater control and productivity, encouraged by the wage and hour provisions of the National Recovery Administration's tufted bedspread code. While this minor industry had supplied countless incomes for many during the Great Depression, it had outgrown its homegrown roots. </p>
@@ -27,13 +27,13 @@ End Code
 
 <div class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Pattern1.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Pattern1.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Pattern2.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Pattern2.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Pattern3.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Pattern3.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -46,38 +46,38 @@ End Code
 <div class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=SKYR-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Skyron2Raisin.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Skyron2Raisin.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ANTH-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Anthony2Honey.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Anthony2Honey.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=APPA-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Appaloosa6Melon.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Appaloosa6Melon.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=THIS-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Thistle5Jonquil.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Thistle5Jonquil.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
 <div class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=BEAS-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Beast2Palm.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Beast2Palm.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TUSC-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Tuscany1Lagoon.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Tuscany1Lagoon.jpg"></a>
 	</div>
 	<div class="col-md-3">
 			<a href="~/details?sku=COMM-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Commerce1Violet.jpg"></a>	
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Commerce1Violet.jpg"></a>	
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=WAGO-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Chenille-Wagon1Oyster.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Chenille-Wagon1Oyster.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

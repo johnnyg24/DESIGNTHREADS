@@ -16,11 +16,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.getty.edu/art/collection/objects/5416/attributed-to-etienne-meunier-menuisier-desk-chair-fauteuil-de-cabinet-french-about-1735/?dz=#ae40ccfdc459f7b2c8de31051fb5c5dc7fccbe1c" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-500-1735DeskChair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Leather-500-1735DeskChair.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.gutenberg.org/files/12254/12254-h/12254-h.htm" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-500-17thCenturyChair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Leather-500-17thCenturyChair.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -31,10 +31,10 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.metmuseum.org/toah/works-of-art/1995.164" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-500-1850Armchair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Leather-500-1850Armchair.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-500-18thCenturyChair.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-Leather-500-18thCenturyChair.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -44,11 +44,11 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-19thCentury-Sofa.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-Leather-19thCentury-Sofa.jpg">
 	</div>
 	<div class="col-md-6">
 		<a href="http://grahamarader.blogspot.com/2012/05/pair-of-handsome-english-leather.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Leather-19thCentury-VictorianChairs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Leather-19thCentury-VictorianChairs.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

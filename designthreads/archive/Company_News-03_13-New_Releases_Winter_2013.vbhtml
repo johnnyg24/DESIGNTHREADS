@@ -11,7 +11,7 @@ End Code
 <div class="spacer-1x"></div>
 <hr>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Winter'13-Gladwyne.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Winter'13-Gladwyne.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1310" target="_blank">Gladwyne Estates</a>, Book 1310</strong></p>
@@ -20,7 +20,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Winter'13-Celebrations.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Winter'13-Celebrations.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1313" target="_blank">Celebrations</a>, Book 1313</strong></p>
@@ -29,7 +29,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Winter'13-CottonComfort.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Winter'13-CottonComfort.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1315" target="_blank">Cotton Comfort</a>, Book 1315</strong></p>
@@ -38,7 +38,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Winter'13-3BkTrio.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Winter'13-3BkTrio.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Solids Series</strong></p>

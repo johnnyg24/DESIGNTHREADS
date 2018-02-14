@@ -13,11 +13,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.home-designing.com/2015/02/an-architects-attic-apartment-with-custom-furniture" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-Kitchen.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-Kitchen.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.home-designing.com/2015/05/three-dark-colored-loft-apartments-with-exposed-brick-walls" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-Kitchen2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-Kitchen2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -28,11 +28,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.raddesign.com/projects/#/photo-loft/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LivingArea2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LivingArea2.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.home-designing.com/2015/02/minimalist-apartment-with-maximum-function-and-style" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LivingArea3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LivingArea3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -43,11 +43,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/projects/1027163/urban-industrial-living" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-BR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.oliverburns.com/portfolio/private-residences/loft-apartment/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-DR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-DR.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -58,11 +58,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="https://www.tonic.cc/carson-woolstore" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LivingArea.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LivingArea.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.habaytashop.co.il/%D7%94%D7%91%D7%99%D7%AA%D7%94-%D7%AA%D7%9E%D7%99-%D7%A2%D7%A9%D7%A8%D7%AA" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LivingArea4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LivingArea4.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -74,11 +74,11 @@ While urban designs have mastered making every inch count, this style may not be
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.groundswelldesigngroup.com/projects/philadelphia-penthouse-apartment" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://reikodesign.com/projects/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Urban-LivingArea5.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Urban-LivingArea5.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

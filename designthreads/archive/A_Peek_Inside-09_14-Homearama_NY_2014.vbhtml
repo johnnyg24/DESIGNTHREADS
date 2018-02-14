@@ -21,61 +21,61 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-SecondBedroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-SecondBedroom.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-SecondBedroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-SecondBedroom.jpg"></a>
 		<div class="text-center"><a href="~/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="~/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
 		</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Bathroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Bathroom.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Bathroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Bathroom.jpg"></a>
 		<div class="text-center"><a href="~/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="~/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
 		</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>			
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Office.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Office.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Office.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Office.jpg"></a>
 		<div class="text-center"><a href="~/details?sku=ILLO-1" target="_blank">Illogical 1 Grey</a>; <a href="~/details?sku=THYM-5" target="_blank">Thyme 5 Ash</a></div>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Office-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Office-Cornice.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Office-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Office-Cornice.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>	
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-LaundryRoom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-LaundryRoom.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-LaundryRoom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-LaundryRoom.jpg"></a>
 		<div class="text-center"><a href="~/details?sku=ELOQ-2" target="_blank">Eloquence 2 Fawn</a></div>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Stairway.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Stairway.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Stairway.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Stairway.jpg"></a>
 		<div class="text-center"><a href="~/details?sku=ACOR-4" target="_blank">Acorn 4 Cement</a></div>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/API-HomearamaShowhouse-Stairway-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-Stairway-Valance.jpg"></a>
+		<a href="~/images/API-HomearamaShowhouse-Stairway-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Stairway-Valance.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
 
 <p>Thank you to Deborah for sharing her beautiful creations. For more information on her business, visit her webpage: <a href="http://www.treatmentsforyourpanes.com" target="_blank">Treatments For Your Panes</a>.</p>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/API-HomearamaShowhouse-TreatmentsforYourPanes-Logo.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-TreatmentsforYourPanes-Logo.jpg"></div>
 <div class="spacer"></div>		
 		
 		

@@ -19,20 +19,20 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-DesignCenter-MB1.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-DesignCenter-MB1.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-DesignCenter-MB2.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-DesignCenter-MB2.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-DesignCenter-Bins.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-DesignCenter-Bins.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-DesignCenter-Books.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-DesignCenter-Books.jpg">
 	</div>
 </div>
 <div class="spacer"></div>

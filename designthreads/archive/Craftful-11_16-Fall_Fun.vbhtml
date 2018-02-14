@@ -18,7 +18,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://thermoweb.com/blog/fusible-fleece-patchwork-acorn-potholder/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FallFun-AcornPotHolders.jpg"></a></div>
+<div align="center"><a href="http://thermoweb.com/blog/fusible-fleece-patchwork-acorn-potholder/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FallFun-AcornPotHolders.jpg"></a></div>
 <div class="source-link">Source: <a href="http://thermoweb.com/blog/" target="_blank">Thermoweb</a> blog; Fusible Fleece Patchwork Acorn Potholder</div>
 <div class="spacer"></div>
 <p>Tis the season for baking and cooking. With so many delectable goodies coming out of the kitchen they will surely need a place on the table. Craft a few of these sweet little pot-holders to impress your crowd.  Down-home and made with love, both the pot-holders and your treats are sure to please. </p>
@@ -26,7 +26,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.triedandtrueblog.com/fabric-napkin-bread-warmer/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FallFun-BreadWarmerNapkin.jpg"></a></div>
+<div align="center"><a href="http://www.triedandtrueblog.com/fabric-napkin-bread-warmer/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FallFun-BreadWarmerNapkin.jpg"></a></div>
 <div class="source-link">Source: <a href="http://www.triedandtrueblog.com/" target="_blank">Tried &amp; True</a> blog; Fabric Napkin Bread Warmer</div>
 <div class="spacer"></div>
 <p>Let's be honest, when you think of Thanksgiving you think of a homemade feast. Add a touch of handmade love to the table this year with a bread warmer napkin. A modern update on a traditional item, this little project is sure to please. </p>
@@ -34,7 +34,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://goinghometoroost.com/2010/diy-craft-projects/diy-project-fabric-leaf-bowls/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FallFun-LeafBowls.jpg"></a></div>
+<div align="center"><a href="http://goinghometoroost.com/2010/diy-craft-projects/diy-project-fabric-leaf-bowls/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FallFun-LeafBowls.jpg"></a></div>
 <div class="source-link">Source: <a href="http://goinghometoroost.com/" target="_blank">Going Home to Roost</a>; DIY Project: Fabric Leaf Bowls</div>
 <div class="spacer"></div>
 <p>Another craftful addition to the table is the plain-and-simple leaf bowl. Plain leaves transform into simple yet useful table decor. Perfect for small snacks like nuts or trinkets like seasonal acorns, we're certain you'll fall for these seasonal leafy sensations. </p>
@@ -42,7 +42,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://auntreensplace.blogspot.com/2013/11/pinecone-ornament-pattern.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FallFun-Pinecone.jpg"></a></div>
+<div align="center"><a href="http://auntreensplace.blogspot.com/2013/11/pinecone-ornament-pattern.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FallFun-Pinecone.jpg"></a></div>
 <div class="source-link">Source: <a href="http://auntreensplace.blogspot.com/" target="_blank">Aunt Reen's Place</a> blog; Pincone Ornament Pattern</div>
 <div class="spacer"></div>
 <p>Find some seasonal decor inspiration in Mother Nature. The outdoors are abundant with beautiful sights. Add a few crafty, festive pinecones to bring a sense of cozy, woodland comfort. This fall let your home reflect the peace of the season. </p>
@@ -50,7 +50,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.marvelouslymessy.com/2013/11/fabric-thanksgiving-turkey-pillow.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FallFun-TurkeyPillow.jpg"></a></div>
+<div align="center"><a href="http://www.marvelouslymessy.com/2013/11/fabric-thanksgiving-turkey-pillow.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FallFun-TurkeyPillow.jpg"></a></div>
 <div class="source-link">Source: <a href="http://www.marvelouslymessy.com/" target="_blank">Marvelously Messy</a>; Fabric Thanksgiving Turkey Pillow Tutorial</div>
 <div class="spacer"></div>
 <p>There's no better way to celebrate the joy of the Thanksgiving holiday than with a little light-hearted cheer. Create your own turkey pillow and let the laughter reign. Good times and good fun are found when you fill your home with love. </p>

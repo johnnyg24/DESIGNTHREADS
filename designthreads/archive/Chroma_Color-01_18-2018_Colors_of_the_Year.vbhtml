@@ -19,34 +19,34 @@ End Code
 <p><strong>PANTONE</strong></p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-PantoneBanner.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-2018CotY-PantoneBanner.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Ultra Violet</strong></p>
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=DETW-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-Pantone-Detweiler6Mulberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-Pantone-Detweiler6Mulberry.jpg"></a>
 		<div class="text-center">Detweiler 6 Mulberry</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=BRIO-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-Pantone-Brio2Peony.jpg"></a>		
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-Pantone-Brio2Peony.jpg"></a>		
 		<div class="text-center">Brio 2 Peony</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=CHOR-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-Pantone-Chorus4Iris.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-Pantone-Chorus4Iris.jpg"></a>
 		<div class="text-center">Chorus 4 Iris</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=COMM-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-Pantone-Commerce1Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-Pantone-Commerce1Violet.jpg"></a>
 		<div class="text-center">Commerce 1 Violet</div>	
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=SHAR-15" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-Pantone-Sharon15Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-Pantone-Sharon15Violet.jpg"></a>
 		<div class="text-center">Sharon 15 Violet</div>
 	</div>
 </div>
@@ -64,34 +64,34 @@ End Code
 <p><strong>BENJAMIN MOORE</strong></p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BMBanner2.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-2018CotY-BMBanner2.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Caliente</strong></p>
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=TANY-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BM-Tanya2Bordeaux.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-BM-Tanya2Bordeaux.jpg"></a>
 		<div class="text-center">Tanya 2 Bordeaux</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=BUGL-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BM-Bugle2Garnet.jpg"></a>		
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-BM-Bugle2Garnet.jpg"></a>		
 		<div class="text-center">Bugle 2 Garnet</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=SONI-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BM-Sonic2Rosewood.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-BM-Sonic2Rosewood.jpg"></a>
 		<div class="text-center">Sonic 2 Rosewood</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=HAYR-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BM-Hayride3Wine.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-BM-Hayride3Wine.jpg"></a>
 		<div class="text-center">Hayride 3 Wine</div>	
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=FOUL-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-BM-Foulard3Cabernet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-BM-Foulard3Cabernet.jpg"></a>
 		<div class="text-center">Foulard 3 Cabernet</div>
 	</div>
 </div>
@@ -109,34 +109,34 @@ End Code
 <p><strong>SHERWIN WILLIAMS</strong></p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SWBanner.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-2018CotY-SWBanner.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Oceanside</strong></p>
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=LUXE-34" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SW-Luxe34Teal.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-SW-Luxe34Teal.jpg"></a>
 		<div class="text-center">Luxe 34 Teal</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=MACK-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SW-Mack3Ink.jpg"></a>		
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-SW-Mack3Ink.jpg"></a>		
 		<div class="text-center">Mack 3 Ink</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=SPLE-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SW-Splendid4Slate.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-SW-Splendid4Slate.jpg"></a>
 		<div class="text-center">Splendid 4 Slate</div>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=KEDG-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SW-Kedge1Cornflower.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-SW-Kedge1Cornflower.jpg"></a>
 		<div class="text-center">Kedge 1 Cornflower</div>	
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=NINA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2018CotY-SW-Nina1Cobalt.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2018CotY-SW-Nina1Cobalt.jpg"></a>
 		<div class="text-center">Nina 1 Colbalt</div>
 	</div>
 </div>

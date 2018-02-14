@@ -13,7 +13,7 @@ End Code
 <p> Available in various styles, the flip-flop is perfect for almost any warm weather ensemble. So why not make a pair to match your favorite outfit? This simple tutorial will show you how to make plain-jane plastic flip-flops into something more fabulous. Requiring only a few minutes of your time, making one-of-a-kind flip-flops may become your favorite summer activity (behind showing them off at the beach, of course!). </p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.practicallyfunctional.com/how-to-make-fabric-flip-flops/#_a5y_p=2022645" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-FabricFlipFlops.jpg"></a></div>
+<div align="center"><a href="http://www.practicallyfunctional.com/how-to-make-fabric-flip-flops/#_a5y_p=2022645" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-FabricFlipFlops.jpg"></a></div>
 <div class="source-link"><a href="http://www.practicallyfunctional.com" target="_blank">Practically Functional</a> blog; How To Make Fabric Flip Flops</div>
 <div class="spacer"></div>
 

@@ -13,7 +13,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-Charisma2.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-Charisma2.jpg"></div>
 <div class="spacer"></div>
 <p><strong>Comfortable Living, <a href="~/search/results?page=1&bknum=1328" target="_blank">Charisma</a>, Book 1328</strong></p>
 <p>Let us allure you with Charisma, the newest addition to Comfortable Living. Featuring a southwestern flair, this collection will dazzle you with its dynamic patterns. The assortment of striking Ikat's and Florals in rich jewel tones is simply captivating. From eye-catching golds to fiesta reds, these fabrics will liven up any room!</p>
@@ -21,7 +21,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-RLvol17.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-RLvol17.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Rainbow Library, Volume 17</strong></p>

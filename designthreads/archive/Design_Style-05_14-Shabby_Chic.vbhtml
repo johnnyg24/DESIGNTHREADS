@@ -15,10 +15,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://wwwcutepinkstuffcom.blogspot.com/2012/03/its-here.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-Bedroom.jpg"></a>
+		<a href="http://wwwcutepinkstuffcom.blogspot.com/2012/03/its-here.html" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-ShabbyChic-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.facebook.com/photo.php?fbid=10208546277517748&set=pb.1332771969.-2207520000.1493825362.&type=3&theater" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-Kitchen2.jpg"></a>
+		<a href="https://www.facebook.com/photo.php?fbid=10208546277517748&set=pb.1332771969.-2207520000.1493825362.&type=3&theater" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-ShabbyChic-Kitchen2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -28,10 +28,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://fadedcharmcottage.blogspot.com/2013/08/a-romantic-vision.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-Bathroom.jpg"></a>
+		<a href="http://fadedcharmcottage.blogspot.com/2013/08/a-romantic-vision.html" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-ShabbyChic-Bathroom.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-FamilyRoom2.jpg">
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-ShabbyChic-FamilyRoom2.jpg">
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -39,11 +39,11 @@ End Code
 <p>Being born out of the English country-side, 'Shabby Chic' is also known by other names, such as Cottage, Romantic Country or Gustavian (Swedish). It is this diverse decorating style that makes 'Shabby Chic' friendly to everyone's personal design tastes. Airy and full of life, 'Shabby Chic' is the perfect design style for the Spring season as the world awakens and becomes full of color and life. </p>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://theoldpaintedcottage.com/pages/cotm-aug-2012.htm" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-DiningRoom.jpg"></a></div>
+<div align="center"><a href="http://theoldpaintedcottage.com/pages/cotm-aug-2012.htm" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-ShabbyChic-DiningRoom.jpg"></a></div>
 <div class="spacer"></div>
 <hr />
 
-<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/designthreads/images/DesignStyle-ShabbyChic-Collage.jpg"></div>
+<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/images/DesignStyle-ShabbyChic-Collage.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

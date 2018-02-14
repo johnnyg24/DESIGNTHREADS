@@ -13,15 +13,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="http://www.housebeautiful.com/design-inspiration/house-tours/g1773/feminine-palm-beach-apartment/?slide=1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-LR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.mmagazinemilwaukee.com/index.php?src=gendocs&ref=SeasonsofChange%20" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Chair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Chair.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.lonny.com/photos/Betsy+Burnham/NhviQbl1Qdp" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-WindowSeat.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-WindowSeat.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -32,15 +32,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="http://www.colleenknowles.com/work/#/greenbriar-lane/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-BR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.houzz.com/photos/1409034/Nantucket-MA-Residence-eclectic-bedroom-other-metro" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-BR2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-BR2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://ibbdesign.com/studyhome-office/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-SittingCorner.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-SittingCorner.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -51,19 +51,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=BRYC-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Bryce2Cranberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Bryce2Cranberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=HABE-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Haberdash4Mango.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Haberdash4Mango.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=SOLS-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Solstice1Tile.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Solstice1Tile.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ALCU-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Alcurzio1Amber.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Alcurzio1Amber.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -71,19 +71,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=TACT-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Tactile2Harbor.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Tactile2Harbor.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=OSAG-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Osage1Turquoise.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Osage1Turquoise.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=SWEL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Swelter1Navy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Swelter1Navy.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ABLE-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Ikat-Able6Navy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Able6Navy.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

@@ -13,33 +13,33 @@ End Code
 <p>Palettes of well-defined colors are coordinated to create color schemes that spark our imagination. Within these schemes one color is chosen to represent the new year. Fresh, revitilizing, and provoking, this color is the creative sum of all things in the design industry. Just as the year is ready to renew itself, so is our inspiration with these color predictions. </p> 
 <div class="spacer"></div>
 		
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Marsala.jpg"></div>			
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Marsala.jpg"></div>			
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=SUPP-8" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Supple8Spice.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Supple8Spice.jpg"></a>
         <div class="text-center">Supple 8 Spice</div>
    </div>
 	<div class="col-md-2">
         <a href="~/details?sku=COLB-2" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Colbert2Berry.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Colbert2Berry.jpg"></a>
         <div class="text-center">Colbert 2 Berry</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=HENL-2" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Henley2Punch.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Henley2Punch.jpg"></a>
         <div class="text-center">Henley 2 Punch</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=OAKM-2" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Oakmont2Grenadine.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Oakmont2Grenadine.jpg"></a>
         <div class="text-center">Oakmont 2 Grenadine</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=ROSE-3" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-Pantone-Rosemont3Cranberry.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-Pantone-Rosemont3Cranberry.jpg"></a>
         <div class="text-center">Rosemont 3 Cranberry</div>
     </div>
 </div>
@@ -49,33 +49,33 @@ End Code
 <hr />
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-BM-GuilfordGreen-Bdrm.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-BM-GuilfordGreen-Bdrm.jpg"></div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=TRAV-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-Traverse1Mist.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-Traverse1Mist.jpg"></a>
         <div class="text-center">Traverse 1 Mist</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=FALA-4" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-Falabella3Balsam.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-Falabella3Balsam.jpg"></a>
         <div class="text-center">Falabella 4 Balsam</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=GLAS-3" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-Glasgow3Shoreline.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-Glasgow3Shoreline.jpg"></a>
         <div class="text-center">Glasgow 3 Shoreline</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=POME-4" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-Pomelo4Fern.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-Pomelo4Fern.jpg"></a>
         <div class="text-center">Pomelo 4 Fern</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=BENG-2" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-Coty15-BM-Bengali2Seacrest.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-Coty15-BM-Bengali2Seacrest.jpg"></a>
         <div class="text-center">Bengali 2 Seacrest</div>
     </div>
 </div>
@@ -85,33 +85,33 @@ End Code
 <hr />
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-CoralReefLR.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-CoralReefLR.jpg"></div>
 <div class="spacer-1x"></div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=GRAN-49" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-Grand49Pottery.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-Grand49Pottery.jpg"></a>
         <div class="text-center">Grand 49 Pottery</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=BABE-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-Babe1Blossom.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-Babe1Blossom.jpg"></a>
         <div class="text-center">Babe 1 Blossom</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=BENC-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-Benchmark1Melon.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-Benchmark1Melon.jpg"></a>
         <div class="text-center">Benchmark 1 Melon</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=SEDA-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-Sedalia1Spring.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-Sedalia1Spring.jpg"></a>
         <div class="text-center">Sedalia 1 Spring</div>
     </div>
 	<div class="col-md-2">
         <a href="~/details?sku=MORA-1" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/CC-CotY15-SW-Morale1Delft.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/CC-CotY15-SW-Morale1Delft.jpg"></a>
         <div class="text-center">Morale 1 Delft</div>
     </div>
 </div>

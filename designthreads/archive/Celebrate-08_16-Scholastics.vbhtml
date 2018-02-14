@@ -16,15 +16,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.richardsonarchitects.com/porfolio/residential/creekside-retreat/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW1.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.houzz.com.au/photos/11784517/the-farmhouse-country-home-office-austin" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW5.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW5.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/10160889/50s-Refreshed-traditional-home-office-minneapolis" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW6.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW6.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -35,15 +35,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/13495025/South-Beach-Teen-Room-contemporary-kids-richmond" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW7.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW7.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/587870/Guest-Bedroom-with-Couples-Shared-Office-traditional-bedroom-los-angeles" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW4.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/13608862/Jordan-Hall-traditional-kids-other" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW8.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW8.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -54,15 +54,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.alinadrugainteriors.com/san-francisco-mid-century-modern.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW9.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW9.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.friendly-home.net/2010/12/big-birthday-reveal-part-two.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW3.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.ana-white.com/2015/03/DIY_furniture/four-station-desk-pb-inspired" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Scholastics-HW2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Scholastics-HW2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

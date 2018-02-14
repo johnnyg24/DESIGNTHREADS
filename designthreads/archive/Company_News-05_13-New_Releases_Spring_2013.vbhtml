@@ -12,7 +12,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring'13-MW.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring'13-MW.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Marcus William&reg; <a href="//www.marcuswilliam.com/search/results?page=1&bknum=1341" target="_blank">Intrigue, Book 1341</a>      </strong></p>
@@ -22,7 +22,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring'13-CMW.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring'13-CMW.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Color My Window</strong>, Drapery Solids</p>

@@ -20,22 +20,22 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.inmod.com/blissliving-home-chanda-duvet-set.html#" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-2014Pred-Ethnic-Bedset.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-2014Pred-Ethnic-Bedset.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-2014Pred-Ethnic-Clock.jpg">
+		<img class="img-responsive" alt="" src="~/images/Trends-2014Pred-Ethnic-Clock.jpg">
 	</div>
 	<div class="col-md-2">
 		<a href="http://straydogdesigns.com/otomi-floor-lamp-multi.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-2014Pred-Ethnic-FloorLamp.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-2014Pred-Ethnic-FloorLamp.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-2014Pred-Ethnic-Rug.jpg">
+		<img class="img-responsive" alt="" src="~/images/Trends-2014Pred-Ethnic-Rug.jpg">
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.kathykuohome.com/Product/Detail/5650-Vintage-Suzani-Red-Paisley-Global-Bazaar-Sofa
 " target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-2014Pred-Ethnic-Sofa.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-2014Pred-Ethnic-Sofa.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -48,22 +48,22 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="https://www.crystal-fox.com/index.cfm/Copper_Creek_Abstract_Wall_Panel_Set_9244.htm" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Metallic-Art.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Metallic-Art.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.crateandbarrel.com/mingle-bar-glass/s346373" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Metallic-BarGlass.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Metallic-BarGlass.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.saksfifthavenue.com/main/ProductDetail.jsp?PRODUCT%3C%3Eprd_id=845524446365442&FOLDER%3C%3Efolder_id=282574492328691&bmUID=iORAypO&ev19=2:78" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Metallic-Bowl.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Metallic-Bowl.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Metallic-Pillow.jpg">
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Metallic-Pillow.jpg">
 	</div>
 	<div class="col-md-2">
 		<a href="https://www.wayfair.com/Dale-Tiffany-Grande-Vase-DT3276.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Metallic-Vase.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Metallic-Vase.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -77,23 +77,23 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.neimanmarcus.com/Laciann-Chest-Reduced-Shipping/prod157970108_cat48030746__/p.prod?ItemId=prod157970108&ecid=NMALRJ84DHJLQkR4&CS_003=5630585" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Personality-Cabinet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Personality-Cabinet.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.frenchheritage.com/Shop/Details/ProductID/522" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Personality-Chest.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Personality-Chest.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://hivemodern.com/pages/product3278/moooi-crochet-table" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Personality-SideTable.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Personality-SideTable.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.juliettesinteriors.co.uk/index.php?dispatch=products.view&product_id=4314&currency=USD" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Personality-Table.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Personality-Table.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="https://www.wayfair.com/Wayborn-Medallion-TV-Stand-WYB2630.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Personality-TVCabinet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Personality-TVCabinet.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -107,23 +107,23 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.gleysteendesign.com/project/reservoir-home" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Color-PurpleDR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Color-PurpleDR.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://svoya-studio.com/?p=616" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Color-PurpleLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Color-PurpleLR.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.carolynmillerinteriors.com/images/Mod08-Home06-Schuss16NoSwitchPlate.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Color-BlueDR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Color-BlueDR.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="https://www.houzz.com/photos/4641865/Sierra-Alta-contemporary-bedroom-los-angeles" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Color-BlueBdRm.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Color-BlueBdRm.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://laurauinteriordesign.com/blog/portfolio/cityliving/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Color-YellowPops.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Color-YellowPops.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -137,21 +137,21 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.tarashawmaison.com/products/tara-shaw-antiques/18c-venetian-canape-with-corona-fortuny-fabric/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Antique-CanapeSeat.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Antique-CanapeSeat.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.oldplank.com/antique-english-chippendale-armchair.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Antique-Chair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Antique-Chair.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Antique-EmpireChest.jpg">
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Antique-EmpireChest.jpg">
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.secondshoutout.com/product/vintage-marriage-chest" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Antique-MarriageChest.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Antique-MarriageChest.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/designthreads/images/500-Trends-Antique-NestingTables.jpg">
+		<img class="img-responsive" alt="" src="~/images/500-Trends-Antique-NestingTables.jpg">
 	</div>
 </div>
 <div class="spacer"></div>

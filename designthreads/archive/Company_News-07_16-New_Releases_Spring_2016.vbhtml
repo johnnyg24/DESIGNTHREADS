@@ -11,37 +11,37 @@ End Code
 <h4><strong>New Releases, Spring 2016</strong></h4>
 <div class="spacer"></div>
 		
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-PaintPalette.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-PaintPalette.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1416" target="_blank">Paint Palette, Book 1416</a></strong></p>
 <hr>
 			
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-LeatherLooks2.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-LeatherLooks2.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1427" target="_blank">Leather Looks II, Book 1427</a></strong></p>
 <hr>
 			
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-PaintTheTown.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-PaintTheTown.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1428" target="_blank">Paint the Town, Book 1428</a></strong></p>
 <hr>
 	
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-SheerEssentials.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-SheerEssentials.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1429" target="_blank">Sheer Essentials, Book 1429</a></strong></p>
 <hr>
 		
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-NaturalPalette.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-NaturalPalette.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1430" target="_blank">Natural Palette, Book 1430</a></strong></p>
 <hr>
 			
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Spring16-MWJapura.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Spring16-MWJapura.jpg"></div>
 <div class="spacer"></div>
 <p><strong>Marcus William <a href="~/search/results?page=1&bknum=1431" target="_blank">Japura, Book 1431</a></strong></p>
 <hr>
 
-<div align="center"><img class="img-responsive" lt="" src="~/designthreads/images/CN-NR-Spring16-RL.jpg"></div>
+<div align="center"><img class="img-responsive" lt="" src="~/images/CN-NR-Spring16-RL.jpg"></div>
 <div class="spacer"></div>
 <p><strong>Rainbow Library</strong></p>
 <ul class="list-group no-side-border">

@@ -19,7 +19,7 @@ End Code
 
 <div align="center">
     <a href="http://www.southernfabricblog.com/lavender-sleeping-mask/" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/Craftful-Pampering-SleepMask.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/Craftful-Pampering-SleepMask.jpg"></a>
 	<div class="source-link">Source: <a href="http://www.southernfabricblog.com" target="_blank">Southern Fabric</a> blog; Lavender Sleeping Mask</div>
 </div>
 <div class="spacer"></div>
@@ -31,7 +31,7 @@ End Code
 
 <div align="center">
     <a href="http://anoregoncottage.com/how-to-make-the-best-flaxseed-pillows/" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/Craftful-Pampering-NeckPillow2.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/Craftful-Pampering-NeckPillow2.jpg"></a>
 	<div class="source-link">Source: <a href="http://anoregoncottage.com" target="_blank">Oregon Cottage</a>; How (and why) to make the Best Flaxseed Pillows</div>
 </div>
 <div class="spacer"></div>
@@ -43,7 +43,7 @@ End Code
 
 <div align="center">
     <a href="http://laurenefabrications.blogspot.ca/2013/04/kimono-slipper-tutorial.html" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/Craftful-Pampering-Slippers2-Crop.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/Craftful-Pampering-Slippers2-Crop.jpg"></a>
 	<div class="source-link">Source: <a href="http://laurenefabrications.blogspot.ca" target="_blank">Lauren E Fabrications</a>; Kimono Slipper Tutorial</div>
 </div>
 <div class="spacer"></div>

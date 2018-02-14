@@ -16,10 +16,10 @@ End Code
 		
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://www.godrichinteriors.com/portfolio/west-country/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-LivingRoom.jpg"></a>
+		<a href="http://www.godrichinteriors.com/portfolio/west-country/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-LivingRoom.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://rikkisnyder.com/blog/13930402/jeanieengelbach" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-Bedroom.jpg"></a>
+		<a href="http://rikkisnyder.com/blog/13930402/jeanieengelbach" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Bedroom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -29,10 +29,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="https://www.houzz.com/photos/60132/Sitting-Area-eclectic-living-room-minneapolis" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-SittingArea.jpg"></a>
+		<a href="https://www.houzz.com/photos/60132/Sitting-Area-eclectic-living-room-minneapolis" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-SittingArea.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://interiordesignhouston.net/portfolio/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-LivingRoom2.jpg"></a>
+		<a href="http://interiordesignhouston.net/portfolio/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-LivingRoom2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -45,26 +45,26 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-LivingRoom3.jpg">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-LivingRoom3.jpg">
     <div class="source-link">Room Image Credit: <a href="http://www.styleathome.com/interiors/small-spaces/article/small-space-interior-modern-eclectic-condo" target="_blank">StyleAtHome.com</a>, Small Space Interior: Modern Eclectic Condo</div>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=LAWR-2" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-Lawrence2Salt.jpg"></a>
+		<a href="~/details?sku=LAWR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Lawrence2Salt.jpg"></a>
 		<div class="text-center">Number 1: Lawrence 2 Salt</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=NERV-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-Nervel1Lichen.jpg"></a>
+		<a href="~/details?sku=NERV-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Nervel1Lichen.jpg"></a>
 		<div class="text-center">Number 2: Nervel 1 Lichen</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TOUR-2" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-Tournament2Grenadine.jpg"></a>
+		<a href="~/details?sku=TOUR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Tournament2Grenadine.jpg"></a>
 		<div class="text-center">Number 3: Tournament 2 Grenadine</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=COHA-2" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Eclectic-Cohabit2Jet.jpg"></a>
+		<a href="~/details?sku=COHA-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Cohabit2Jet.jpg"></a>
 		<div class="text-center">Number 4: Cohabit 2 Jet</div>
 	</div>
 </div>

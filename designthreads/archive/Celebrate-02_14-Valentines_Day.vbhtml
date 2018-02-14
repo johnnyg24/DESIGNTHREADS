@@ -19,19 +19,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="http://www.pinterest.com/pin/65091157086216239/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/VDay-500-Table-Two.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/VDay-500-Table-Two.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://theneotraditionalist.com/2010/10/25/deb-twirls/" target="_blank">
-		<img class="img-responsive"  alt="" src="~/designthreads/images/VDay-500-Table-Group2.jpg"></a>
+		<img class="img-responsive"  alt="" src="~/images/VDay-500-Table-Group2.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.pinterest.com/pin/129900770473842461/" target="_blank">
-		<img class="img-responsive"  alt="" src="~/designthreads/images/VDay-500-Table-Kids.jpg"></a>
+		<img class="img-responsive"  alt="" src="~/images/VDay-500-Table-Kids.jpg"></a>
 	</div>
 	<div class="col-md-3">
         <a href="http://www.pinkpistachio.com/day-12-of-love/" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/VDay-500-BreakfastInBed.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/VDay-500-BreakfastInBed.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -45,7 +45,7 @@ End Code
 <p>However you choose to celebrate this day of love, remember that this is a day to show love not only for others, but for yourself.  </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/VDay-Goodies.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/VDay-Goodies.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

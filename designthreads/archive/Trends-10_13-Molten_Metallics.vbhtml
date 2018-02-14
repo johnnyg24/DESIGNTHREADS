@@ -22,7 +22,7 @@ End Code
 <p>While deciding how to incorporate these shimmering shades may be overwhelming- remember that the right accessory or statement piece will complete your look- not compete with it. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Oct'13-Metallics-Brass.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Oct'13-Metallics-Brass.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -39,7 +39,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Oct'13-Metallics-Bronze.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Oct'13-Metallics-Bronze.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -58,7 +58,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Oct'13-Metallics-Copper.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Oct'13-Metallics-Copper.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -75,7 +75,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Oct'13-Metallics-Gold.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Oct'13-Metallics-Gold.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -93,7 +93,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Oct'13-Metallics-Silver.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Oct'13-Metallics-Silver.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

@@ -7,7 +7,7 @@ End Code
 
 
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Banner.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Banner.jpg"></div>
 <div class="spacer"></div>
 
 <p class="opening">@PageData("description")</p>
@@ -27,37 +27,37 @@ End Code
 <h3>London</h3>
 
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Banner-London.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Banner-London.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
     <div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=CHIM-3" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-FlameScarlet-Chime3.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-FlameScarlet-Chime3.jpg">
         </a>
         <div class="text-center">Chime 3 Raspberry</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=TRIF-2" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-PrimrosePink-Trifecta2.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-PrimrosePink-Trifecta2.jpg">
         </a>
         <div class="text-center">Trifecta 2 Primrose</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=GLIN-28" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Toast-Glint28.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Toast-Glint28.jpg">
         </a>
         <div class="text-center">Glint 28 Copper</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=XANA-8" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-BlueBell-Xanadu8.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-BlueBell-Xanadu8.jpg">
         </a>
         <div class="text-center">Xanadu 8 Periwinkle</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=TIDI-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-RoyalLilac-Tidings1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-RoyalLilac-Tidings1.jpg">
         </a>
         <div class="text-center">Tidings 1 Orchid</div>
     </div>
@@ -67,31 +67,31 @@ End Code
 <div align="center" class="row">
     <div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=HAWK-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Otter-Hawkins1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Otter-Hawkins1.jpg">
         </a>
         <div class="text-center">Hawkins 1 Brown</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=SWAG-4" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-NavyPeony-Swagger4.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-NavyPeony-Swagger4.jpg">
         </a>
         <div class="text-center">Swagger 4 Navy</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=REFO-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-CopperTan-Reform1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-CopperTan-Reform1.jpg">
         </a>
         <div class="text-center">Reform 1 Copper</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=NAVO-5" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-LemonCurry-Navodari5.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-LemonCurry-Navodari5.jpg">
         </a>
         <div class="text-center">Navodari 5 Topaz</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=AMIS-9" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-GoldenOlive-Amistad9.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-GoldenOlive-Amistad9.jpg">
         </a>
         <div class="text-center">Amistad 9 Brass</div>
     </div>
@@ -103,37 +103,37 @@ End Code
 <h3>New York</h3>
 
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Banner-NY.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Banner-NY.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
     <div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=WAHO-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Grenadine-Wahoo1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Grenadine-Wahoo1.jpg">
         </a>
         <div class="text-center">Wahoo 1 Mango</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=MIDG-2" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-TawnyPort-Midge2.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-TawnyPort-Midge2.jpg">
         </a>
         <div class="text-center">Midge 2 Aubergine</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=SETT-2" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-BalletSlipper-Settler2.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-BalletSlipper-Settler2.jpg">
         </a>
         <div class="text-center">Settler 2 Plum</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=PAVA-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Butterum-Pavarotti1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Butterum-Pavarotti1.jpg">
         </a>
         <div class="text-center">Pavarotti 1 Cider</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=SWAG-4" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-NavyPeony-Swagger4.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-NavyPeony-Swagger4.jpg">
         </a>
         <div class="text-center">Swagger 4 Navy</div>
     </div>
@@ -143,31 +143,31 @@ End Code
 <div align="center" class="row">
     <div class="col-md-2 col-md-offset-1">
         <a href="~/details?sku=WELB-6" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-NeutralGray-Welby6.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-NeutralGray-Welby6.jpg">
         </a>
         <div class="text-center">Welby 6 Slate</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=SOUF-3" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-ShadedSpruce-Souffle3.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-ShadedSpruce-Souffle3.jpg">
         </a>
         <div class="text-center">Souffle 3 Jasmine</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=UPTU-3" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-GoldenLime-Upturn3.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-GoldenLime-Upturn3.jpg">
         </a>
         <div class="text-center">Upturn 3 Avocado</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=CLUB-11" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-Marina-Clubhouse11.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-Marina-Clubhouse11.jpg">
         </a>
         <div class="text-center">Clubhouse 11 Bristol</div>
     </div>
     <div class="col-md-2">
         <a href="~/details?sku=LOUI-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'17-AutumnMaple-Louisiana1.jpg">
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'17-AutumnMaple-Louisiana1.jpg">
         </a>
         <div class="text-center">Louisiana 1 Tile</div>
     </div>

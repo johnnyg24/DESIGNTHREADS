@@ -7,7 +7,7 @@ End Code
 
 	
 <div class="spacer"></div>	
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-HeaderFlowers.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-HeaderFlowers.jpg"></div>
 <div class="spacer"></div>
 
 <p class="opening">@PageData("description")</p>
@@ -25,19 +25,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=ROSE-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Marsala-Rosemont3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Marsala-Rosemont3.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=BELD-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-GlacierGray-Belden5.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-GlacierGray-Belden5.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=HAVI-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-DuskBlue-Haviland5.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-DuskBlue-Haviland5.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CYPR-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Treetop-Cypress3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Treetop-Cypress3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -45,19 +45,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=FEEL-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Woodbine-Feelgood3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Woodbine-Feelgood3.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=THYM-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Sandstone-Thyme3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Sandstone-Thyme3.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=FABL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Titanium-Fable1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Titanium-Fable1.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CASP-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-LavenderHerb-Caspian4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-LavenderHerb-Caspian4.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -65,19 +65,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=RUDD-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Aquamarine-Rudder2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Aquamarine-Rudder2.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=NOWL-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-ScubaBlue-Nowling2Festival.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-ScubaBlue-Nowling2Festival.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CHAT-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-LuciteGreen-Chateau4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-LuciteGreen-Chateau4.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=RACI-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-ClassicBlue-Racine1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-ClassicBlue-Racine1.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -85,19 +85,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=OCEA-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-ToastedAlmond-Oceanside2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-ToastedAlmond-Oceanside2.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CONC-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-StrawberryIce-Concept4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-StrawberryIce-Concept4.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=BEVE-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Tangerine-Beverly4.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Tangerine-Beverly4.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=FLIN-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneSpring'15-Custard-Flinch2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'15-Custard-Flinch2.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>			

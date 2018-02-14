@@ -13,7 +13,7 @@ End Code
 <p>Following the styling of menswear, dressing your interiors is quite the same as donning a formal suit. Clean lines and dark, dramatic colors give any design a fashionable, timeless look. The appeal of menswear is its capability to coordinate well with nearly everything. From fun and fancy-free to business oriented, the patterns of menswear adapt to their surroundings making them a great choice for any design. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Menswear-Herringbone.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Menswear-Herringbone.jpg"></div>
 <div class="spacer"></div>
 
 <p>Herringbone, with its vintage charm, hasn't changed much through the years. But it hasn't needed to- its classic look speaks for itself wherever it is used. If you are searching for something with a bit more pizazz, try the similar pattern of houndstooth. Making more of a statement with its bold design, houndstooth can be found in livelier colors than herringbone- which tends to stay neutral. </p>
@@ -32,7 +32,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Menswear-Pinstripes.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Menswear-Pinstripes.jpg"></div>
 <div class="spacer"></div>
 
 <p>Pinstripes, while being stark and powerful, also have the ability to remain subtle. Found in any number of color combinations, the most dramatic (and common) are the darker tones. A perfect winter addition, its similarity to the trees, bare of their leaves, cannot be missed.  </p>
@@ -52,7 +52,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Menswear-Plaid2.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Menswear-Plaid2.jpg"></div>
 <div class="spacer"></div>
 
 <p>Plaid, maybe the most common of the seasonal additions, adds warmth and strength to any room. Its various colors allows it to fit into any style with ease. Rich with history, this pattern enriches your home, even in small doses. </p>

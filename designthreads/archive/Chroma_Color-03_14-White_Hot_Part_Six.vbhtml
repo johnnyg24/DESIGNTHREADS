@@ -13,11 +13,11 @@ End Code
 <div align="center" class="row">
     <div class="col-md-6">
         <a href="http://www.anthonywilder.com/portfolio/exterior-renovation" target="_blank">
-        <img class="img-responsive" src="~/designthreads/images/H500-White-PP-PatioFurniture.jpg"></a>
+        <img class="img-responsive" src="~/images/H500-White-PP-PatioFurniture.jpg"></a>
     </div>
     <div class="col-md-6">
         <a href="https://www.sakdesigns.in/lens_portfolio/curved-wall/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PatioFusion.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-PP-PatioFusion.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -28,11 +28,11 @@ End Code
 <div align="center" class="row">
     <div class="col-md-6">
         <a href="http://www.houzz.com/photos/323991/Villa-Cetona-Siena-Italy-rustic-patio-rome" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PatioPillows.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-PP-PatioPillows.jpg"></a>
     </div>
     <div class="col-md-6">
         <a href="http://www.houzz.com/photos/328775/Wally-Sears-contemporary-patio-jacksonville" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PorchModern.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-PP-PorchModern.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -43,11 +43,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-sm-6">
 		<a href="http://www.flagg.com/signature/porches/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PorchFrontBlue.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-PP-PorchFrontBlue.jpg"></a>
 	</div>
 	<div class="col-sm-6">
 		<a href="http://disipio.com/portfolio/old-post-road/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PorchSunroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-PP-PorchSunroom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -59,11 +59,11 @@ End Code
 <div class="row" align="center">	
 	<div class="col-sm-6">
 		<a href="http://irideeen.blogspot.com/2011/08/loggia.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PorchBrick.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-PP-PorchBrick.jpg"></a>
 	</div>
 	<div class="col-sm-6">
 		<a href="http://www.houzz.com/photos/142614/Blackstone-Edge-Studios-Philip-Clayton-Thompson-traditional-sunroom-other" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-PP-PorchView.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-PP-PorchView.jpg"></a>
 	</div>
 </div>			
 <div class="spacer"></div>		

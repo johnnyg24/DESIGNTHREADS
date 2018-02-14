@@ -15,7 +15,7 @@ End Code
 
 <div align="center">
     <a href="http://www.digsdesignco.com/portfolio/#/long-shore/" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-BdRm-AllWhite.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/H500-White-BdRm-AllWhite.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -37,11 +37,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.carterkayinteriors.com/portfolio/#/sea-island-ga-beach-villa/" target="_blank">
-		<img class="img-responsive"  alt="" src="~/designthreads/images/H500-White-BdRm-Brights.jpg"></a>
+		<img class="img-responsive"  alt="" src="~/images/H500-White-BdRm-Brights.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.jaureguiarchitect.com/project/texas-chic/" target="_blank">
-		<img class="img-responsive"  alt="" src="~/designthreads/images/H500-White-BdRm-Brown.jpg"></a>
+		<img class="img-responsive"  alt="" src="~/images/H500-White-BdRm-Brown.jpg"></a>
 		<div class="source-link">Source: <a href="http://www.jaureguiarchitect.com/portfolio#austin/0" target="_blank">Jauregui Architect</a>; Texas Chic</div>
 	</div>
 </div>
@@ -50,11 +50,11 @@ End Code
 <div align="center" class="row">
     <div class="col-md-6">
         <a href="http://www.houzz.com/photos/3191439/Lily-Pad-traditional-bedroom-other" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-BdRm-Antiquey.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-BdRm-Antiquey.jpg"></a>
     </div>
     <div class="col-md-6">
         <a href="https://www.houzz.com/photos/684946/Eclectic-Bedroom-shabby-chic-style-bedroom" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-BdRm-Bedding.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-BdRm-Bedding.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>

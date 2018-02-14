@@ -20,19 +20,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://kkcdevelopment.com/portfolio/strand/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Trains.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Trains.jpg"></a>
 	</div>		
 	<div class="col-md-3">
 		<a href="http://www.houzz.com/photos/4468043/Lake-Washington-Man-Cave-contemporary-family-room-seattle" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Guitars.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Guitars.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://benedictaugust.com/photos/category/interior/P45" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Collectables.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Collectables.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://lminteriordesign.com/gallery002.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Library.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Library.jpg"></a>
 	</div>		
 </div>
 <div class="spacer"></div>
@@ -40,19 +40,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://masterremodelersinc.com/home-remodeling-portfolio/interior-home-remodeling-pittsburgh/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Basement.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Basement.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="https://www.houzz.com/photos/5156202/Bert-The-Conqueror-eclectic-living-room-los-angeles" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Office.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Office.jpg"></a>
 	</div>		
 	<div class="col-md-3">
 		<a href="http://socalcontractor.com/portfolio/bond-at-the-beach/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-SittingNiche.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-SittingNiche.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.joelkelly.com/our-projects/casa-pete/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-FathersDay-MC-Bar.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-FathersDay-MC-Bar.jpg"></a>
 	</div>		
 </div>		
 <div class="spacer"></div>		

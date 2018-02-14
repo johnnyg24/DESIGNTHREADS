@@ -15,10 +15,10 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-PinkingScissors1893.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-PinkingScissors1893.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-Patent1934-1.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-Patent1934-1.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -31,10 +31,10 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-Wiss1937Catalog.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-Wiss1937Catalog.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-Wiss1939Advertisement.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-Wiss1939Advertisement.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -44,10 +44,10 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-BriskmansPinkShearsCorp.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-BriskmansPinkShearsCorp.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-GriffonCutleryBuildingAd.jpg">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-GriffonCutleryBuildingAd.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -57,28 +57,28 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/designthreads/images/History-PinkingShears-BriskmansPinkingShears.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-BriskmansPinkingShears.jpg"></a>
+		<a href="~/images/History-PinkingShears-BriskmansPinkingShears.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-BriskmansPinkingShears.jpg"></a>
 		<div class="source-link">Briskman's Pinking Shears</div>
 	</div>		
 	<div class="col-md-2">
-		<a href="~/designthreads/images/History-PinkingShears-ClaussPinkingShears.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-ClaussPinkingShears.jpg"></a>
+		<a href="~/images/History-PinkingShears-ClaussPinkingShears.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-ClaussPinkingShears.jpg"></a>
 		<div class="source-link">Clauss Pinking Shears</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/designthreads/images/History-PinkingShears-GingherPinkingShears.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-GingherPinkingShears.jpg"></a>
+		<a href="~/images/History-PinkingShears-GingherPinkingShears.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-GingherPinkingShears.jpg"></a>
 		<div class="source-link">Gingher Pinking Shears</div>
 	</div>		
 	<div class="col-md-2">
-		<a href="~/designthreads/images/History-PinkingShears-GriffonPinkingShears.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-GriffonPinkingShears.jpg"></a>
+		<a href="~/images/History-PinkingShears-GriffonPinkingShears.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-GriffonPinkingShears.jpg"></a>
 		<div class="source-link">Griffon Pinking Shears</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/designthreads/images/History-PinkingShears-KleenCutPinkingShears.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-PinkingShears-KleenCutPinkingShears.jpg"></a>
+		<a href="~/images/History-PinkingShears-KleenCutPinkingShears.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/History-PinkingShears-KleenCutPinkingShears.jpg"></a>
 		<div class="source-link">KleenCut Pinking Shears</div>
 	</div>
 </div>

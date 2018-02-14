@@ -16,7 +16,7 @@ End Code
 <p>Bring the zest of summer to your home by incorporating peppy palette's and perky patterns into your decor. This season, don't shy away from those dynamic prints and brilliant colors. Embrace them! Those sun-soaked days with sparkling blue skies evoke a happiness that every home deserves to take part in. Whether you simply add some summery accents or go the whole-nine-yards, here are a handful of expressive seasonal selections for your home. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Summer-Colors.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Celebrate-Summer-Colors.jpg"></div>
 <div class="spacer"></div>
 
 <div class="row">

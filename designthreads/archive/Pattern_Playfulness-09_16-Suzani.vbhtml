@@ -18,15 +18,15 @@ End Code
 	<div class="col-md-4">
 		<a href="http://www.architecturaldigest.com/gallery/4-smart-living-room-ideas-from-a-revamped-beverly-hills-home?mbid=social_facebook
 " target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-LivingRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-LivingRoom.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.donaroseneinteriors.com/projects/599110/mirage-residence" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-PlayRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-PlayRoom.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.peltierinteriors.com/portfolio_page/pasadena-family-home/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-WindowCurtains.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-WindowCurtains.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -37,15 +37,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.charmean-neithart-interiors.com/projects/french-colonial-in-pasadena/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Bedroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.jhinteriordesign.com/west-hills-victorian" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-ReadingBench.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-ReadingBench.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://laurelquintinteriordesign.com/index/#/wynkooploft/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Window.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Window.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -57,19 +57,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=CORF-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Corfu1Ocean.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Corfu1Ocean.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MAHA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Mahaska1Navy.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Mahaska1Navy.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=NONS-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Nonsense3Shocking.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Nonsense3Shocking.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ROME-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Romero3Mulberry.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Romero3Mulberry.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -77,19 +77,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=FABL-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Fable2Taupe.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Fable2Taupe.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ITHA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Ithaca1Honey.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Ithaca1Honey.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=LEMA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Lemans1Smoke.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Lemans1Smoke.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MACH-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Machine1Copen.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Machine1Copen.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -97,19 +97,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=CORE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Corey1Seaside.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Corey1Seaside.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=KODI-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Kodiak1Waterway.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Kodiak1Waterway.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=QUAK-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Quakertown1Royal.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Quakertown1Royal.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TELL-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Suzani-Telluride2Lagoon.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Telluride2Lagoon.jpg">
 	</div>
 </div>
 <div class="spacer"></div>

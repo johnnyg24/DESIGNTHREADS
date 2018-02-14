@@ -20,7 +20,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.minted.com/julep/2016/02/26/diy-fabric-covered-party-hats/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-PartyHats.jpg"></a></div>
+<div align="center"><a href="http://www.minted.com/julep/2016/02/26/diy-fabric-covered-party-hats/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-PartyHats.jpg"></a></div>
 <div class="source-link">Source: <a href="http://www.minted.com/julep/" target="_blank">Julep</a>, from Minted; DIY Fabric covered Party Hats</div>
 <div class="spacer"></div>
 
@@ -31,13 +31,13 @@ End Code
 
 <div align="center" class="row">		
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-Backdrop.jpg">
+		<img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-Backdrop.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-Backdrop2.jpg">
+		<img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-Backdrop2.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-Backdrop3.jpg">
+		<img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-Backdrop3.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -47,7 +47,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.bhg.com/wedding/favors/easy-to-sew-reusable-gift-bag/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-GiftBag.jpg"></a></div>
+<div align="center"><a href="http://www.bhg.com/wedding/favors/easy-to-sew-reusable-gift-bag/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-GiftBag.jpg"></a></div>
 <div class="source-link">Source: <a href="http://www.bhg.com/" target="_blank">Better Homes &amp; Gardens</a>- Wedding, Favors; Easy-to-Sew Reusable Gift Bag</div>
 <div class="spacer"></div>
 
@@ -58,13 +58,13 @@ End Code
 
 <div align="center" class="row">		
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-TableCover.jpg">
+		<img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-TableCover.jpg">
 	</div>
     <div class="col-md-4">
-        <img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-TableCover3.jpg">
+        <img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-TableCover3.jpg">
     </div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-TableCover2.jpg">
+		<img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-TableCover2.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
@@ -74,7 +74,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><a href="http://www.poppytalk.com/2015/10/halloween-party-inspiration-for-kids.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-PartyOn-TulleBalloon.jpg"></a></div>
+<div align="center"><a href="http://www.poppytalk.com/2015/10/halloween-party-inspiration-for-kids.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-PartyOn-TulleBalloon.jpg"></a></div>
 <div class="source-link">Source: <a href="http://www.poppytalk.com/" target="_blank">PoppyTalk</a>; Halloween Party Inspiration for Kids</div>
 <div class="spacer"></div>
 

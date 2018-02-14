@@ -19,15 +19,15 @@ End Code
 
 <div class="row">
 	<div class="col-md-4" align="center">
-		<a href="http://www.bijoulovelydesigns.com/2010/05/market-tote-tutorial.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-MarketTote.jpg"></a>
+		<a href="http://www.bijoulovelydesigns.com/2010/05/market-tote-tutorial.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-MarketTote.jpg"></a>
 		<div class="source-link">The Market Tote</div>
 	</div>
 	<div class="col-md-4">
-		<a href="http://www.sewmamasew.com/2012/04/fat-quarter-project-produce-bags/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-ProduceBag.jpg"></a>
+		<a href="http://www.sewmamasew.com/2012/04/fat-quarter-project-produce-bags/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-ProduceBag.jpg"></a>
 	<div class="source-link">Produce Bags</div>	
 	</div>
 	<div class="col-md-4">
-		<a href="http://www.deliacreates.com/2011/05/greeneasy-knit-produce-bag.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-TShirtBag.jpg"></a>
+		<a href="http://www.deliacreates.com/2011/05/greeneasy-knit-produce-bag.html" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-TShirtBag.jpg"></a>
 	<div class="source-link">Easy Knit (T-Shirt) Produce Bags</div>
 	</div>
 </div>
@@ -35,15 +35,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="http://www.everkelly.com/2010/12/nylon-eco-bags-superbuzzy-everkelly-free-tutorial/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-PocketTote.jpg"></a>
+		<a href="http://www.everkelly.com/2010/12/nylon-eco-bags-superbuzzy-everkelly-free-tutorial/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-PocketTote.jpg"></a>
 	<div class="source-link">Nylon Eco Bags</div>	
 	</div>
 	<div class="col-md-4">
-		<a href="http://www.sewmamasew.com/2011/07/1-2-3-sew-free-pattern-giveaway/#.UCr7WqBQCQE" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-LunchSack.jpg"></a>
+		<a href="http://www.sewmamasew.com/2011/07/1-2-3-sew-free-pattern-giveaway/#.UCr7WqBQCQE" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-LunchSack.jpg"></a>
 	<div class="source-link">The Lunch Sack</div>	
 	</div>
 	<div class="col-md-4">
-		<a href="http://verypurpleperson.com/2010/04/making-reversible-bag/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/Craftful-ReusableBags-ReversibleBag.jpg"></a>
+		<a href="http://verypurpleperson.com/2010/04/making-reversible-bag/" target="_blank"><img class="img-responsive" alt="" src="~/images/Craftful-ReusableBags-ReversibleBag.jpg"></a>
 	<div class="source-link">Reversible Bag</div>	
 	</div>
 </div>				

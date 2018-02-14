@@ -13,7 +13,7 @@ End Code
 
 <div align="center">
     <a href="http://www.countryliving.com/remodeling-renovation/expert-advice/how-to/g1316/how-to-decorate-room/" target="_blank">
-    <img class="img-responsive" src="~/designthreads/images/PatrioticRoom-LR.jpg" alt="" /></a>
+    <img class="img-responsive" src="~/images/PatrioticRoom-LR.jpg" alt="" /></a>
 </div>
 <div class="spacer"></div>
 
@@ -25,7 +25,7 @@ End Code
 
 <div align="center">
     <a href="http://www.idealhome.co.uk/picture/contemporary-french-inspired-living-room" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/RedWhiteBlue-LR.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/RedWhiteBlue-LR.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -35,15 +35,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.marthastewart.com/266017/patriotic-doormat?search_key=patriotic%20doormats" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/MS_doormat.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/MS_doormat.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.marthastewart.com/353633/rocket-favor-packaging" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/MS-rockets.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/MS-rockets.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.marthastewart.com/273439/holiday-gathering" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/MS_stickfireworks.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/MS_stickfireworks.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>	

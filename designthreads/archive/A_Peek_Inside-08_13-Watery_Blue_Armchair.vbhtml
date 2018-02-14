@@ -14,7 +14,7 @@ End Code
 <p>Inviting you to curl up with a book, this comfortable armchair is upholstered in our <a href="~/details?sku=HEAT-3" target="_blank">Heather 3 Waterway</a>. The watery blue can be either refreshing or relaxing, making this the perfect spot to start and end your day. A throw pillow easily adds extra comfort and brings the calming effect of the sea with it.</p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/API-Framed-Heather3.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/API-Framed-Heather3.jpg"></div>
 <div class="spacer"></div>	
 			
 		

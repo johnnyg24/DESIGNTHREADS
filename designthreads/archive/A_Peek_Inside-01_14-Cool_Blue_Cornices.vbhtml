@@ -16,10 +16,10 @@ End Code
 
 <div class="row" align="center">
     <div class="col-md-6">
-        <img class="img-responsive" alt="" src="~/designthreads/images/API-Framed-Caspian2Baltic-Close.jpg">
+        <img class="img-responsive" alt="" src="~/images/API-Framed-Caspian2Baltic-Close.jpg">
     </div>
     <div class="col-md-6">
-        <img class="img-responsive" alt="" src="~/designthreads/images/API-Framed-Caspian2Baltic-Room.jpg">
+        <img class="img-responsive" alt="" src="~/images/API-Framed-Caspian2Baltic-Room.jpg">
     </div>
 </div>
 <div class="spacer"></div>

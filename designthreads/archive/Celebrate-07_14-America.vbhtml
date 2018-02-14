@@ -16,10 +16,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6"><a href="http://www.housetohome.co.uk/room-idea/picture/create-a-nautical-dining-room-in-5-steps" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Americana-RWB-Dining.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Americana-RWB-Dining.jpg"></a>
 	</div>
 	<div class="col-md-6"><a href="http://www.kellymcguillhome.com/portfolio-11" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Americana-RWB-Porch.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Americana-RWB-Porch.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -29,10 +29,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6"><a href="https://www.houzz.com/photos/2128762/William-T-Baker-Houses-traditional-kids-atlanta" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Americana-Flag-Bedroom.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Americana-Flag-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-6"><a href="http://echeloncustomhomes.com/gallery/henlopen-acres-iii/" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Americana-RWB-Gameroom.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Americana-RWB-Gameroom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -41,7 +41,7 @@ End Code
 <div class="spacer"></div>
 
 <div align="center"><a href="http://www.housebeautiful.com/decorating/colors/4th-of-july-decor-and-patriotic-decorating#slide-9" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Americana-RWB-LivingRoom.jpg"></a></div>
+	<img class="img-responsive" alt="" src="~/images/Americana-RWB-LivingRoom.jpg"></a></div>
 <div class="spacer"></div>
 	
 <p>Celebrating the Fourth of July is a spectacular event, although we must remember why this day is so special. The Declaration of Independence came to be on this day and history would write other important events, all of which deserve to be honored and remembered. So while you are enjoying the BBQ or awed by fireworks, take a moment to wish America a very happy birthday. </p>

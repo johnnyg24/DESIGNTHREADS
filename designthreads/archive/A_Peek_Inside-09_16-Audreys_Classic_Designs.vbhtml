@@ -26,48 +26,48 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK1.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK1.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK2.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK2.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK3.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK3.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK5.jpg">
-	</div>
-</div>
-<div class="spacer"></div>
-
-<div class="row" align="center">
-	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK6.jpg">
-	</div>
-	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK7.jpg">
-	</div>
-	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK10.jpg">
-	</div>
-	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK13.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK5.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK14.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK6.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK15.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK7.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK16.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK10.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-AudreyKlineProject-AK17.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK13.jpg">
+	</div>
+</div>
+<div class="spacer"></div>
+
+<div class="row" align="center">
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK14.jpg">
+	</div>
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK15.jpg">
+	</div>
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK16.jpg">
+	</div>
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/API-AudreyKlineProject-AK17.jpg">
 	</div>
 </div>
 <div class="spacer"></div>

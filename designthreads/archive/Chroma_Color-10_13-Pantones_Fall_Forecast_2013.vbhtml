@@ -19,15 +19,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="~/details?sku=SHUN-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-EmeraldShunlee.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-EmeraldShunlee.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=BAJA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-MykonosBaja.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-MykonosBaja.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=BETA-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-LindenBeta.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-LindenBeta.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -35,19 +35,19 @@ End Code
 <div class="row" align="center">
     <div class="col-md-3">
         <a href="~/details?sku=AIRB-4" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-AcaiAirbrush.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-AcaiAirbrush.jpg"></a>
     </div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MATL-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-SambaMatlock.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-SambaMatlock.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=BUDD-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-KoiBuddy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-KoiBuddy.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=VANA-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-DeepLichenVanali.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-DeepLichenVanali.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -55,19 +55,19 @@ End Code
 <div class="row" align="center">
     <div class="col-md-3">
         <a href="~/details?sku=BLIT-1" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-VivaciousBlitz.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-VivaciousBlitz.jpg"></a>
     </div>
 	<div class="col-md-3">
 		<a href="~/details?sku=MCCO-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-TurbulenceMcCormick.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-TurbulenceMcCormick.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TURC-10" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-CarafeTurco.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-CarafeTurco.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ABBO-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-PantoneFall'13-BeaujolaisAbbott.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'13-BeaujolaisAbbott.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>			

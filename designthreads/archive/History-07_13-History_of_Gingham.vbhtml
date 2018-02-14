@@ -16,19 +16,19 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=ANAD-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Anada3Raspberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-Anada3Raspberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=SIRO-42" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Sirocco42Blueberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-Sirocco42Blueberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TURR-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Turret2Sprite.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-Turret2Sprite.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TRIU-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Triumph1Domino.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-Triumph1Domino.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -38,17 +38,17 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Target-Bedding.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-Target-Bedding.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Target-Pillow.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-Target-Pillow.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Target-Hamper.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-Target-Hamper.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.denydesigns.com/collections/holli-zollinger-gingham/products/holli-zollinger-gingham-shower-curtain" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-DenyDesigns-ShowerCurtain.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-DenyDesigns-ShowerCurtain.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -58,17 +58,17 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-Casa-Napkins.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-Casa-Napkins.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-SurLaTable-Servers.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-SurLaTable-Servers.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-SurLaTable-BBQTray.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-SurLaTable-BBQTray.jpg">
 	</div>
 	<div class="col-md-3">
 		<a href="https://www.surlatable.com/product/PRO-19149/Gingham+Burger+Basket+Liners" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-SurLaTable-BasketLiners.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Square-SurLaTable-BasketLiners.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -79,16 +79,16 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-PB-Apron.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-PB-Apron.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-RL-GirlsDress.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-RL-GirlsDress.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-RL-Shortall.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-RL-Shortall.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Square-RL-Oxford.jpg">
+		<img class="img-responsive" alt="" src="~/images/Square-RL-Oxford.jpg">
 	</div>
 </div>
 <div class="spacer"></div>			

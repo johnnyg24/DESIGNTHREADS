@@ -16,12 +16,12 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="https://archive.org/details/mma_border_13574" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Border.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Border.jpg"></a>
 		<p class="source-link">Border; ca. 1700</p>
 	</div>
 	<div class="col-md-6">
 		<a href="https://archive.org/details/mma_curtain_13549" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Curtain.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Curtain.jpg"></a>
 		<p class="source-link">Curtain; ca. 1765</p>
 	</div>
 </div>
@@ -33,12 +33,12 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.metmuseum.org/toah/works-of-art/59.20/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Picture.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Picture.jpg"></a>
 		<p class="source-link">Embroidered Picture; ca. 1777</p>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.metmuseum.org/toah/works-of-art/22.55/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Coverlet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Coverlet.jpg"></a>
 		<p class="source-link">Embroidered Coverlet; ca. mid-late 1700's</p>
 	</div>
 </div>
@@ -50,12 +50,12 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.mfa.org/collections/object/crewel-stitch-fragment-66892" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Fragment.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Fragment.jpg"></a>
 		<p class="source-link">Crewel-stitch Fragment; 18th Century</p>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.metmuseum.org/toah/works-of-art/2002.355.1/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-PillowCover.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-PillowCover.jpg"></a>
 		<p class="source-link">Pillow Cover; ca. 1876-1877</p>
 	</div>
 </div>
@@ -73,23 +73,23 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=LEOM-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Leominster1Autumn.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Leominster1Autumn.jpg"></a>
 	</div>		
 	<div class="col-md-2">
 		<a href="~/details?sku=SAMM-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Sammy2Cognac.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Sammy2Cognac.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=PEER-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Peerless1Wedgewood.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Peerless1Wedgewood.jpg"></a>
 	</div>		
 	<div class="col-md-2">
 		<a href="~/details?sku=NAZA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Nazareth1Turquoise.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Nazareth1Turquoise.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=WHIS-7" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Crewel-Whistler7Navy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Crewel-Whistler7Navy.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

@@ -16,11 +16,11 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-HerringFishSkeleton.png">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-HerringFishSkeleton.png">
 		<div class="source-link">A representation of how the herringbone pattern derives from the Herring fish skeleton.</div>
 	</div>			
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-ChevronVSHerringbone.jpg">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-ChevronVSHerringbone.jpg">
 		<div class="source-link">The difference between a chevron and a herringbone. </div>
 	</div>
 </div>
@@ -32,15 +32,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.refinedllc.com/properties/gallery-3/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-LR.jpg"></a>
 	</div>		
 	<div class="col-md-4">
 		<a href="http://www.grandwood.com.au/Images/The-Sanctuary/The-Sanctuary_22.aspx" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-OttomanLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-OttomanLR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.coddingtondesign.com/portfolio-items/castro-victorian/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Sofas.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg"></a>
 	</div>
 </div>		
 <div class="spacer"></div>	
@@ -48,15 +48,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.housebeautiful.com/shopping/best-stores/news/g262/seacloth-1007/?slide=7" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Seacloth.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Seacloth.jpg"></a>
 	</div>		
 	<div class="col-md-4">
 		<a href="http://amandanisbetdesign.com/portfolio/city/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Armchairs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Armchairs.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://lmarieinteriors.com/residential-portfolio/#jp-carousel-231" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-SofaLR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-SofaLR.jpg"></a>
 	</div>
 </div>			
 <div class="spacer"></div>
@@ -67,23 +67,23 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="~/details?sku=FARR-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Farrow1Starlight.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Farrow1Starlight.jpg"></a>
 	</div>
 	<div class="col-md-2">	
 		<a href="~/details?sku=LARA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Laramie1Seedling.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Laramie1Seedling.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=THYM-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Thyme4Gunmetal.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Thyme4Gunmetal.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=PRID-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Pride2Cappucino.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Pride2Cappucino.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="~/details?sku=KILD-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Herringbone-Kildare3Hemp.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Kildare3Hemp.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>

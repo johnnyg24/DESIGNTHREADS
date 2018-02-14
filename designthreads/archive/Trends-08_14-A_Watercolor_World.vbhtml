@@ -10,7 +10,7 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Trends-Watercolor-Collage.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-Watercolor-Collage.jpg"></div>
 <div class="spacer"></div>
 
 <p>Becoming one of 2014's top trends, this organic painterly pattern is being seen in all aspects of design. From interiors and fashion to the graphic arts, watercolors are truly making a splash. Their complex simplicity works unbelievably well inside the home, instantly adding movement and depth to any space. Vibrant and saturated or tranquil with hushed tones, watercolors can be of any palette- making them the perfect addition to any design. Use them as a focal point to center your room around, or simply as an accent to refresh your rooms design. Go large with wallpapers, rugs or upholstery; Or stay small and work with framed art, tableware or bedding. Think outside the box this year when looking to refresh your home- give the watercolors trend a try. </p>

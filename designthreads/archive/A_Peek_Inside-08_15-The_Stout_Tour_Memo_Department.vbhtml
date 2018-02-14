@@ -19,25 +19,25 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-MemoDept-MemoShipping.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-MemoDept-MemoShipping.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-MemoDept-TrimWall.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-MemoDept-TrimWall.jpg">
 	</div>
 </div>	
 <div class="spacer"></div>	
 		
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-MemoDept-MemoMain.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-MemoDept-MemoMain.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-MemoDept-MemoAisle.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-MemoDept-MemoAisle.jpg">
 	</div>
 </div>	
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-MemoDept-ThirdWarehouse.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/API-StoutTour-MemoDept-ThirdWarehouse.jpg"></div>
 <div class="spacer"></div>
 
 <p>And that wraps up our third warehouse as well as our tour through Stout Brothers. We hope you have enjoyed the glimpses of life inside our business and taking 'A Peek Inside'!	</p>

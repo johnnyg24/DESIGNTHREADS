@@ -16,20 +16,20 @@ End Code
 <div class="row">
     <div class="col-md-3">
         <a href="http://www.houzz.com/photos/185100/Spinnaker-Development-transitional-dining-room-orange-county" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-MagentaChairs.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-MagentaChairs.jpg"></a>
         <div class="source-link">Builder Credit: Spinnaker Development, Photo Credit: Bowman Photography</div>
     </div>
     <div class="col-md-3">
         <a href="http://www.bellemaison23.com/2010/07/white-delight.html" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-FormalAllWhite.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-FormalAllWhite.jpg"></a>
     </div>
     <div class="col-md-3">
         <a href="http://www.californiahomedesign.com/gallery/designer-crush-qa-nicole-hollis#10" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-NaturalLight.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-NaturalLight.jpg"></a>
     </div>
     <div class="col-md-3">
         <a href="http://www.californiahomedesign.com/gallery/designer-crush-qa-nicole-hollis#2" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-BWModern.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-BWModern.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -40,19 +40,19 @@ End Code
 <div class="row">
     <div class="col-md-3">
         <a href="http://fewthingsfrommylife.blogspot.com/2011/01/picture-moving-obsession.html" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-Hearts.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-Hearts.jpg"></a>
     </div>
     <div class="col-md-3">
         <a href="http://www.idealhome.co.uk/picture/white-dining-room-with-colourful-fabrics" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-Patterns.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-Patterns.jpg"></a>
     </div>
     <div class="col-md-3">
         <a href="http://www.countryliving.com/home-design/house-tours/g1252/white-farmhouse-christmas/?slide=3&thumbnails=" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-WoodTable.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-WoodTable.jpg"></a>
     </div>
     <div class="col-md-3">
         <a href="http://ohidesignblog.com/inspired-by-light-airy/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/H500-White-DR-Modern.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/H500-White-DR-Modern.jpg"></a>
     </div>
 </div>
 <div class="spacer"></div>

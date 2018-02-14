@@ -7,7 +7,7 @@ End Code
 
 	
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-PageBanner.jpg"></div>		
+<div align="center"><img class="img-responsive" alt="" src="~/images/Celebrate-Spring-PageBanner.jpg"></div>		
 <div class="spacer-2x"></div>
 
 <p class="opening">@PageData("description")</p>
@@ -33,15 +33,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="http://www.febreze.com/en-US/en-US/Product.aspx?id=3464" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CleanFebreze.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CleanFebreze.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.swiffer.com/products/swiffer-360-dusters" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CleanSwiffer360.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CleanSwiffer360.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://us.hunterboots.com/female-umbrellas/original-moustache-bubble-umbrella/yellow/2528" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CleanUmbrella.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CleanUmbrella.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -61,15 +61,15 @@ End Code
 <div class="row" align="center">
 		<div class="col-md-4">
 		<a href="http://www.marcuswilliam.com" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-ColorFurniture.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-ColorFurniture.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.neimanmarcus.com/Legacy-Garden-Gate-Bedding/prod149160024/p.prod" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-Color-Glencairn2Punch.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-Color-Glencairn2Punch.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://atlantahomeimprovement.com/blog/pink-new-chic-mark-williams-sky-lounge-makeover-atlanta%E2%80%99s-midcity-lofts" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-ColorWall.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-ColorWall.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -91,15 +91,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<a href="http://www.nicheinteriors.com/romantic-homes-magazine/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CelebrateMardiGras.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CelebrateMardiGras.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.storyandspace.com/#/bedroom/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CelebrateStPattysDay.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CelebrateStPattysDay.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.idealhome.co.uk/picture/soothing-pastel-living-room" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Spring-500-CelebrateEaster.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Spring-500-CelebrateEaster.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

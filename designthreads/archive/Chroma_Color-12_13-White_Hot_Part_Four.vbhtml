@@ -16,11 +16,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.heikehein.com/61-maple-ave-interior/16_16_196.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-AllWhite.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-AllWhite.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/photos/2427270/European-Modern-tropical-living-room-other" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-BeachBlues.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-BeachBlues.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -28,11 +28,11 @@ End Code
 <div align="center" class="row">	
 	<div class="col-md-6">
 		<a href="http://www.dianebergeron.com/living-rooms" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-NaturalWicker.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-NaturalWicker.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.marcelobrito.com.br/portfolio/residencia-praia/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-Texture.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-Texture.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -40,11 +40,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/photos/1106589/Vintage-Inspired-Inglewood-Cottage-farmhouse-living-room-los-angeles" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-Traditional.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-Traditional.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.johndavidedison.com/vero?lightbox=image114j" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/H500-White-LR-Vibrant.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/H500-White-LR-Vibrant.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

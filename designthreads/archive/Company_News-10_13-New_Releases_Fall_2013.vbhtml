@@ -12,7 +12,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn'13-AoDEmbroidery.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn'13-AoDEmbroidery.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Art of Design&reg; <a href="~/search/results?page=1&bknum=1327" target="_blank">Embroideries III</a>, Book 1327</strong></p>
@@ -21,7 +21,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn'13-Sunbrella.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn'13-Sunbrella.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1342" target="_blank">Sunbrella&reg; Collection</a>, Book 1342</strong></p>
@@ -30,7 +30,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn'13-CMW.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn'13-CMW.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Color My Window</strong></p>
@@ -45,7 +45,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn'13-CL.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn'13-CL.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Comfortable Living</strong></p>
@@ -59,7 +59,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-AoDTrim1294-97.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-AoDTrim1294-97.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Art Of Design&reg;</strong> Trim 2</p>
@@ -75,7 +75,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-AccentsJustCords.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-AccentsJustCords.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong>Trim</strong></p>

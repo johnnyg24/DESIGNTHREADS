@@ -21,8 +21,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 <div class="row">
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-Abstractions-Declamation.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-Abstractions-Declamation.jpg"></a>
+		    <a href="~/images/Pantone2015-Abstractions-Declamation.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-Abstractions-Declamation.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=DECL-1" target="_blank">Declamation 1 Fiesta</a></div>
 	    </div>	
@@ -30,8 +30,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-Botanicum-Hatfield.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-Botanicum-Hatfield.jpg"></a>
+		    <a href="~/images/Pantone2015-Botanicum-Hatfield.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-Botanicum-Hatfield.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=HATF-1" target="_blank">Hatfield 1 Multi</a></div>
 	    </div>	
@@ -39,8 +39,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-PastTraces-Shetland.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-PastTraces-Shetland.jpg"></a>
+		    <a href="~/images/Pantone2015-PastTraces-Shetland.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-PastTraces-Shetland.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=SHET-1" target="_blank">Shetland 1 Spa</a></div>
 	    </div>	
@@ -51,8 +51,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 <div class="row">
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">	
-		    <a href="~/designthreads/images/Pantone2015-Serendipity-Foxhill.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-Serendipity-Foxhill.jpg"></a>
+		    <a href="~/images/Pantone2015-Serendipity-Foxhill.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-Serendipity-Foxhill.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=FOXH-3" target="_blank">Foxhill 3 Tuttifrutti</a></div>
 	    </div>	
@@ -60,8 +60,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-Spontaneity-Smile.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-Spontaneity-Smile.jpg"></a>
+		    <a href="~/images/Pantone2015-Spontaneity-Smile.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-Spontaneity-Smile.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=SMIL-1" target="_blank">Smile 1 Jet</a></div>
 	    </div>
@@ -69,8 +69,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-StyleSetting-Victor.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-StyleSetting-Victor.jpg"></a>
+		    <a href="~/images/Pantone2015-StyleSetting-Victor.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-StyleSetting-Victor.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=VICT-1" target="_blank">Victor 1 Mulberry</a></div>
 	    </div>	
@@ -81,8 +81,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 <div class="row">
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-TintedMedley-Caviar.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-TintedMedley-Caviar.jpg"></a>
+		    <a href="~/images/Pantone2015-TintedMedley-Caviar.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-TintedMedley-Caviar.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=CAVI-2" target="_blank">Caviar 2 Garden</a></div>
 	    </div>	
@@ -90,8 +90,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-UrbanJungle-Lebanon.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-UrbanJungle-Lebanon.jpg"></a>
+		    <a href="~/images/Pantone2015-UrbanJungle-Lebanon.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-UrbanJungle-Lebanon.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=LEBA-2" target="_blank">Lebanon 2 Multi</a></div>
 	    </div>	
@@ -99,8 +99,8 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 	
 	<div class="col-md-4">
 	    <div style="border:1px #cccccc solid">
-		    <a href="~/designthreads/images/Pantone2015-Zensations-Limelight.jpg" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone2015-Zensations-Limelight.jpg"></a>
+		    <a href="~/images/Pantone2015-Zensations-Limelight.jpg" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Pantone2015-Zensations-Limelight.jpg"></a>
 		<hr>
 		    <div class="text-center"><a href="~/details?sku=LIME-1" target="_blank">Limelight 1 Peacock</a></div>
 	    </div>	

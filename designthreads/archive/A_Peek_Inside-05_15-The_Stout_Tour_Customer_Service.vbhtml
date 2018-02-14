@@ -21,10 +21,10 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-CustomerService1.jpg">	
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-CustomerService1.jpg">	
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-CustomerService2.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-CustomerService2.jpg">
 	</div>
 </div>		
 <div class="spacer"></div>		

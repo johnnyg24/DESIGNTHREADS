@@ -18,23 +18,23 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-Warehouse-Receiving.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-Warehouse-Receiving.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-Warehouse-TrimTable.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-Warehouse-TrimTable.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-Warehouse-TrimWall2.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-Warehouse-TrimWall2.jpg">
 	</div>
 </div>	
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-Warehouse-MainAisle.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-Warehouse-MainAisle.jpg">
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive" alt="" src="~/designthreads/images/API-StoutTour-Warehouse-Aisle24.jpg">
+		<img class="img-responsive" alt="" src="~/images/API-StoutTour-Warehouse-Aisle24.jpg">
 	</div>
 </div>	
 <div class="spacer"></div>		

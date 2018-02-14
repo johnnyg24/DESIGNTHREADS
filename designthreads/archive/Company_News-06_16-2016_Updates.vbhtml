@@ -15,16 +15,16 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Ruth-Owners.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Ruth-Owners.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Ruth-Luncheon.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Ruth-Luncheon.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Ruth-Gift.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Ruth-Gift.jpg">
 	</div>
 	<div class="col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Ruth-Ruth&Kathy.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Ruth-Ruth&Kathy.jpg">
 	</div>
 </div>
 <div class="spacer-1x"></div>
@@ -61,7 +61,7 @@ End Code
 <p>Stout is honored to have assisted Kristine Robinson of Robinson Interiors with her room in the 2016 Bucks County Designer House. Selected to create a young lady's bedroom and bathroom, Ms. Robinson immediately inquired if we would be able to help facilitate her vision with our textiles. We gladly agreed and we could not be more proud of the job she has done. Read her step-by-step telling of her progress on her blog, <a href="https://robinsoninteriors.wordpress.com/2016/01/22/exciting-news-robinson-interiors-to-participate-in-2016-bucks-county-designer-house/" target="_blank">Robinson Interiors</a>, and visit the <a href="http://www.buckscountydesignerhouse.org/visitus/" target="_blank">Bucks County Designer House &amp; Gardens</a> website for more information. Keepy an eye out for next month's Design Threads as there will be a more in-depth look at Kristine's design vision brought to life. </p>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-BCDH2016.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-BCDH2016.jpg"></div>
 <div class="spacer-1x"></div>
 
 <hr>
@@ -75,13 +75,13 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Burgers.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Burgers.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-BBQ.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-BBQ.jpg">
 	</div>
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-2016Updates-Luncheon.jpg">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-2016Updates-Luncheon.jpg">
 	</div>
 </div>
 <div class="spacer"></div>

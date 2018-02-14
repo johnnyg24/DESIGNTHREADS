@@ -7,7 +7,7 @@ End Code
 
 	
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/ChromaColor-Coral-Banner.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/ChromaColor-Coral-Banner.jpg"></div>
 <div class="spacer"></div>
 
 <p class="opening">@PageData("description")</p>
@@ -19,7 +19,7 @@ End Code
 <p>Coral's wide tonality make it perfect for every season, not just summer. Infusing your home with its uplifting color, coral is a great way to freshen up your interiors. Pairing well with nearly any color, this versatility makes coral a new favorite among designers. Accent your antiques with a sophisticated, yet soft coral. Add vibrance to a neutral space with a zesty, saturated shade. Or brighten up a darkly colored room by introducing a warm and inviting coral tone. No matter what your style is, coral has a shade that will enliven your home. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/ChromaColor-Coral-Collage2.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/ChromaColor-Coral-Collage2.jpg"></div>
 <div class="spacer"></div>
 
 <p>Stout Fabrics as numbered in above image.</p>

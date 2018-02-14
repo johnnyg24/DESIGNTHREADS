@@ -12,11 +12,11 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://www.digitalegypt.ucl.ac.uk/textil/tools.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-1750BC-FlaxFiberBundles.jpg"></a>
+		<a href="http://www.digitalegypt.ucl.ac.uk/textil/tools.html" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Linen-1750BC-FlaxFiberBundles.jpg"></a>
 		<div class="text-center">Twisted hanks of flax fibers; approx. Middle Kingdom, Egypt, c. 1750 BC</div>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.ancientresource.com/lots/egyptian/mummy_wrappings.html" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-332BC-MummyWrapping.jpg"></a>
+		<a href="http://www.ancientresource.com/lots/egyptian/mummy_wrappings.html" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Linen-332BC-MummyWrapping.jpg"></a>
 		<div class="text-center">Linen mummy wrapping; approx. Ptolemaic Egypt, c. 332 - 30 BC</div>
 	</div>
 </div>
@@ -27,11 +27,11 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://collections.vam.ac.uk/item/O319182/textile-fragment/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-300AD-EgyptTapestryPcs.jpg"></a>
+		<a href="http://collections.vam.ac.uk/item/O319182/textile-fragment/" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Linen-300AD-EgyptTapestryPcs.jpg"></a>
 		<div class="text-center">Decorative textile fragments; approx. Egypt, c. 300-600 AD</div>
 	</div>	
 	<div class="col-md-6">
-		<a href="http://collections.vam.ac.uk/item/O86624/textile-fragment/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-1000AD-EgyptianTextile.jpg"></a>
+		<a href="http://collections.vam.ac.uk/item/O86624/textile-fragment/" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Linen-1000AD-EgyptianTextile.jpg"></a>
 		<div class="text-center">Linen Scarf fragment; approx. Egypt, c. 1000-1200 AD</div>
 	</div>
 </div>
@@ -42,11 +42,11 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://collections.vam.ac.uk/item/O98183/the-tristan-quilt-bed-cover-unknown/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-1400AD-SicilianQuilt.jpg"></a>
+		<a href="http://collections.vam.ac.uk/item/O98183/the-tristan-quilt-bed-cover-unknown/" target="_blank"><img class="img-responsive" alt="" src="~/images/History-Linen-1400AD-SicilianQuilt.jpg"></a>
 		<div class="text-center">The Tristan Quilt; approx. Sicily, Italy, c. 1360-1400 AD</div>
 	</div>
 	<div class="col-md-6">
-		<a href="http://collections.vam.ac.uk/item/O53748/cover-unknown/" target="_blank"><img class="img-responsive" src="~/designthreads/images/History-Linen-1700AD-TurkeyBedCover.jpg"></a>
+		<a href="http://collections.vam.ac.uk/item/O53748/cover-unknown/" target="_blank"><img class="img-responsive" src="~/images/History-Linen-1700AD-TurkeyBedCover.jpg"></a>
 		<div class="text-center">Quilt cover; approx. Turkey, 1600-1700 AD </div>
 	</div>
 </div>
@@ -57,37 +57,37 @@ End Code
 
 <div class="row" align="center">		
 	<div class="col-md-2 col-md-offset-1"><a href="~/details?sku=BUZZ-5" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Buzz5Fawn.jpg"></a><div class="text-center">Buzz 5 Fawn</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Buzz5Fawn.jpg"></a><div class="text-center">Buzz 5 Fawn</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=CAMA-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Camaro%201%20Cream.jpg"></a><div class="text-center">Camaro 1 Cream</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Camaro%201%20Cream.jpg"></a><div class="text-center">Camaro 1 Cream</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=FIRM-7" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Firmament7Sage.jpg"></a><div class="text-center">Firmament 7 Sage</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Firmament7Sage.jpg"></a><div class="text-center">Firmament 7 Sage</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=GEOD-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Geode1Biscuit.jpg"></a><div class="text-center">Geode 1 Biscuit</div>	
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Geode1Biscuit.jpg"></a><div class="text-center">Geode 1 Biscuit</div>	
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=JENS-2" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Jensilva%202%20Bone.jpg"></a><div class="text-center">Jensilva 2 Bone</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Jensilva%202%20Bone.jpg"></a><div class="text-center">Jensilva 2 Bone</div>
 	</div>
 </div>
 <div class="spacer"></div>
 <div class="row" align="center">		
 	<div class="col-md-2 col-md-offset-1"><a href="~/details?sku=MANA-66" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Manage66Raffia.jpg"></a><div class="text-center">Manage 66 Raffia</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Manage66Raffia.jpg"></a><div class="text-center">Manage 66 Raffia</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=MANP-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Manpower1Natural.jpg"></a><div class="text-center">Manpower 1 Natural</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Manpower1Natural.jpg"></a><div class="text-center">Manpower 1 Natural</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=OFFR-2" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Offri2Smoke.jpg"></a><div class="text-center">Offri 2 Smoke</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Offri2Smoke.jpg"></a><div class="text-center">Offri 2 Smoke</div>
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=PADR-3" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Padre%203%20Linen.jpg"></a><div class="text-center">Padre 3 Linen</div>	
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Padre%203%20Linen.jpg"></a><div class="text-center">Padre 3 Linen</div>	
 	</div>
 	<div class="col-md-2"><a href="~/details?sku=UPDR-4" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/History-Linen-Updraft4Linen.jpg"></a><div class="text-center">Updraft 4 Linen</div>
+	<img class="img-responsive" alt="" src="~/images/History-Linen-Updraft4Linen.jpg"></a><div class="text-center">Updraft 4 Linen</div>
 	</div>
 </div>		
 <div class="spacer"></div>				

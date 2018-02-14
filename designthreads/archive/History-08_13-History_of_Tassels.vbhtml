@@ -19,22 +19,22 @@ End Code
 <div align="center" class="row">
 	<div class="col-sm-6 col-md-3">
 		<a href="http://www.globalegyptianmuseum.org/detail.aspx?id=1310" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-Necklace.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-Necklace.jpg"></a>
 		<div class="source-link">Necklace Tassel made from unknown elements. Made during the 18th Dynasty. Found in Tutankhamun's tomb in the Valley of Kings, Egypt. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="https://collection.cooperhewitt.org/objects/18701825/with-image-25066/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-UnknownDate.jpg"> </a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-UnknownDate.jpg"> </a>
 		<div class="source-link">Tassel made from White Linen, braided and knotted. Unknown date of manufacture. Originated in Italy. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="https://collection.cooperhewitt.org/objects/18444997/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-Late16th.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-Late16th.jpg"></a>
 		<div class="source-link">Tassel made from Linen, braided and knotted. Made during the late 16th Century. Unknown Origin. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="https://collection.cooperhewitt.org/objects/18445023/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-Early17th.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-Early17th.jpg"></a>
 		<div class="source-link">Tassel made from Linen, braided and knotted. Made during the Early 17th Century. Originated in Italy. </div> 
 	</div>
 </div>	
@@ -45,21 +45,21 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-17thCentury.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-17thCentury.jpg">
 		<div class="source-link">Tassel made from gold and silver threads, silk and wood. Made during the 17th Century. Originated in Western Europe. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="http://hollis.harvard.edu/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=HVD_VIAHUAM215114&indx=3&recIds=HVD_VIAHUAM215114&recIdxs=2&elementId=2&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&vl(1UI0)=contains&frbg=&scp.scps=scope%3A%28HVD%29%2Cscope%3A%28HVD_VIA%29%2Cprimo_central_multiple_fe&tab=everything&dstmp=1427384272648&srt=rank&vl(117501629UI1)=all_items&mode=Basic&&dum=true&tb=t&vl(51615747UI0)=any&vl(freeText0)=Tassel%20textile&vid=HVD" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-JapanesePriest.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-JapanesePriest.jpg"></a>
 		<div class="source-link">Not much is known about this Japanese Priest's tassel. Likely to have been made during the 17-18th Century. Originated in Japan. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-RedEarly18th.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-RedEarly18th.jpg">
 		<div class="source-link">Tassel is made from gold and silver threads, silk and wood. Made during the early 18th Century. Originated in Western Europe. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
 		<a href="http://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/!ut/p/a1/rZDNboMwEIRfhRxyi2uDwaRHRKtKkVJaqiqYCzLGUDfYJthp-_g1t17SH6l72pVG384MrGEFa83e5MCcNJqNy12TpsgyEuIc7Yo8uUFZUT4kZX5_h8IYHmAN61EPkAq9rFy7yb1AemRK2kboNXo389EGpg_Y7NYojK4Cbqw7K2E3wVnL3sxqEzDOhbVmlsIuGoIJThfcxGUH6XXchyJKOEg7jkHcsx6wLo0BbpO05YKRiLXeKvVW0YXJ0K-SfE-g_kV6iUH2EXxaGId83zw-35Ze_aWYPyTZ_WTVR5Wvp1Od-b6NduLDweo_Cp-U2mIFKgQY3eJkHLLV6hNDIdZu/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?lng=en" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-Fan.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-Fan.jpg"></a>
 		<div class="source-link">Fan Tassel made from golden and silken threads. Made during the 1850's. Originated in France. </div> 
 	</div>
 </div>	
@@ -70,19 +70,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-BeadedFootrest.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-BeadedFootrest.jpg">
 		<div class="source-link">Beaded Footrest made from various materials. Likely to have been made during the 18th Century. Originated in Tula, Russia. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-BeadedFootrest2.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-BeadedFootrest2.jpg">
 		<div class="source-link">Beaded Footrest Tassels made from faceted steel beads. Likely to have been made during the 18th Century. Originated in Tula, Russia. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-RussianPainting.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-RussianPainting.jpg">
 		<div class="source-link">Tassels found on canopy over portrait of Alexander I in Russia's Winter Palace are made from gilded silver threads and copper-silver foil. Likely to have been made during the late 18th Century. Originated in Saint Petersburg, Russia. </div> 
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-BrushFringe.jpg">
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-BrushFringe.jpg">
 		<div class="source-link">Brush Fringe Tassel Trim made from silk threads, braided and woven. Made during the late 18th Century. Originated in Western Europe. </div> 
 	</div>
 </div>	
@@ -94,12 +94,12 @@ End Code
 <div align="center" class="row">
 	<div class="col-sm-6">
 		<a href="http://www.harvardartmuseums.org/art/205391" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-19thCenturyChinese.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-19thCenturyChinese.jpg"></a>
 		<div class="source-link">Tassel made from gold-colored silk. Made during the Qing Dynasty in 19th Century. Originated in China. </div>
 	</div>	
 	<div class="col-sm-6">
 		<a href="http://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/08.+Applied+Arts/1263045/?lng=en" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Tassel-H400-Uniform.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Tassel-H400-Uniform.jpg"></a>
 		<div class="source-link">Tassels on Court Blackamoor's Uniform made from unknown material(s). Made during the late 19th Century. Originated in Saint Petersbug, Russia. </div>
 	</div>	
 </div>	

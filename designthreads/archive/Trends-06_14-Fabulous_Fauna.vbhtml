@@ -20,33 +20,33 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 	<a href="~/details?sku=ABIN-2" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Bold-Abington2Fruit.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Abington2Fruit.jpg"></a>
 	<div class="text-center">Abington 2 Fruit</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=LISA-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Bold-Lisa1Spring.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Lisa1Spring.jpg"></a>
 	<div class="text-center">Lisa 1 Spring</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=OYST-4" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Bold-Oysterbay4SpringMarine.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Oysterbay4SpringMarine.jpg"></a>
 	<div class="text-center">Oysterbay 4 Spring/Marine</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=WARS-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Bold-Warsaw1Jewel.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Warsaw1Jewel.jpg"></a>
 	<div class="text-center">Warsaw 1 Jewel</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=BAJA-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Bold-Baja1Ocean.jpg"></a
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Baja1Ocean.jpg"></a
 	><div class="text-center">Baja 1 Ocean</div>
 	</div>
 </div>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" style="border:1px solid #cccccc" alt="" src="~/designthreads/images/Trends-FabFauna-Vibrant.jpg"></div>
+<div align="center"><img class="img-responsive" style="border:1px solid #cccccc" alt="" src="~/images/Trends-FabFauna-Vibrant.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -67,33 +67,33 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 	<a href="~/details?sku=TING-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Soft-Tingle1Taupe.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Tingle1Taupe.jpg"></a>
 	<div class="text-center">Tingle 1 Taupe</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=BELI-2" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Soft-Belinda2Nugget.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Belinda2Nugget.jpg"></a>
 	<div class="text-center">Belinda 2 Nugget</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=ECOL-6" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Soft-Ecoleaf6Oatmeal.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Ecoleaf6Oatmeal.jpg"></a>
 	<div class="text-center">Ecoleaf 6 Oatmeal</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=SECL-1" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Soft-Secluded1Twig.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Secluded1Twig.jpg"></a>
 	<div class="text-center">Secluded 1 Twig</div>
 	</div>
 	<div class="col-md-2">
 	<a href="~/details?sku=COCO-5" target="_blank">
-	<img class="img-responsive" alt="" src="~/designthreads/images/Trends-FabFauna-Soft-Cococay5Marine.jpg"></a>
+	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Cococay5Marine.jpg"></a>
 	<div class="text-center">Cococay 5 Marine</div>
 	</div>
 </div>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" style="border:1px solid #cccccc" alt="" src="~/designthreads/images/Trends-FabFauna-Peaceful.jpg"></div>
+<div align="center"><img class="img-responsive" style="border:1px solid #cccccc" alt="" src="~/images/Trends-FabFauna-Peaceful.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

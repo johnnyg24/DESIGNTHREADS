@@ -16,7 +16,7 @@ End Code
 <p>If you prefer the classic leopard print, here are few products for you to dream about. </p>
 <div class="spacer"></div>
 
-<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/designthreads/images/Mash-BlackLeopard.jpg"></div>
+<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/images/Mash-BlackLeopard.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -32,7 +32,7 @@ End Code
 <p>If you're not quite so wild, these more laid-back items may be for you.</p>
 <div class="spacer"></div>
 
-<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/designthreads/images/Mash-GoldLeopard.jpg"></div>	
+<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/images/Mash-GoldLeopard.jpg"></div>	
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -48,7 +48,7 @@ End Code
 <p>Or, maybe you prefer to live life colorfully. Then these choices are for you!</p>
 <div class="spacer"></div>
 
-<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/designthreads/images/Mash-BlueLeopard.jpg"></div>
+<div align="center"><img style="border:1px #cccccc solid" class="img-responsive" alt="" src="~/images/Mash-BlueLeopard.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
@@ -67,23 +67,23 @@ End Code
 <div class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.houzz.com/photos/661494/Powder-Room-traditional-powder-room-minneapolis" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-Leopard-Bathroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-Leopard-Bathroom.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.sicis.com/eng/Mosaic" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-Leopard-TileFloor.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-Leopard-TileFloor.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.houzz.com/photos/1097915/Hilltop-Retreat-mediterranean-bedroom-san-francisco" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-Leopard-Mediterranean-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-Leopard-Mediterranean-BR.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.houzz.com/photos/1282257/HGTV-Showhouse-contemporary-living-room" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-Leopard-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-Leopard-LR.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.houzz.com/photos/2624037/Tartan-Homes-traditional-kids-ottawa" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Trends-Leopard-WildPink-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Trends-Leopard-WildPink-BR.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

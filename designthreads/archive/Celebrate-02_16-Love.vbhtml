@@ -21,15 +21,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Hutch.jpg">
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Hutch.jpg">
 	</div>
 	<div class="col-md-4">
 		<a href="http://missfrugalfancypants.com/diy-valentines-banner/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Cabinet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Cabinet.jpg"></a>
 	</div>		
 	<div class="col-md-4">
 		<a href="http://www.onekindesign.com/2014/11/28/65-sensational-rustic-christmas-decorating-ideas/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-HeartGarland.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-HeartGarland.jpg"></a>
 	</div>		
 </div>
 <div class="spacer"></div>
@@ -37,15 +37,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://cityfarmhouse.com/2014/02/anthropologie-inspired-xoxo-pillow.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-StairNook.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-StairNook.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.thetomkatstudio.com/2014/01/shutterflyvalentinesday" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Ottoman.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Ottoman.jpg"></a>
 	</div>		
 	<div class="col-md-4">
 		<a href="http://thegatheringplacedesign.blogspot.com/2011_01_01_archive.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-SmallTable.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-SmallTable.jpg"></a>
 	</div>	
 </div>
 <div class="spacer"></div>
@@ -56,19 +56,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=AEGE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Aegean1Dogwood.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Aegean1Dogwood.jpg"></a>
 	</div>		
 	<div class="col-md-3">
 		<a href="~/details?sku=BOLZ-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Bolzano2Berry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Bolzano2Berry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=BYGO-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Bygone1Rose.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Bygone1Rose.jpg"></a>
 	</div>		
 	<div class="col-md-3">
 		<a href="~/details?sku=CEZA-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Cezanne5Berry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Cezanne5Berry.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -76,19 +76,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=DEIB-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Deibert1Carnation.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Deibert1Carnation.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=DESE-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Desert3Raspberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Desert3Raspberry.jpg"></a>
 	</div>		
 	<div class="col-md-3">
 		<a href="~/details?sku=LEDB-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Ledbury1Carnation.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Ledbury1Carnation.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=LIMO-4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Limousine4Rouge.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Limousine4Rouge.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -96,19 +96,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=LORE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Loretta1Coral.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Loretta1Coral.jpg"></a>
 	</div>			
 	<div class="col-md-3">
 		<a href="~/details?sku=NAOM-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Naomi2Tuttifrutti.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Naomi2Tuttifrutti.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=NURI-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Nuri3Sorbet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Nuri3Sorbet.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=VEND-13" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Love-Vendi13Blossom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Vendi13Blossom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>	

@@ -20,16 +20,16 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://gardenwise.co/project/roof-terrace-garden-arlington-va/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Balcony1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Balcony1.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.houzz.com/photos/42769620/Traditional-Terrace-and-Balcony-traditional-deck-london
 " target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Balcony2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Balcony2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.cultivart.com.au/project/northcoogeecourtyards/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Courtyard1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Courtyard1.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -37,15 +37,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.adolfoharrison.com/notting-hill-roof-garden.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Deck3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Deck3.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.decksbykiefer.com/ipe_deck/multi-level-ipe-deck.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Deck1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Deck1.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/18879600/Byron-Bay-tropical-deck-other" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Deck2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Deck2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -56,19 +56,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://www.greatoutdoorsmonth.org/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-GOMlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-GOMlogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="https://www.takemefishing.org/how-to-fish/how-to-catch-fish/national-fishing-and-boating-week/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-NFaBWlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-NFaBWlogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.nwf.org/Great-American-Campout.aspx" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-GAClogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-GAClogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://nationalmarinaday.org/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-NMDlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-NMDlogo.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -76,19 +76,19 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://sanctuaries.noaa.gov/visit/giys.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-GIYSlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-GIYSlogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://nationaltrailsday.americanhiking.org/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-NTDlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-NTDlogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.corpsnetwork.org/day-of-service" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-NDoSlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-NDoSlogo.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.nationalgetoutdoorsday.org/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-NGODlogo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-NGODlogo.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -102,15 +102,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.houzz.com/photos/247308/Contemporary-Patio-contemporary-patio-other-metro" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Patio1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Patio1.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.germinatedesign.com/queens-park/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Patio2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Patio2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://ginkgoleafstudio.net/portfolio/residential/old_world_made_new#&panel1-8" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Patio3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Patio3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -118,15 +118,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.jeffreyerb.com/newport1.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Terrace2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Terrace2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.designsponge.com/2009/09/sneak-peek-kevin-oshea.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Terrace1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Terrace1.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://aedesigns.com/work/d-c-condo/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Celebrate-Outdoors-Terrace3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Celebrate-Outdoors-Terrace3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

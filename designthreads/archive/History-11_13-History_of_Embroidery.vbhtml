@@ -19,27 +19,27 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.artfund.org/what-we-do/art-weve-helped-buy/artwork/7165/%5Bobject%20Object%5D" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1000ADIslamicTunic.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1000ADIslamicTunic.jpg"></a>
 		<div class="source-link">1000 AD Medieval Islamic Tunic  &copy;Ashmolean Museum, University of Oxford.</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://commons.wikimedia.org/wiki/File:Weltliche_Schatzkammer_Wien_(244)pano.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-Mid1400s-LiturgicalVestment.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-Mid1400s-LiturgicalVestment.jpg"></a>
 		<div class="source-link">Mid 1400's, The Liturgical Vestment of the Order of the Golden Fleece - Burgandy, France</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://collections.vam.ac.uk/item/O132235/cope-unknown/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1475-Cope.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1475-Cope.jpg"></a>
 		<div class="source-link">1475 German/Spanish Cope - &copy; Victoria and Albert Museum, London</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.augusta-auction.com/component/auctions/?view=lot&id=949&auction_file_id=4" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-Late1400s-Orphreys.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-Late1400s-Orphreys.jpg"></a>
 		<div class="source-link">Late 1400's Velvet Orphreys</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://rugrabbit.com/content/embroideries-greece-during-ottoman-era-benaki-museum-athens" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1599-PostByzantineLiturgicalCloth.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1599-PostByzantineLiturgicalCloth.jpg"></a>
 		<div class="source-link">1599 Post-Byzantine Empire Liturgical Cloth</div>
 	</div>
 </div>
@@ -51,28 +51,28 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://medieval.webcon.net.au/loc_england.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1600-ElizabethanNightcap.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1600-ElizabethanNightcap.jpg"></a>
 		<div class="source-link">1600 Elizabethan Nightcap</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.metmuseum.org/Collections/search-the-collections/228991" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1607-BibleBkofPrayer.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1607-BibleBkofPrayer.jpg"></a>
 		<div class="source-link">1607 Bible and Book of Prayer - The Metropolitan Museum of Art, Gift of Irwin Untermyer, 1964 (64.101.1291)
 Image &copy; The Metropolitan Museum of Art</div>
 	</div>
 	<div class="col-md-2">
 		<a href="https://collections.artsmia.org/art/4797/embroidered-box-england" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1662-BoxCasket.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1662-BoxCasket.jpg"></a>
 		<div class="source-link">1662 English Keepsake Box</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.turkishculture.org/picture_shower.php?ImageID=1946" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-Late18th-SilkBundle.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-Late18th-SilkBundle.jpg"></a>
 		<div class="source-link">18th Century Turkish Silk Bundle</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.metmuseum.org/Collections/search-the-collections/156994?rpp=20&pg=1&ft=stomacher&pos=2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1720-BritishStomacher.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1720-BritishStomacher.jpg"></a>
 		<div class="source-link">1720 British Floral Stomacher - Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009 (2009.300.2196) Image &copy; The Metropolitan Museum of Art</div>
 	</div>
 </div>
@@ -83,27 +83,27 @@ Image &copy; The Metropolitan Museum of Art</div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1720-Colifichet.jpg">
+		<img class="img-responsive" alt="" src="~/images/Hist-1720-Colifichet.jpg">
 		<div class="source-link">1720 Colifichet - Double Sided Embroidery on Paper (from Trinity's Personal Collection)</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.mfa.org/collections/object/view-of-boston-common-45029" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1750-LargeSamplerImage.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1750-LargeSamplerImage.jpg"></a>
 		<div class="source-link">1750 Large Sampler 'View of Boston Common' by Hannah Otis - Massachusetts. Photograph &copy; Museum of Fine Arts, Boston.</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://extantgowns.blogspot.com/2011/10/mens-frock-coat.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1790-FrenchJacket.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1790-FrenchJacket.jpg"></a>
 		<div class="source-link">1790 French Court Jacket</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.antiquesandfineart.com/articles/article.cfm?request=899" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1790-HondurasEasyChair.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1790-HondurasEasyChair.jpg"></a>
 		<div class="source-link">1790 Easy Chair - Newport, Rhode Island</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://samplings.com/pastsales/Smith-Humphreys" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1815-BostonMourningSampler.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1815-BostonMourningSampler.jpg"></a>
 		<div class="source-link">1815 Double Memorial/Mourning Sampler - Boston, Massachusetts</div>
 	</div>
 </div>
@@ -114,28 +114,28 @@ Image &copy; The Metropolitan Museum of Art</div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-Early19th-SilkCapelet.jpg">
+		<img class="img-responsive" alt="" src="~/images/Hist-Early19th-SilkCapelet.jpg">
 		<div class="source-link">Early 19th Century Silk Capelet - Charleston Museum, South Carolina</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://bdhp.moravian.edu/art/needlework/sampler.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1828-Sampler.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1828-Sampler.jpg"></a>
 		<div class="source-link">1828 Sampler - Caroline Louisa Kummer, 1828, wool cross-stitch on linen, Moravian Museum of Bethlehem</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.turkishculture.org/picture_shower.php?ImageID=1966" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-19th-TurkishOttomanDress.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-19th-TurkishOttomanDress.jpg"></a>
 		<div class="source-link">19th Century Dress - Turkey, Ottoman Empire</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.metmuseum.org/Collections/search-the-collections/104759?rpp=20&pg=2&ft=*&who=Pietro+Yantorny&pos=28" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-1914-ItalianShoes.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-1914-ItalianShoes.jpg"></a>
 		<div class="source-link">1914 Italian Yantorny Shoes - The Metropolitan Museum of Art, Gift of Capezio Inc., 1953 (C.I.53.76.20a&ndash;g)
 Image &copy; The Metropolitan Museum of Art</div>
 	</div>
 	<div class="col-md-2">
 		<a href="http://dig.henryart.org/embroidery-stitches/first_level_pages/78.3-50_pop-up.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/Hist-Early20th-CzechoslovakianApron.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/Hist-Early20th-CzechoslovakianApron.jpg"></a>
 		<div class="source-link">Early 20th Century Czechoslovakian Woman's Apron</div>
 	</div>
 </div>

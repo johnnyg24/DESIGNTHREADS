@@ -16,17 +16,17 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://metmuseum.org/toah/works-of-art/46.156.72/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-15th-MetallicSilkVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-15th-MetallicSilkVelvet.jpg"></a>
 		<div class="source-link">Late 13th- Early 14th Century, Panel of Velvet</div>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.clevelandart.org/art/1918.225?collection_search_query=velvet&op=search&form_build_id=form-e-32YOB4RcI247M-l7YW3LD5_EbuG0BZVoXwW2_iQGQ&form_id=clevelandart_collection_search_form" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-1300-GoldDiscs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-1300-GoldDiscs.jpg"></a>
 		<div class="source-link">1300 AD, Velvet with Gold Discs</div>
 	</div>
 	<div class="col-md-4">
 		<a href="http://collections.vam.ac.uk/item/O15365/panel-from-a-unknown/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-1335-BursePanel.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-1335-BursePanel.jpg"></a>
 		<div class="source-link">1335 AD, Panel from a Burse</div>
 	</div>
 </div>
@@ -38,17 +38,17 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.clevelandart.org/art/1939.43?collection_search_query=velvet&op=search&form_build_id=form-e-32YOB4RcI247M-l7YW3LD5_EbuG0BZVoXwW2_iQGQ&form_id=clevelandart_collection_search_form" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Late14th-Fragment.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Late14th-Fragment.jpg"></a>
 		<div class="source-link">1375-1399 AD, Velvet Fragment</div>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.clevelandart.org/art/1918.240?collection_search_views_fulltext=&created_date_op=%3C%3D&created_date=1700&between_start=&between_end=&field_artist=&page=10&f[0]=field_collection:839&f[1]=field_images_field_large_image_url:1&collection_search_query=&year_operator=1&year=1700&year_era=1&year_end=&year_end_era=1&op=search&form_build_id=form-ETPgFUZ5x2NxQ1fxHyNBTMHFCSaIsvrlPsrChA_mef0&form_id=clevelandart_collection_search_form" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-15th-FerronnerieVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-15th-FerronnerieVelvet.jpg"></a>
 		<div class="source-link">1400's AD, "Ferronnerie" Velvet</div>
 	</div>
 	<div class="col-md-4">
 		<a href="http://metmuseum.org/toah/works-of-art/41.87/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Late15th-TwoColoredSilkVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Late15th-TwoColoredSilkVelvet.jpg"></a>
 		<div class="source-link">Late 15th-Early 16th Century, Chasuble</div>
 	</div>
 </div>
@@ -60,22 +60,22 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://metmuseum.org/toah/works-of-art/46.156.120/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-16th-RenaissanceSilkVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-16th-RenaissanceSilkVelvet.jpg"></a>
 		<div class="source-link">16th Century, Length of Velvet</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://metmuseum.org/toah/works-of-art/46.156.133/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-16th-SilkVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-16th-SilkVelvet.jpg"></a>
 		<div class="source-link">16th century, Silk Velvet Piece</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://metmuseum.org/toah/works-of-art/12.72.5/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Early17th-FloweringPanel.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Early17th-FloweringPanel.jpg"></a>
 		<div class="source-link">First Half of 17th Century, Velvet Panel with Flowering Plants</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://collections.vam.ac.uk/item/O176623/textile-unknown/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-17th-MughalEmpire.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-17th-MughalEmpire.jpg"></a>
 		<div class="source-link">17th Century, Mughal Empire Textile</div>
 	</div>
 </div>
@@ -87,22 +87,22 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="http://www.sothebys.com/en/auctions/ecatalogue/2012/arts-of-the-islamic-world-2012/lot.254.lotnum.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Late17th-YastikCover.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Late17th-YastikCover.jpg"></a>
 		<div class="source-link">Late 17th-Early 18th Century, Yastik Cover</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.metmuseum.org/art/collection/search/210784" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-1866-Textile.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-1866-Textile.jpg"></a>
 		<div class="source-link">1866, Furnishing Textile</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://www.metmuseum.org/art/collection/search/14008" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-1883-CottonVelvet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-1883-CottonVelvet.jpg"></a>
 		<div class="source-link">1883-1900, Cotton Velvet</div>
 	</div>
 	<div class="col-md-3">
 		<a href="http://collections.vam.ac.uk/item/O15289/furnishing-fabric-tassinari-et-chatel/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-1904-Textile.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-1904-Textile.jpg"></a>
 		<div class="source-link">1904, Furnishing Fabric</div>
 	</div>
 </div>
@@ -117,15 +117,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="~/details?sku=TRIS-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Tristan1Honey.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Tristan1Honey.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=PAGE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Pageant1Peacock.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Pageant1Peacock.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=RELA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Relaxed1Pumpkin.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Relaxed1Pumpkin.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -133,15 +133,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="~/details?sku=TRIF-25" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Trifecta25Burgandy.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Trifecta25Burgandy.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=CHAN-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Chantilly5Grape.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Chantilly5Grape.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=ALGI-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Algiers2Carbon.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Algiers2Carbon.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -149,15 +149,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="~/details?sku=FOLL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Folly1Seacrest.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Folly1Seacrest.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=AVIL-15" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Avila15Jasmine.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Avila15Jasmine.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=LETI-15" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/History-Velvet-Letino15Royal.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/History-Velvet-Letino15Royal.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

@@ -12,7 +12,7 @@ End Code
 
 <hr>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-1348.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-1348.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1348" target="_blank">Ultimate Leather Looks</a>, Book 1348.</strong></p>
@@ -22,7 +22,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-1349.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-1349.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1349" target="_blank">Sunshine Savvy- Indoor/Outdoor</a>, Book 1349.</strong></p>
@@ -32,7 +32,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-1350.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-1350.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1350" target="_blank">Sunrise Solids by Sunbrella&reg;</a>, Book 1350.</strong></p>
@@ -42,7 +42,7 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-Framed-1351.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-Framed-1351.jpg"></div>
 <div class="spacer"></div>
 
 <p><strong><a href="~/search/results?page=1&bknum=1351" target="_blank">Performance Solids by Crypton&reg; Home</a>, Book 1351.</strong></p>

@@ -20,23 +20,23 @@ End Code
 <div class="row">
 	<div class="col-md-2 col-md-offset-1">
 		<a href="http://www.taraseawright.com/interiors/#/interior-3/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-SunRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-SunRoom.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://apieceoftoastblog.com/2014/11/05/one-room-challenge-week-6/" target="_blank">
-		<img class="img-responsive" src="~/designthreads/images/PatternPlay-Abstract-Bedroom.jpg"></a>
+		<img class="img-responsive" src="~/images/PatternPlay-Abstract-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.aaronhom.com/one/4_20_346.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Chairs.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Chairs.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.houzz.com/photos/11628431/Transitional-Dining-Room-transitional-dining-room-houston" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-DiningRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-DiningRoom.jpg"></a>
 	</div>
 	<div class="col-md-2">
 		<a href="http://www.rlaxerinteriors.com/holiday-house/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Foyer.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Foyer.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -47,15 +47,15 @@ End Code
 <div class="row">
 	<div class="col-md-4">
 		<a href="~/details?sku=CORT-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Cortez2Coffee.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Cortez2Coffee.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=MCCA-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-McCarthy1Sand.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-McCarthy1Sand.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=FLEM-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Flemming2Chamomile.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Flemming2Chamomile.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -63,15 +63,15 @@ End Code
 <div class="row">
 	<div class="col-md-4">
 		<a href="~/details?sku=LATV-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Latvia2Garden.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Latvia2Garden.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=VICK-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Vickery2Flamingo.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Vickery2Flamingo.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="~/details?sku=LORI-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/PatternPlay-Abstract-Lorient6Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Lorient6Violet.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>		

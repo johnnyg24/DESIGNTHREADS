@@ -20,7 +20,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Eccentricites-Emotion.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Eccentricites-Emotion.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=EMOT-3" target="_blank">Emotion 3 Fiesta</a></div>
         </div>
@@ -28,7 +28,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Collage-Darby.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Collage-Darby.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=DARB-1" target="_blank">Darby 1 Wine</a></div>
         </div>
@@ -36,7 +36,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Fluidity-Catamaran.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Fluidity-Catamaran.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=CATA-8" target="_blank">Catamaran 8 Spring</a></div>
         </div>
@@ -48,7 +48,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Intimacy-Jupiter.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Intimacy-Jupiter.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=JUPI-2" target="_blank">Jupiter 2 Heather</a></div>
         </div>
@@ -56,7 +56,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Moda-Victor.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Moda-Victor.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=VICT-1" target="_blank">Victor 1 Mulberry</a></div>
         </div>
@@ -64,7 +64,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Physicality-Lemans.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Physicality-Lemans.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=LEMA-2" target="_blank">Lemans 2 Mulberry</a></div>
         </div>
@@ -76,7 +76,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-SculptedSimplicity-Foxworth.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-SculptedSimplicity-Foxworth.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=FOXW-2" target="_blank">Foxworth 2 Espresso</a></div>
         </div>
@@ -84,7 +84,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-Techno-Sonnet.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-Techno-Sonnet.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=SONN-1" target="_blank">Sonnet 1 Copen</a></div>
         </div>
@@ -92,7 +92,7 @@ End Code
 	<div class="col-md-4">
         <div style="border:1px #cccccc solid">
             <a href="http://www.pantone.com/images/download/PANTONEVIEW_home___interiors_2014_color_palettes.pdf" target="_blank">
-            <img class="img-responsive" alt="" src="~/designthreads/images/Pantone-TribalThreads-Brussels.jpg"></a>
+            <img class="img-responsive" alt="" src="~/images/Pantone-TribalThreads-Brussels.jpg"></a>
             <hr>
             <div class="text-center"><a href="~/details?sku=BRUS-4" target="_blank">Brussels 4 Marmelade</a></div>
         </div>

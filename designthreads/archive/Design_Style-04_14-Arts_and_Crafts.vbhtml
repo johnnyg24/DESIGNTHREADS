@@ -15,11 +15,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
         <a href="http://www.obeliskhome.com/portfolio/timberwood/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-LivingRoom2.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-LivingRoom2.jpg"></a>
 	</div>
 	<div class="col-md-6">
         <a href="http://www.hartmanbaldwin.com/portfolio_page/darling-residence/#" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-LivingRoom.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-LivingRoom.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -30,15 +30,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="https://gladudesign.com/portfolio/chevy-chase-prairie/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-Kitchen2.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-Kitchen2.jpg"></a>
 	</div>
 	<div class="col-md-4">
         <a href="http://raphaelarchitects.com/portfolio/loveladies-nj/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-Kitchen.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-Kitchen.jpg"></a>
 	</div>
 	<div class="col-md-4">
         <a href="http://waynewindhamarchitect.com/feature/feature_06.html" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-DiningRoom.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-DiningRoom.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
@@ -49,21 +49,21 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="http://www.jkandsons.com/project/wayzata-arts-and-crafts/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-Bedroom2.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-Bedroom2.jpg"></a>
 	</div>
 	<div class="col-md-4">
         <a href="https://www.houzz.com/photos/3304024/Arts-and-Crafts-Cottage-craftsman-bedroom-minneapolis" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-Bedroom.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-4">
         <a href="https://www.houzz.ie/photos/173924/craftsman-done-right-arts-and-crafts-bathroom-austin" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-ArtsCrafts-Bathroom.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtsCrafts-Bathroom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>	
 <hr>
 	
-<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/designthreads/images/DesignStyle-ArtsAndCrafts-Collage.jpg"></div>
+<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/images/DesignStyle-ArtsAndCrafts-Collage.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

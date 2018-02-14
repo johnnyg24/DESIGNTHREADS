@@ -15,10 +15,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-	<a href="http://www.jpwaltersdesign.com/portfolio/huxford-bedroom/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AsianInfluence-Bedroom.jpg"></a>
+	<a href="http://www.jpwaltersdesign.com/portfolio/huxford-bedroom/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-AsianInfluence-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-6">
-	<a href="http://www.icustomdesigns.com/projects/56553/astoria-design-house-irvine" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AsianInfluence-Bedroom2.jpg"></a>
+	<a href="http://www.icustomdesigns.com/projects/56553/astoria-design-house-irvine" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-AsianInfluence-Bedroom2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -28,10 +28,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-	<a href="https://www.houzz.co.uk/photos/11095630/tatami-dining-room-steamboat-storm-meadow-drive-mountain-asian-fusion-asian-dining-room-denver" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AsianInfluence-DiningRoom.jpg"></a>
+	<a href="https://www.houzz.co.uk/photos/11095630/tatami-dining-room-steamboat-storm-meadow-drive-mountain-asian-fusion-asian-dining-room-denver" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-AsianInfluence-DiningRoom.jpg"></a>
 	</div>
 	<div class="col-md-6">
-	<a href="http://kuhnriddle.com/portfolio/singlefamily/ridge-view-residence/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AsianInfluence-DiningRoom2.jpg"></a>
+	<a href="http://kuhnriddle.com/portfolio/singlefamily/ridge-view-residence/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-AsianInfluence-DiningRoom2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -40,7 +40,7 @@ End Code
 <div class="spacer-"></div>
 
 <div align="center">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Oriental-LR.jpg">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-LR.jpg">
     <div class="source-link">Room Image Credit: <a href="http://freshome.com/2014/07/28/japanese-inspired-retreat-generating-a-soothing-ambiance-the-azumi-house/" target="_blank">WB Homes</a>
     </div>
 </div>
@@ -48,15 +48,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=ALGI-8" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Oriental-Algiers8Dusk.jpg"></a>
+		<a href="~/details?sku=ALGI-8" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Algiers8Dusk.jpg"></a>
 		<div class="text-center">Number 1: Algiers 8 Dusk</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SUIT-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Oriental-Suite1Snow.jpg"></a>
+		<a href="~/details?sku=SUIT-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Suite1Snow.jpg"></a>
 		<div class="text-center">Number 2: Suite 1 Snow</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SOLE-2" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Oriental-Solebury2Antique.jpg"></a>
+		<a href="~/details?sku=SOLE-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Solebury2Antique.jpg"></a>
 		<div class="text-center">Number 3: Solebury 2 Antique</div>
 	</div>
 </div>

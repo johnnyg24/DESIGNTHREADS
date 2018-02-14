@@ -25,7 +25,7 @@ End Code
 <p>"Going Green' is not only a lifestyle- it is a way of thinking. Changing how you look at and think of your choices may mean investing a few more moments of your time now and then, but in the long run- they will certainly pay off. Not only for you, but for the environment too. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/designthreads/images/Celebrate-EarthEcoProducts.jpg"></div>
+<div align="center"><img class="img-responsive" style="border:1px #cccccc solid" alt="" src="~/images/Celebrate-EarthEcoProducts.jpg"></div>
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">

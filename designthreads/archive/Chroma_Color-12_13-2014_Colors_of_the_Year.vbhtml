@@ -22,11 +22,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.pantone.com/pages/index.aspx?pg=21129" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014CotY-RadiantOrchid.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2014CotY-RadiantOrchid.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/CC-2014-Pantone.jpg" target="blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014-Pantone.jpg"></a>
+		<a href="~/images/CC-2014-Pantone.jpg" target="blank">
+		<img class="img-responsive" alt="" src="~/images/CC-2014-Pantone.jpg"></a>
 	</div>
 </div>
 <hr>
@@ -38,11 +38,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.benjaminmoore.com/en-us/for-architects-and-designers/color-trends-2014" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014CotY-BM-BreathofFreshAir.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2014CotY-BM-BreathofFreshAir.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/CC-2014-BM.jpg" target="blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014-BM.jpg"></a>
+		<a href="~/images/CC-2014-BM.jpg" target="blank">
+		<img class="img-responsive" alt="" src="~/images/CC-2014-BM.jpg"></a>
 	</div>
 </div>
 <hr>
@@ -54,11 +54,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.sherwin-williams.com/architects-specifiers-designers/inspiration/color-forecast/2014-color-forecast/color-of-the-year/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014CotY-SW-ExclusivePlum.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-2014CotY-SW-ExclusivePlum.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/designthreads/images/CC-2014-SW.jpg" target="blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-2014-SW.jpg"></a>
+		<a href="~/images/CC-2014-SW.jpg" target="blank">
+		<img class="img-responsive" alt="" src="~/images/CC-2014-SW.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

@@ -16,15 +16,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.houzz.com/photos/36538314/Transitional-Dining-Room-transitional-dining-room-vancouver" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-DR2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-DR2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.thedesignco.ca/portfolio/austin-terrace-dining-room/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-DR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-DR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="https://www.robingannoninteriors.com/newcolonial" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-DR3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-DR3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -35,11 +35,11 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-6">
 		<a href="http://www.shelbywood.com/#/mar-vista/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-BR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-BR.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.designlinesltd.com/portfolio-projects/nc-state-chancellors-residence/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-BR3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-BR3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -50,15 +50,15 @@ End Code
 <div align="center" class="row">
 	<div class="col-md-4">
 		<a href="http://www.eskuche.com/portfolio/gallery/lake-elmo-lodge" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-LR.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-LR.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.brightonbuilderssc.com/portfolio-item/5-baltusrol/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-LR2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-LR2.jpg"></a>
 	</div>
 	<div class="col-md-4">
 		<a href="http://www.robingonzalesinteriors.com/living-portfolio/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-LR3.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-LR3.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -68,7 +68,7 @@ End Code
 
 <div align="center">
     <a href="http://www.thedesignco.ca/portfolio/oriole-avenue-principal-bedroom/" target="_blank">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Transitional-BR2.jpg"></a>
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Transitional-BR2.jpg"></a>
 </div>
 <div class="spacer"></div>
  

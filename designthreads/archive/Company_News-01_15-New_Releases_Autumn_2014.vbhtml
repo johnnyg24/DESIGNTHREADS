@@ -7,7 +7,7 @@ End Code
 
 	
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn14-Drapery1375-81.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn14-Drapery1375-81.jpg"></div>
 <div class="spacer"></div>
 <p><strong>A Drapery Story:</strong></p>
 <ul class="list-group no-side-border">
@@ -23,7 +23,7 @@ End Code
 <hr />
 <div class="spacer"></div>	
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-NR-Autumn14-1374-Matelasse.jpg"></div>		
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-NR-Autumn14-1374-Matelasse.jpg"></div>		
 <div class="spacer"></div>			
 <p><a href="~/search/results?page=1&bknum=1374" target="_blank">Matelass&eacute; Medley</a>, Book 1374.</p>
 <p> Durable and distinguished, matelass&eacute; is a versatile fabric that is suitable for many uses. Our Matelass&eacute; Medly book consists of an array of unique patterns that will contribute a subtle effect to any design. Arranged in a stylized color format, our matelass&eacute; collection is constructed for use on bedspreads and coverlets as well as drapery and upholstery.</p> 		

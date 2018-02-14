@@ -7,7 +7,7 @@ End Code
 
 
 <div class="spacer"></div>
-<p align="center"><img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Register.jpg"></p>
+<p align="center"><img class="img-responsive" alt="" src="~/images/History-Tartan-Register.jpg"></p>
 <div class="spacer"></div>
 		
 <p class="opening">@PageData("description")</p>
@@ -25,17 +25,17 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="https://archiveshub.jisc.ac.uk/features/textiles.shtml" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-DressMacfarlane.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-DressMacfarlane.jpg"></a>
             <div class="text-center">Dress MacFarlane tartan wool plaid with fringed ends, early 19th century.</div>
     </div>
 	<div class="col-md-4">
         <a href="http://www.metmuseum.org/collection/the-collection-online/search/13633?rpp=30&pg=1&ft=plaid&pos=3" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Coverlet.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-Coverlet.jpg"></a>
             <div class="text-center">Plaid wool coverlet, ca. 1840</div>
     </div>
 	<div class="col-md-4">
         <a href="http://collections.vam.ac.uk/item/O1247192/textile-cuttings-gammack-caroline-augusta/" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Cutting.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-Cutting.jpg"></a>
             <div class="text-center">Textile cuttings from a Princess Beatrice evening dress, ca. 1885</div>
     </div>
 </div>
@@ -47,17 +47,17 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
         <a href="http://www.balmoralcastle.com/slideshow-10.htm" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Balmoral-Bdrm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-Balmoral-Bdrm.jpg"></a>
             <div class="text-center">Balmoral Castle</div>
     </div>
 	<div class="col-md-4">
         <a href="http://www.balmoralcastle.com/slideshow-10.htm" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Balmoral-DressingRm.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-Balmoral-DressingRm.jpg"></a>
             <div class="text-center">Balmoral Castle</div>
     </div>
 	<div class="col-md-4">
         <a href="http://www.balmoralcastle.com/slideshow-10.htm" target="_blank">
-        <img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-Balmoral-LR.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/History-Tartan-Balmoral-LR.jpg"></a>
             <div class="text-center">Balmoral Castle</div>
     </div>
 </div>
@@ -66,7 +66,7 @@ End Code
 <p>Twenty years later, Queen Victoria, niece to King George IV, and her husband Prince Albert visited the Scottish Highlands. Immediately falling in love with the raw beauty of the landscape and the hearty admiration of the Scottish people, the Queen and Prince decided to purchase the Balmoral Castle. Remodeling the estate in "Scots Baronial" style, Prince Albert handled the interior design where he had made great use of tartan. Utilizing a variety of named tartans, the Prince used these on everything from carpets and curtains to upholstery. Being so impassioned with tartan, both Queen Victoria and Prince Albert designed their own, with the Queen creating the 'Victoria' tartan and the Prince the 'Balmoral', which is still used as a royal tartan today. </p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/History-Tartan-BalmoralBk.jpg"></div>	
+<div align="center"><img class="img-responsive" alt="" src="~/images/History-Tartan-BalmoralBk.jpg"></div>	
 <div class="spacer"></div>
 
 <p>Their love for Scotland and its tartan had the rest of Europe taking notice. It was not long before tartan found itself being widely used outside of its homeland. Tartanware, or ordinary objects that incorporated a tartan pattern, became a favorite gift and few who travelled to Scotland left without at least one piece of it. Besides its popularity as a home decor gift, tartan also made waves in the fashion industry. During the late 18th to early 19th century, tartan began to shift away from being menswear and more into feminine fashion. Being featured in fashion catalogs brought tartan to a new level of class. The fashionable use of tartan in the aristocracy brought about an air of exclusivity that still is felt today. </p>

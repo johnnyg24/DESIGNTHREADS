@@ -16,11 +16,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://designfile.architecturaldigest.com/photo/beach-living-room-karin-blake-malibu-california-200801?sponsor=" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-LivingRoom2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-LivingRoom2.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://designfile.architecturaldigest.com/photo/rustic-dining-room-backen-gillam-kroeger-architects-st-helena-california-200910?sponsor=" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-DiningRoom2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-DiningRoom2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -31,11 +31,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/photos/16439333/Farmhouse-Living-Room-farmhouse-living-room-other-metro" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-LivingArea.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-LivingArea.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://maraya.com/portfolio-residential-ranch/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-MasterBdRm.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-MasterBdRm.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -46,11 +46,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="https://24mm.co.uk/interior-photographs-north-yorkshire-cottage/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-Kitchen.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-Kitchen.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://herzogarch.com/selected-projects/park-slope-brownstone/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-Kitchen2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-Kitchen2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -61,11 +61,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="http://www.homebunch.com/spain/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-Bedroom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-Bedroom.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://rsassoc.com/project/stratford-mountain/" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-Bedroom2.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-Bedroom2.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -76,11 +76,11 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="https://www.lapisray.com/portfolio?lightbox=dataItem-ipoi7qmi" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-DiningRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-DiningRoom.jpg"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="http://www.houzz.com/photos/11715283/Butcher-Ranch-farmhouse-living-room-other-metro" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-LivingRoom.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-LivingRoom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -89,7 +89,7 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-OpenConcept.jpg">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept.jpg">
     <div class="source-link">Source: <a href="http://www.houzz.com/photos/3650276/From-Barn-to-Spacious-Seattle-Home-farmhouse-family-room-seattle" target="_blank">Roger Turk, Northlight Photography</a>; via Houzz.</div>
 </div>
 <div class="spacer"></div>
@@ -97,22 +97,22 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-3">
 		<a href="~/details?sku=OFFL-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-OpenConcept-Offlimits1Clay.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Offlimits1Clay.jpg"></a>
 		Number 1. Offlimits 1 Clay
 	</div>
 		<div class="col-md-3">
 		<a href="~/details?sku=GOWN-5" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-OpenConcept-Gown5Curry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Gown5Curry.jpg"></a>
 		Number 2. Gown 5 Curry
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CREO-10" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-OpenConcept-Creole10Camel.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Creole10Camel.jpg"></a>
 		Number 3. Creole 10 Camel
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=VLAD-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-AmericanCountry-OpenConcept-Vladimir1Porcelain.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Vladimir1Porcelain.jpg"></a>
 		Number 4. Vladimir 1 Porcelain
 	</div>
 </div>

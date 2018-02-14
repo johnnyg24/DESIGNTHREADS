@@ -16,25 +16,25 @@ End Code
 <h4>HOLISTIC</h4>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-HOLISTIC.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2017-HOLISTIC.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
     <div class="col-md-3">
 		<a href="~/details?sku=FLEU-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Holistic-Fleur3Harbor.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Fleur3Harbor.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=KIRC-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Holistic-Kirch1Blueberry.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Kirch1Blueberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=LORE-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Holistic-Loretta1Coral.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Loretta1Coral.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=ABIG-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Holistic-Abigail2Grey.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Abigail2Grey.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -46,25 +46,25 @@ End Code
 <h4>INTREPID</h4>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-INTREPID.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2017-INTREPID.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=SITK-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Intrepid-Sitka1Jewel.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Sitka1Jewel.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=VEND-14" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Intrepid-Vendi14Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Vendi14Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CEZA-6" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Intrepid-Cezanne6Walnut.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Cezanne6Walnut.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=CHAC-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Intrepid-Chacha1Sunset.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Chacha1Sunset.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -76,25 +76,25 @@ End Code
 <h4>NOIR</h4>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-NOIR.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2017-NOIR.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=BINN-3" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Noir-Binney3Vineyard.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Binney3Vineyard.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=EMOT-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Noir-Emotion1Violet.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Emotion1Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=GLAS-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Noir-Glasgow2Regatta.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Glasgow2Regatta.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=TRIF-11" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Noir-Trifecta11Citrine.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Trifecta11Citrine.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -106,25 +106,25 @@ End Code
 <h4>UNBOUNDED</h4>
 <div class="spacer-1x"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-UNBOUNDED.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2017-UNBOUNDED.jpg"></div>
 <div class="spacer"></div>
 
 <div align="center" class="row">
 	<div class="col-md-3">
 		<a href="~/details?sku=HADR-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Unbounded-Hadrane2Bahama.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Hadrane2Bahama.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=HOTW-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Unbounded-Hotwave2Festival.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Hotwave2Festival.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=SMIL-2" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Unbounded-Smile2Festival.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Smile2Festival.jpg"></a>
 	</div>
 	<div class="col-md-3">
 		<a href="~/details?sku=WAHO-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CC-SW2017-Unbounded-Wahoo1Mango.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Wahoo1Mango.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>

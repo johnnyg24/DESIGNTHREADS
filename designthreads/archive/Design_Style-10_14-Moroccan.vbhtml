@@ -15,10 +15,10 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://www.alessiomei.com/images/img_5581.jpg?crc=330010011" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Marrakech-LR.jpg"></a>
+		<a href="http://www.alessiomei.com/images/img_5581.jpg?crc=330010011" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Marrakech-LR.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://lauraudesign.wpengine.com/blog/portfolio/details/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-SouthHampton.jpg"></a>
+		<a href="http://lauraudesign.wpengine.com/blog/portfolio/details/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-SouthHampton.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -28,10 +28,10 @@ End Code
 	
 <div class="row" align="center">
 	<div class="col-md-6">
-		<a href="http://www.ursodesignsinc.com/projects/making-merry-marrakesh/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-DR-Vignette.jpg"></a>
+		<a href="http://www.ursodesignsinc.com/projects/making-merry-marrakesh/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-DR-Vignette.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.digsdigs.com/51-relaxing-moroccan-living-rooms/pictures/57964/" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-SittingRoom.jpg"></a>
+		<a href="http://www.digsdigs.com/51-relaxing-moroccan-living-rooms/pictures/57964/" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-SittingRoom.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -40,30 +40,30 @@ End Code
 <div class="spacer"></div>	
 	
 <div align="center">
-    <img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Bedroom.jpg">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Bedroom.jpg">
     <div class="source-link">Room Image Credit: <a href="http://www.maisonrougemarrakech.com/galerie.html" target="_blank">Riad La Maison Rouge Hotel, Marrakech Morocco</a></div>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=MALV-13" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Malvern13Olive.jpg"></a>
+		<a href="~/details?sku=MALV-13" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Malvern13Olive.jpg"></a>
 		<div class="text-center">Number 1: Malvern 13 Olive</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=GUTH-1" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Guthrie1Pumpkin.jpg"></a>
+		<a href="~/details?sku=GUTH-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Guthrie1Pumpkin.jpg"></a>
 		<div class="text-center">Number 2: Guthrie 1 Pumpkin</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=MANA-56" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Manage56Orchid.jpg"></a>
+		<a href="~/details?sku=MANA-56" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Manage56Orchid.jpg"></a>
 		<div class="text-center">Number 3: Manage 56 Orchid</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=BUFF-34" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Buffer34Pecan.jpg"></a>
+		<a href="~/details?sku=BUFF-34" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Buffer34Pecan.jpg"></a>
 		<div class="text-center">Number 4: Buffer 34 Pecan</div>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=GOWN-6" target="_blank"><img class="img-responsive" alt="" src="~/designthreads/images/DesignStyle-Moroccan-Gown6Marigold.jpg"></a>
+		<a href="~/details?sku=GOWN-6" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Moroccan-Gown6Marigold.jpg"></a>
 		<div class="text-center">Number 5: Gown 6 Marigold</div>
 	</div>
 </div>

@@ -10,25 +10,25 @@ End Code
 <h4><strong>New Releases, Winter 2015</strong></h4>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-EmbroideryIV.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-EmbroideryIV.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1383" target="_blank">Embroidery IV, Book 1383</a></strong></p>
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-TheNaturals.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-TheNaturals.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1384" target="_blank">The Naturals, Book 1384</a></strong></p>
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-TakeItEasy.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-TakeItEasy.jpg"></div>
 <div class="spacer"></div>
 <p><strong><a href="~/search/results?page=1&bknum=1385" target="_blank">Take It Easy (Indoor/Outdoor), Book 1385</a></strong></p>
 <hr>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-RL19.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-RL19.jpg"></div>
 <div class="spacer"></div>
 <p><strong>Rainbow Library</strong></p>
 <ul class="list-group no-side-border">
@@ -52,24 +52,24 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/designthreads/images/CN-RE-Spring'15-WCAA-Welcome.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-WCAA-Welcome.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-WCAA-Welcome.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-WCAA-Welcome.jpg"></a>
 	</div>
 	<div class="col-md-2">	
-		<a href="~/designthreads/images/CN-RE-Spring'15-WCAA-RightTable.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-WCAA-RightTable.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-WCAA-RightTable.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-WCAA-RightTable.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/designthreads/images/CN-RE-Spring'15-WCAA-LeftTable.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-WCAA-LeftTable.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-WCAA-LeftTable.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-WCAA-LeftTable.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/designthreads/images/CN-RE-Spring'15-WCAA-John.jpg" target="_blank">
-		<img class="img-responsive" src="~/designthreads/images/CN-RE-Spring'15-WCAA-John.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-WCAA-John.jpg" target="_blank">
+		<img class="img-responsive" src="~/images/CN-RE-Spring'15-WCAA-John.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/designthreads/images/CN-RE-Spring'15-WCAA-Group.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-WCAA-Group.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-WCAA-Group.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-WCAA-Group.jpg"></a>
 	</div>
 </div>		
 <hr>
@@ -81,20 +81,20 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-Spring'15-Group1.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-Group1.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-Group1.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-Group1.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-Spring'15-Group2.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-Group2.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-Group2.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-Group2.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-Spring'15-Group3.jpg" target="_blank">	
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-Group3.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-Group3.jpg" target="_blank">	
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-Group3.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/designthreads/images/CN-RE-Spring'15-Group4.jpg" target="_blank">
-		<img class="img-responsive" alt="" src="~/designthreads/images/CN-RE-Spring'15-Group4.jpg"></a>
+		<a href="~/images/CN-RE-Spring'15-Group4.jpg" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/CN-RE-Spring'15-Group4.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
