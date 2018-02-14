@@ -50,7 +50,7 @@ End Code
                 </td>
                 <td id="sb-title-wrap">
                     
-                        <h1>DESIGN THREAD</h1>
+                        <h1>DESIGN THREADS</h1>
                         <h5>a blog for today's designer</h5>
                     
                 </td>
