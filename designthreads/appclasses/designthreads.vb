@@ -8,7 +8,7 @@ Public Class designthreads
 
 
     Sub init()
-        Dim di As New DirectoryInfo("\\webserver2\designthreads\archive")
+        Dim di As New DirectoryInfo("\\webserver2\blog\archive")
         ' Get a reference to each file in that directory.
         Dim fiArr As FileInfo() = di.GetFiles()
         ' Display the names of the files.
