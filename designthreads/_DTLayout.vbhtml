@@ -38,7 +38,7 @@ End Code
                 </td>
                 <td id="sb-title-wrap">
                     <a href="http://blog.estout.com">
-                        <h1>DESIGN THREADsss</h1>
+                        <h1>DESIGN THREAD</h1>
                         <h5>a blog for today's designer</h5>
                     </a>
                 </td>
