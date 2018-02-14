@@ -1,12 +1,24 @@
 ﻿@code
     Dim designthreads As New designthreads.designthreads
     designthreads.init()
+
 End Code
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114180545-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-114180545-1');
+    </script>
+
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="tfNSJev25wB6YERaXWiXLI5Pzj6q5TrUOmzC1KgxN7k" />
     <meta name = "viewport" content="width=device-width, initial-scale=1">
     <meta name = "keywords" content="Stout, Interior Design, To the Trade, Wholesale, Fabrics, Trimmings, Drapery Hardware, Marcus William, Cypton, Sunbrella, Nanotex, Upholstery, Drapery, Multipurpose" />
     @If PageData("description") IsNot Nothing Then
@@ -38,11 +50,11 @@ End Code
                 </td>
                 <td id="sb-title-wrap">
                     
-                        <h1>DESIGN THREAD</h1>
+                        <h1>DESIGN THREADS</h1>
                         <h5>a blog for today's designer</h5>
                     
                 </td>
-                <td id="sb-menu-wrap" class="d-md-none" onclick="$('.nav-toggle').toggle()">
+                <td id="sb-menu-wrap" class="d-md-none text-right" onclick="$('.nav-toggle').toggle()">
                     <i class="fas fa-bars" style="margin-left:10px"></i>
                 </td>
             </tr>

@@ -5,6 +5,7 @@ Public Class designthreads
     Public cats As New SortedDictionary(Of String, String)
     Public arts As New SortedDictionary(Of String, String)
     Public catsdt As New SortedDictionary(Of String, Integer)
+    Public currentCat As String = ""
 
 
     Sub init()
@@ -19,7 +20,7 @@ Public Class designthreads
         Dim c As Object = Split(lastPart, "-")
         Dim cat As String = c(0)
         cat = Replace(cat, "_", " ")
-
+        currentCat = cat
         For Each objFile In fiArr
             Dim o As Object = Split(objFile.Name, "-")
 
