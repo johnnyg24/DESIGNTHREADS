@@ -83,11 +83,7 @@ End Code
             
         </div>
     </div>
-    <div id="sb-full-bg">
-        <div id="sb-full-page-caption">
-            <span class="border">DORTHY</span><span class="border">DRAPER</span>
-        </div>
-    </div>
+    
     <div class="container">
         <div id="body">
             <script src="~/Scripts/bundle.min.js"></script>
