@@ -54,7 +54,7 @@ End Code
                         <h5>a blog for today's designer</h5>
                     
                 </td>
-                <td id="sb-menu-wrap" class="d-md-none" onclick="$('.nav-toggle').toggle()">
+                <td id="sb-menu-wrap" class="d-md-none text-right" onclick="$('.nav-toggle').toggle()">
                     <i class="fas fa-bars" style="margin-left:10px"></i>
                 </td>
             </tr>
