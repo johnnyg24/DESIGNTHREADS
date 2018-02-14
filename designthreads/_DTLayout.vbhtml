@@ -37,10 +37,10 @@ End Code
                     </a>
                 </td>
                 <td id="sb-title-wrap">
-                    <a href="http://blog.estout.com">
+                    
                         <h1>DESIGN THREAD</h1>
                         <h5>a blog for today's designer</h5>
-                    </a>
+                    
                 </td>
                 <td id="sb-menu-wrap" class="d-md-none" onclick="$('.nav-toggle').toggle()">
                     <i class="fas fa-bars" style="margin-left:10px"></i>
@@ -59,7 +59,7 @@ End Code
                 <li class="nav-toggle"><a href="~/archive/@(designthreads.cats("History"))">History</a></li>
                 <li class="nav-toggle"><a href="~/archive/@(designthreads.cats("Pattern Playfulness"))">Pattern Playfulness</a></li>
                 <li class="nav-toggle"><a href="~/archive/@(designthreads.cats("Trends"))">Trends</a></li>
-                <li class="dropdown nav-toggle">
+                <li class="dropdown nav-toggle" style="padding-bottom:20px">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
                     <ul class="dropdown-menu sb-primary-bg">
                         <li><a href="~/archive/@(designthreads.cats("Celebrate"))">Celebrate</a></li>
