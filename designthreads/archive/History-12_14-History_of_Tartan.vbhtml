@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Tartan"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Cozy and traditional, plaid is a holiday season staple."
 End Code
 

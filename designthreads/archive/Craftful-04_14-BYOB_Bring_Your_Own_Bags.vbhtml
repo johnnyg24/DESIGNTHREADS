@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Bring Your Own Bags"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While celebrating Earth Day this month, why not take this opportunity to promote a 'greener' lifestyle by reducing your fabric scrap stash and making a reusable shopping bag?"
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Pattern Playfulness: Plaid"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "A defining element of many generations, plaid is still both fun and fashionable."
 End Code
 

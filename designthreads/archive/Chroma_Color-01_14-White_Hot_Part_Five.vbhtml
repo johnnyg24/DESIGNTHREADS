@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: White Hot- Part 5, Bathrooms"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Bathrooms, while strictly utilitarian in nature, have become more inviting."
 End Code
 

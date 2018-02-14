@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Leather Upholstery"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "It is difficult to say when exactly leather began its journey as an upholstery fabric. The use of leather is known from the time of Neanderthals but when it became commonplace as upholstery is still a guess. Used without proper tanning processes, leather dries out and fails quickly; however once it was realized that treating leather prolongs as well as strengthens it, leather saw its popularity rise."
 End Code
 

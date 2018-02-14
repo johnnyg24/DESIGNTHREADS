@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "History of: Matelassé"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The history of Matelass&eacute; may not be one studded with thrilling tales, however its story is one that compliments its uniqueness in the textile industry."
 End Code
 

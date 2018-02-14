@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "History of: Damask"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Well known for their unique beauty, Damask fabrics feature striking motifs of botanicals and animals that are intricately woven into a shimmering design. Unlike most woven goods though, damasks are reversible, with their opposite side the inverse of its face."
 End Code
 

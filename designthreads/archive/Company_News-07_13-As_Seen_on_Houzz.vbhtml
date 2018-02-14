@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: As Seen on Houzz"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "As seen on Houzz"
 End Code
 

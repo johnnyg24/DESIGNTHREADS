@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Crewel"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "For centuries, crewel embroidery has been prized for its unique handcrafted art."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Enigmatic Green"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "They're dark. Mysterious. Moody and enigmatic. Deep, shadowy greens are unveiling themselves as a trending color palette."
 End Code
 

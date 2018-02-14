@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Pattern Playfulness: Foliage"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Fresh and green, the foliage of Spring is a reminder of Nature's inspiring beauty."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: The New Year"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Welcome in the New Year with some festive cheer!"
 End Code
 

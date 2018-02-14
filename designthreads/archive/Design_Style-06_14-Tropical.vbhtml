@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Tropical"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Sunny, warm days seem to induce a leisurely attitude- one that just 'goes with the flow'. Similarly, the design style of 'Tropical' also exudes a relaxed, vacation-esque atmosphere."
 End Code
 

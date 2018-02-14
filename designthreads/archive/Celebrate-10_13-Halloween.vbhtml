@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Halloween"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "As the leaves fall and the enjoyment of Autumn reaches its peak, October also brings with it the increasingly outlandish holiday of Halloween."
 End Code
 

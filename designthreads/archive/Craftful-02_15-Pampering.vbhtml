@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Pampering"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "February is well known for its romanticism; Valentine's Day provides many with a reason to express their love."
 End Code
 

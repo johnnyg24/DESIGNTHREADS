@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Dye Job"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The organic nature of hand-dyed fabrics provides a resiliency that keeps it coming back into style."
 End Code
 

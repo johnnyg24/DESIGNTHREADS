@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Houndstooth"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "As its canine sounding name suggests, the Houndstooth pattern derives its name from the resemblence to dogs teeth."
 End Code
 

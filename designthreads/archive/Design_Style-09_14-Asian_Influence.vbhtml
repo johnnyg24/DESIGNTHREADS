@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Asian Influence"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Full of rich, detailed history, both the Chinese and Japanese cultures offer inspiring interiors. From the natural zen-like styles of the Japanese to the ornate embellished interiors of the Chinese, Asian designs are strongly influencing todays interiors."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Homearama NY 2014"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Stout was the proud supplier of textiles for one of the Rochester, New York 'Homearama 2014' showhouses."
 End Code
 

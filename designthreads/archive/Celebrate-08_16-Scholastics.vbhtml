@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Scholastics"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "August celebrates not only summer but also the 'back to school' season."
 End Code
 

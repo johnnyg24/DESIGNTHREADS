@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: A Leopard's Spots"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "A leopard cannot changes its spots but who would want it too? Beautiful and graceful creatures, it is their spots that are slinking into todays designs."
 End Code
 

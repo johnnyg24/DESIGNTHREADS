@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pantone Fall Forecast 2013"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Trends come and go but good design lasts forever."
 End Code
 

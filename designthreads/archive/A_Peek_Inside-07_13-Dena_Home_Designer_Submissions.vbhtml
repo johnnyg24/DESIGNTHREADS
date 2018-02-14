@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "'Dena Home' Designer Submissions"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Sunny and sweet, our Dena Home collections are perfect for adding a touch of summer to your home."
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Cool Blue Cornices"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Versatile and simply designed, cornices are the perfect finishing touch."
 End Code
 End Code

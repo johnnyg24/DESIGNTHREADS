@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Sherwin Williams Forecast 2016"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Sherwin Williams, while known for their high quality paints, also retains an authority over future color forecasts and trends."
 End Code
 

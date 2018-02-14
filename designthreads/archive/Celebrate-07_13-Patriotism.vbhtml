@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Patriotism"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Everyone looks forward to the beginning of summer. School is out, the sun is shining and the smell of barbecue is heavy in the air."
 End Code
 

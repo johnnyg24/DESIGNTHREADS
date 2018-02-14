@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Retro"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "In today's design standards, 'retro' is a style that confidently combines an authentic look with the best of today's technologies while remaining appropriately nostalgic."
 End Code
 

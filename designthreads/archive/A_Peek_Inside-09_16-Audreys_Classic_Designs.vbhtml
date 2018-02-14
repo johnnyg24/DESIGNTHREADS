@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Audrey's Classic Designs"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Let's take A Peek Inside this remarkable submission from Audrey's Classic Designs in Johnstown, NY."
 End Code
 

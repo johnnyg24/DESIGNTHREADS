@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Suzani"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "A cultural phenom, the suzani pattern is now enriching homes all over the world with its striking motifs."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Chenille"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "From the French word for 'caterpillar', Chenille has inched its way back into our homes."
 End Code
 

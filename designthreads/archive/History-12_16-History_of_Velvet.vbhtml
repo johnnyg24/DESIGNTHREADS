@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "History of: Velvet"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Sumptuous, sensually soft, and uncommonly sophisticated velvet boasts an exclusive history, filled with the richness of royalty."
 End Code
 

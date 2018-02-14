@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Whimsical Windows"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Windows are the wonders of interior design."
 End Code
 

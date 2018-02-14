@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Stout Tour: Our Showroom"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "In the small town of Colmar, Pennsylvania on the strangely named Trewigtown Road sits a brick faced building. Here is the home of Stout Brothers Textiles. Offices, customer service, a warehouse, design room, and last but not least a showroom all fit together to create a business epicenter. 'A Peek Inside' will take you through this quaint little building."
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Celebrate: Father's Day"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Just as summer begins to kick into high gear, the often overlooked holiday of Father's Day comes along."
 End Code
 

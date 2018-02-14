@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: White Hot- Part 4, Living Rooms"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Warm, inviting living rooms are the key to a happy home. They are meant to be lived in and loved. Hosting family and friends is their function, however creating an appropriate atmosphere for each gathering requires the room to be flexible. There is no more flexible design than that of white."
 End Code
 

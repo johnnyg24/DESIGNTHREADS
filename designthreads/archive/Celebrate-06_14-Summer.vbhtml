@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Summer"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Transitioning from Spring's softer color schemes to Summer's more punchy palette is something many of us excitedly look forward to."
 End Code
 

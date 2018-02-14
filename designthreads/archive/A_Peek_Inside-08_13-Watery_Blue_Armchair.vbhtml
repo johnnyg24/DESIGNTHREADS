@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Watery Blue Armchair"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Luxuriating in your favorite space is a great reason to design it around your favorite things."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: White Hot- Part 6, Patio's & Porches"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With Spring right around the corner, now is a great time to start preparing those patio's and porches for use."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Labor Day"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Kicking off September is the Labor Day holiday. Thought of as more of a 'last hurrah' for summer than a true holiday, the meaning of Labor Day has slowly been forgotten. However, without Labor Day, America's workforce would quite possibly be very different."
 End Code
 

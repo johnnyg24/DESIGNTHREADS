@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Moroccan"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Lavish without being gaudy, the Moroccan method of interior design thrills the senses. A visual masterpiece, these interiors are impeccably designed with fine details. From extraordinary tiling to decadent textiles, these homes are truly unique unto themselves."
 End Code
 

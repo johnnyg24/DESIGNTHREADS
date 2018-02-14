@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Pantone Fall Forecast 2014"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The rythmic cycle of the seasons brings us new inspiration just as we are beginning to tire of the old."
 End Code
 

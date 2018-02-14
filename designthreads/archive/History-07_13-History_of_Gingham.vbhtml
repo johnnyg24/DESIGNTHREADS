@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Gingham"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "As July is National Picnic Month, it is fitting that we look at the history of our favorite picnic fabric- Gingham."
 End Code
 

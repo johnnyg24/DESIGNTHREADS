@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Baroque"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Extraordinary and extreme, Baroque interiors are the epitome of dramatic designs."
 End Code
 

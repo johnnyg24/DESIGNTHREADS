@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "The Stout Tour: Our Design Center"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Our next glimpse inside Stout Brothers will introduce you to our design room."
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Trends: 2017 Predictions"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With the new year comes the will to set new goals, a chance to refresh ourselves, and of course follow along on the adventure of trend-casting."
 End Code
 

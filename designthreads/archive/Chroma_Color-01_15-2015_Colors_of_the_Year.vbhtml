@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: 2015 Colors of the Year"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Adding anticipation and excitement to the start of a new year, color companies tantalize our creative desires by releasing their color forecasts for the coming year."
 End Code	
 

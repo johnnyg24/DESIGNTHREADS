@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: Marcus William - 2014 Year in Review"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Introduced in 2013, Marcus William has established itself as an exclusive, refined brand. Growing from one collection at its debut to seven as of 2014, this addition to The Stout Group is thriving with its unique textile selections. Gathering inspiration from across the globe, Marcus William brings innovative designs, techniques, and styles to your home."
 End Code
 

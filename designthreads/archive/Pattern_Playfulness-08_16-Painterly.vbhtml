@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Painterly"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Defined as, ...characterized by qualities of color, stroke, and texture rather than of line, the painterly pattern is the epitome of perfect imperfection."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Indoor/Outdoor Fabrics"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Spring is upon us and as the season of outdoor entertaining gets under way, now is a great time to look into the new and revolutionary world of indoor/ outdoor fabrics. As functionally complete as anyone could dare dream, these new textiles introduce a whole new set of standards for versatility. No longer restricted to the patio, outdoor fabrics are now finding their way into our homes."
 End Code
 

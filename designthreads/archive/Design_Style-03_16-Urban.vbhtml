@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Urban"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Having just examined Industrial interiors, it is fitting to continue on and take a look into its quirky, yet refined design cousin- Urban interiors."
 End Code
 

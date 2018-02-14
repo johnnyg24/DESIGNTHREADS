@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Abstract"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Patterns are everywhere. Whether they are repetitious or random, our daily lives are satiated with them."
 End Code
 

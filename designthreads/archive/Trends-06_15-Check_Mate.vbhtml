@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Check Mate"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Following in the footsteps of the geometric trend, buffalo check is now catching the eye of many."
 End Code
 

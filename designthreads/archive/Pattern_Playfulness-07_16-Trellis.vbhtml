@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Pattern Playfulness: Trellis"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Evoking images of latticework covered with flowering, trailing vines, the trellis pattern has surged in popularity within recent years."
 End Code
 

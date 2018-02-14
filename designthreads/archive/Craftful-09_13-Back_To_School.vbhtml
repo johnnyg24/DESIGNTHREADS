@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Back to School"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With the start of September comes the start of school. Grade school, high school or college, they all bear the dreaded 'back to school' shopping lists."
 End Code
 

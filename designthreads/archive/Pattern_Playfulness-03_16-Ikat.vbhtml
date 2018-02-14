@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Ikat"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Meaning 'to tie', ikat is a highly skilled resist-dying technique used in a diverse selection of textiles."
 End Code
 

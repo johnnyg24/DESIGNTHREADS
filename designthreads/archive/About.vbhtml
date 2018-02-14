@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "About Design Threads"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Stout Brothers is excited to now offer an online resource for your home. Gather ideas and gain inspiration as we explore all areas of interior design."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: White Hot- Part 2, Dining Rooms"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "White dining rooms are the epitome of clean and classic design."
 End Code
 

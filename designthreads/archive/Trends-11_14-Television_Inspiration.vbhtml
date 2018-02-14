@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Television Inspiration"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Inspiration can be found everywhere you look. From the great outdoors to the world wide web, inspiration is right in front of us."
 End Code
 

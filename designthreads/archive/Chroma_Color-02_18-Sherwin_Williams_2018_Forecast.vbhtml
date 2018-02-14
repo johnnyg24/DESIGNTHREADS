@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Sherwin Williams Colormix 2018"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Described as a 'collision of influences', Sherwin Williams believes the color palette is also symbolic of our connection with community."
 End Code
 

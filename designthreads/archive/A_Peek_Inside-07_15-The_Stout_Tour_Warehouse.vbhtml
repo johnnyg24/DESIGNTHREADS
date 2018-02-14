@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "The Stout Tour: Our Warehouse"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The fourth stop on our tour through Stout Brothers takes us to our warehouse. Though it is considered one large expanse, our warehouse is actually broken into three distinct parts. Each section playing a major role in the day to day operations."
 End Code
 

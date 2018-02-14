@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: 2018 Colors of the Year"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Color, while stationary and static, is also fluid and constantly changing. Just as trends, design, and the world around us innovates, so too does color."
 End Code
 

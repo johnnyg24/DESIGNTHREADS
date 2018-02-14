@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: A Thankful Table"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The witches and goblins have had their fun and the time for peace and reflection has come. Gather your family and friends, embrace your traditions and prepare your home for a day of fabulous food and good times by all."
 End Code
 

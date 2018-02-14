@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Coastal"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The sea allures us with its untamed beauty. From cresting waves to sandy shorelines, the sea coast is a ceaseless inspiration."
 End Code
 

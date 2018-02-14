@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Fabric Flip-Flops"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "No summer outfit is complete without flip-flops. A staple of countless wardrobes, the flip-flop has come quite a long way since its beginnings."
 End Code
 

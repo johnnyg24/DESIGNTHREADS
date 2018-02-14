@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Eclectic"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The old adage, 'Opposites Attract' is the perfect description of the Eclectic interior design style."
 End Code
 

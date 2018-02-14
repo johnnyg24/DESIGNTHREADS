@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Tassels"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The tassel as we know it has come a long way from it first creations. With influences from the world over, todays design stems from thousands of years of craftsmanship."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Merry Menswear"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While not everyone may welcome winter, it gives us the opportunity to refresh our homes wardrobe (as well as our own!). Bright, busy prints are replaced with a more serene seasonal style. Herringbone, pinstripes and plaids are becoming a winter trend. Offering a solid change of pace, they still pack a punch with a powerfully sophisticated look."
 End Code
 

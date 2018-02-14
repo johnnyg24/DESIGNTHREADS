@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Silk Road Curtain Trading Company"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Dressing your windows from season to season can be difficult."
 End Code
 

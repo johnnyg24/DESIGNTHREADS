@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: White Hot- Part 3, Kitchens"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Undoubtably, the kitchen is one of the most popular rooms in the home."
 End Code
 

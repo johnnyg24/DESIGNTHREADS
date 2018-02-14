@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: 2016 Updates"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Stout News: Ruth's 25th year, Kate had her baby, Paul Black's retirement, the 2016 BCDH, and our annual Memorial Day barbeque."
 End Code
 

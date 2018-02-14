@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Linen"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Linen is quite possibly one of the most used textiles in the world. Its uses span from home interiors to fashion, creating a plethora of products. It has come quite a long way from its first use in nomadic communities. How the flax plant initially inspired the first peoples to create a fibrous fabric-like woven product is still a mystery, but the evolution from the very beginning of linen to the product we know today is simply extraordinary."
 End Code
 

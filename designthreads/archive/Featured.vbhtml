@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = ""
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Stout's 'Design Threads' newsletter featured articles."
 End Code
 

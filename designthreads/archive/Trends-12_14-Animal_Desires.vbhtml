@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Animal Desires"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Fleeting and tiresome, most trends give us a brief escape from the ordinary. However, a few have the ability to overcome their limited engagement with the masses and find a way into the everyday. One particular trend that always seems to be in favor is animal prints."
 End Code
 

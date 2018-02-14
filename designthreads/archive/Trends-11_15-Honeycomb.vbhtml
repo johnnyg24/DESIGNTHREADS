@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Trends: Honeycomb"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While the busy working bee is commonly associated with Spring, their complex hives are all the rage this Autumn. The fascination with geometry continues into the fall season as honeycomb patterns take over our home."
 End Code
 

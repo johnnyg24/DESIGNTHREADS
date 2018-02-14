@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Sunbrella Fabrics"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Nearly as synonamous with outdoor performance fabrics as Kleenex is to tissues, Sunbrella has been leading the way in performance textiles for over thirty years."
 End Code
 

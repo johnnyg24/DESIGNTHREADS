@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: America"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With summer just getting into full swing, the Fourth of July is a holiday that for many Americans offers us an opportunity to kick off the season with a bang."
 End Code
 

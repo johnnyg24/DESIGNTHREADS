@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Divine Velvet"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Velvet, the name itself conjures up images of magnificence and royalty."
 End Code
 

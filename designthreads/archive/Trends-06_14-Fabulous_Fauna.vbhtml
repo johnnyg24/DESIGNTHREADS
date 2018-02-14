@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Fabulous Fauna"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "One doesn't have to try very hard to find inspiration during the spring season. Beautiful blooms and gorgeous greens are found everywhere you look. The concept of using the beauty of nature as inspiration has always been a tried and true design method."
 End Code
 

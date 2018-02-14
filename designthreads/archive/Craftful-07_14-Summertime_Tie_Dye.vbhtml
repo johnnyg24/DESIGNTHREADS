@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Summertime Tie Dye"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Nothing quite brings back those fond summertime memories like tie-dye."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Love"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Celebrate love this month; Love for family, friends, and even ourselves."
 End Code
 

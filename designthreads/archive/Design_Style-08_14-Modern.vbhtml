@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Modern"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Modern interior design style is the lack of complexities in any space."
 End Code
 

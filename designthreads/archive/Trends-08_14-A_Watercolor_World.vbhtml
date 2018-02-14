@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: A Watercolor World"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Fluid, translucent, serene: the unintentional beauty of watercolors has us captivated."
 End Code
 

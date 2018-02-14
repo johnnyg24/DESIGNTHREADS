@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Earth and the Environment"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "April welcomes not only Spring but also a day to celebrate the Earth. 'Earth Day' is the opportunity to help protect and preserve our natural surroundings; whether you make more Environmentally-concious decisions or get down and dirty, no effort to 'go green' is too small."
 End Code
 

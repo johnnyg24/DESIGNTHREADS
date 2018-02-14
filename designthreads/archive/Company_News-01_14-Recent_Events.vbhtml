@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: Recent Events"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "A recap of the past few months- welcoming a showroom, hosting a regional sales meeting, and the release of new fabric collections."
 End Code
 

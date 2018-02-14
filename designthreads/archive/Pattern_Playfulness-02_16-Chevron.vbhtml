@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Chevron"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Having recently examined the intricacies of herringbone, it is only fitting that we now take a look into the details of the chevron pattern."
 End Code
 	

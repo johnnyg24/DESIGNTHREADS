@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Fabulous Fourth"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The Fourth of July is a time to celebrate the creation of our nation."
 End Code
 

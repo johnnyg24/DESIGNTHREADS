@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: True Blue"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Refreshing, invigorating, relaxing...these are just a few ways to describe the color blue."
 End Code
 

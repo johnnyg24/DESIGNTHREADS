@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Winged Whimsy"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The looming holiday season usually means travel for most people. Although our treks may not be nearly as long as those of our flighty friends. Taking to wing in the fall, creatures of all sorts make their way to warmer climates. This year, they have also made their way into our homes."
 End Code
 

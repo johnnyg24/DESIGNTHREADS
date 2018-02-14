@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Autumn"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With the coming of September, summer is slowly beginning to wind itself down."
 End Code
 

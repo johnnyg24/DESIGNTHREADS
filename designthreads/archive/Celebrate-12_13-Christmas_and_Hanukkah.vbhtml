@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Christmas and Hanukkah"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Each year the holiday season always seems to sneak up on us. October through December, life is overtaken by celebrations of all sorts."
 End Code
 

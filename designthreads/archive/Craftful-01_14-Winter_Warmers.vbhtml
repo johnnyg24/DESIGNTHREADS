@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Winter Warmers"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While winter may be here to stay (at least for a couple more months), don't be afraid to go out and play. Whatever your favorite cold weather activity may be, here are a few crafts to help keep you warm."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Party On"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The holidays may be over but there is a whole year ahead of us to enjoy- so party on!"
 End Code
 

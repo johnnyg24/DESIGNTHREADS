@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Seaside and Sails"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The ocean is calling. Whether you set sail on the sea or sunbathe on the summer sand, there is no doubt that the seaside is waiting."
 End Code
 

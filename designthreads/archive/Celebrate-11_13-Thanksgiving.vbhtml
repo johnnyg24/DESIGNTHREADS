@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: Thanksgiving"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The celebration of Thanksgiving may have officially begun back in 1620 with the Pilgrims but the harvest feast can be dated to ancient times. Through the centuries, traditions have intermingled and grown into what we know today. While we remember the true meaning of the holiday, we all celebrate a little differently."
 End Code
 

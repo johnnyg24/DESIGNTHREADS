@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Bucks County Designer Showhouse"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "It was an honor and a privilege to be a part of the 2016 Bucks County Designer Showhouse. Featuring only the best of the best, these showhouses display the creative genious of a variety of designers."
 End Code
 

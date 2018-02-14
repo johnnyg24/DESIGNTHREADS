@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "A Lookout Wall"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Don't overlook your dining room's design. A simple update can refresh the space enormously."
 End Code
 

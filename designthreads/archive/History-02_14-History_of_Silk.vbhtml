@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Silk"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The month of love deserves a look into the history of a fabric known for its sensuality. Silk has long been known as a luxurious material and remains so today. Such a rich and intricate past deserves to be told."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Flame Stitch"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Like a dancing fire, the 'flame stitch' pattern is quite mesmerizing."
 End Code
 

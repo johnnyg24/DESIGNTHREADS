@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: New Releases - Spring 2016"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Stout's new fabric collections- spring 2016."
 End Code
 

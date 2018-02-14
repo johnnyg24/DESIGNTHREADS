@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: Sneak Peek- Spring 2015"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While this winter may be getting you down, there are blue skies ahead! The dreary weather will not last forever and those sunny days are not far off. To help with the winter dol-drums here is a sneak-peak of our 2015 Spring collections!"
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Tranquil Bedroom"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Creating a peaceful home setting is a top priority for designers."
 End Code
 

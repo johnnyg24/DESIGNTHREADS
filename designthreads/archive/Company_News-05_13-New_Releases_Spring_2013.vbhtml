@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: New Releases- Spring 2013"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Spring to life this season with a selection from our new collections. Go bold with Marcus William or brilliant with Drapery Solids. However you choose, your home will glow with its fresh, new style."
 End Code
 	

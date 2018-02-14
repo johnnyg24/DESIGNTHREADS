@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Arts and Crafts"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Earthy, natural and concious of its surroundings, the Arts and Crafts style of interior design fits perfectly into the month of April. This month we recognize 'Earth Day' and as Spring gets under way, the joy of Mother Nature's beauty inspires us all."
 End Code
 	

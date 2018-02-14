@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Celebrate: The Great Outdoors"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The time has finally come to start living life outdoors."
 End Code
 

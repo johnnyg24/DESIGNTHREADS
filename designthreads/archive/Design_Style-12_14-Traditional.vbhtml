@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Traditional"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Fulfilling its definition of continuing long-established methods, Traditional interiors are nearly living history."
 End Code
 

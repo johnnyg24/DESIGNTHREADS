@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Heidi Dripps Design"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The weather outside may be frightful but this family room is delightful!"
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Industrial"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Raw, rough around the edges Industrial designs are causing us to reexamine the beauty of natural, unfinished interiors."
 End Code
 

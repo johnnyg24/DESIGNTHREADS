@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Aprons for All"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "'Tis the season of kitchen clatters and festive messes!"
 End Code
 

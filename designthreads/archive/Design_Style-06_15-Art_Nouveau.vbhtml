@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Art Nouveau"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Fantastical, almost whimsical creations furnish the homes of those portraying the Art Nouveau design style. Considered the height of originality and design excellence during the late 19th and early 20th centuries, Art Nouveau quietly yet quickly awed the world."
 End Code
 

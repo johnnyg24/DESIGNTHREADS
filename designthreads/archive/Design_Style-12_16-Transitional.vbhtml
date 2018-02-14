@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Transitional"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Bridging the design concepts of traditional and contemporary, transitional interiors offer a classic yet fresh sense of design."
 End Code
 

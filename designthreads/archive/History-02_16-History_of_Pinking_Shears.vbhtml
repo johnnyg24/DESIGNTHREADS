@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Pinking Shears"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "While there are countless types of cutting implements, here is a look into the history of pinking shears."
 End Code
 

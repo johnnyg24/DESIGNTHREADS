@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Handmade for Mom and Dad"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Falling in back to back months, Mother's and Father's Day remind us to be grateful for those who raised us. Caring for someone is a non-stop responsibility so a simple reminder of how much their care is appreciated can go a very long way."
 End Code
 

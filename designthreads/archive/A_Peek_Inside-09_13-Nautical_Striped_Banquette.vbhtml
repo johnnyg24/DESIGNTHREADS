@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Nautical Striped Banquette"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Casual home dining areas allow for a more carefree design. Versatile spaces, like this one, are perfect for daily enjoyment."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Craftful: Placemats"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Being crafty and being craftful are certainly not the same."
 End Code
 

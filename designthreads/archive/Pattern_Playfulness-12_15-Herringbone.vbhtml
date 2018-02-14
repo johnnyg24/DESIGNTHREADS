@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Pattern Playfulness: Herringbone"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "There's something a little fishy about this pattern..."
 End Code
 

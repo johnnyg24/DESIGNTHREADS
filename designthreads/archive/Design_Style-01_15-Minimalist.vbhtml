@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Minimalist"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "'Less Is More', the well-known mantra of minimalist interior designers, was coined by architect Ludwig Mies van der Rohe to describe the extreme impression of simplicity in regards to a home's design."
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "Design Style: American Country"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "There is no design that truly welcomes you into the home like a country one. All over the world, each culture embraces its own country aesthetic, embodying rural charm with a warm and inviting nature. Mistakenly thought of as a 'grandmotherly' design style, country interiors are actually quite in tune with today, making them fit as a fiddle for nearly every family."
 End Code
 

@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Coral Crush"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Summer is the season of bright colors."
 End Code
 

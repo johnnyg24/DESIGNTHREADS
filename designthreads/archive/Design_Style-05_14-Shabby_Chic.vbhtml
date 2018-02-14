@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Design Style: Shabby Chic"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "For many of us, April brings to mind a picturesque Spring and the celebration of Easter. Together, these two create a quietly colorful decor. Fitting perfectly with the season is the design style of Shabby Chic, making now the perfect opportunity to look into how this style was created."
 End Code
 

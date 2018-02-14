@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: New Releases- Winter 2013"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Some may find the winter bleak and dreary. Not us at Stout! Bringing cheery brights and solids with strength, you will find inspiration and refreshment in our newly released collections."
 End Code
 

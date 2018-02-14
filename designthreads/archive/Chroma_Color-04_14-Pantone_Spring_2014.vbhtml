@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Pantone Spring Forecast 2014"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "With the arrival of Spring comes also a slew of new trends, styles and of course- colors. A much welcomed change, these new concepts offer endless possibilities. As Spring slowly comes alive outside, these colors are meant to awaken and add life inside your home."
 End Code
 

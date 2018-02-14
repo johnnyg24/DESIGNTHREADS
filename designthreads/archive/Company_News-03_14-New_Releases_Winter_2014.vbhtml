@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Company News: New Releases- Winter 2014"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "March 2014: Releasing at winters end, our four book 'Performance' series covers nearly everything, quite literally. With a wide variety of upholstery options, these four books are similar yet remain quite individual."
 End Code
 

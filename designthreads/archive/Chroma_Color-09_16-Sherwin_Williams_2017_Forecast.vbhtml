@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Chroma Color: Sherwin Williams Forecast 2017"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "The time has come to begin preparing ourselves, and our homes, for the 2017 color forecasts. Sherwin Williams' has recently unveiled their must-have paint colors for the coming year- let's take a look!"
 End Code
 

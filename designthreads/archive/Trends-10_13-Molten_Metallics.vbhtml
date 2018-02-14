@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "Trends: Molten Metallics"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "A shimmer here, a glimmer there- metallics in all their glory, are making a big impact."
 End Code
 

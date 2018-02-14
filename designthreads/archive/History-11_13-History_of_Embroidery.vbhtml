@@ -1,7 +1,7 @@
 @Code
     PageData("Title") = "History of: Embroidery"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "As the holiday season approaches, the desire to break out our best home goods grows. Some of those favorite seasonal decorations likely include beautiful tablecloths and napkins, special occasion pillows and of course, Christmas stockings. What do these all have in common? The likelihood that they are all embroidered."
 End Code
 

@@ -1,7 +1,7 @@
 ﻿@Code
     PageData("Title") = "The Stout Tour: Our Memo Department"
     PageData("art_sub_title") = ""
-    Layout = "~/designthreads/_DTLayout.vbhtml"
+    Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Through the rows of aisles in our warehouse, you will find the entrance to our Memo department, which is located in the third and final section of our building."
 End Code
 
