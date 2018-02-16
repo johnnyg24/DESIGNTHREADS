@@ -11,7 +11,7 @@ End Code
                 <img class="img-responsive" src="~/images/Featured-Mar'18-Trends-2018Predictions.jpg">
             </a>
             <div class="caption">Looking to the past helps shape our future in many ways. We can learn from its mistakes and improve upon it. As the new year slowly takes shape, we are beginning to see which trends are setting the tone for this year.</div>
-            <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-03_18-2018_Predictions.vbhtml"">read more</a>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-03_18-2018_Predictions.vbhtml">read more</a>
             <hr />
         </div>
     </div>
