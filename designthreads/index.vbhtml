@@ -4,7 +4,7 @@
     Layout = "~/_DTLayout.vbhtml"
 End Code
 
-<h1>Featured: 2018 Predictions</h1>
+<h1>Featured: 2018 Style Predictions</h1>
     <div class="row">
         <div class="col-xs-12">
             <a href="~/archive/Trends-03_18-2018_Predictions.vbhtml">

@@ -1,8 +1,8 @@
 ﻿@Code
-    PageData("Title") = ""
+    PageData("Title") = "Trends: 2018 Style Predictions"
     PageData("art_sub_title") = ""
     Layout = "~/_DTLayout.vbhtml"
-    PageData("description") = ""
+    PageData("description") = "Here you will find five of the most prominent trends that we believe will impact 2018."
 End Code
 
 <div class="spacer"></div>

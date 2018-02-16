@@ -36,7 +36,7 @@ End Code
 <body>
     
     <div>
-        <div id="social-links">
+        <div id="social-links" class=" hidden-print">
             <a title="Facebook" class="d-none d-md-inline sb-primary-text" href="//www.facebook.com/stouttextiles"><i class="fab fa-facebook"></i></a>
             <a title="Pinterest" class="d-none d-md-inline sb-primary-text" href="//pinterest.com/stouttextiles"><i class="fab fa-pinterest"></i></a>
             <a title="Instagram" class="d-none d-md-inline sb-primary-text" href="//www.instagram.com/stouttextiles"><i class="fab fa-instagram"></i></a>
@@ -61,7 +61,7 @@ End Code
         </table>
     </div>
     
-    <div class="text-center sb-primary-bg">
+    <div class="text-center sb-primary-bg hidden-print">
         <div style="min-height:40px">
             <ul id="sb-nav">
                 @*<li class="d-md-none"><a onclick="$('.nav-toggle').toggle()">Articles <span class="caret"></span></a></li>*@
@@ -82,13 +82,13 @@ End Code
                 </li>
 
             </ul>
-            <div id="social-icons-mini">
+            <div id="social-icons-mini" class="hidden-print">
                 <a title="Facebook" class="d-inline d-md-none" href="//www.facebook.com/stouttextiles"><i class="fab fa-facebook "></i></a>
                 <a title="Pinterest" class="d-inline d-md-none" href="//pinterest.com/stouttextiles"><i class="fab fa-pinterest"></i></a>
                 <a title="Instagram" class="d-inline d-md-none" href="//www.instagram.com/stouttextiles"><i class="fab fa-instagram"></i></a>
             </div>
             @If InStr(Request.Url.ToString(), "_") > 0 Then
-                @<div id="sb-related" >
+                @<div id="sb-related" class=" hidden-print">
                     <a onclick="$('#the-article').toggle()">Related Atricles <span class="caret"></span></a>
                 </div>
             End if
@@ -104,14 +104,21 @@ End Code
                     @<div Class="row">
                         <div Class="col-xs-12 col-sm-9">
                             <div id="the-article">
+                                
+                                
                                 <h1 class="sb-card-title">@PageData("title")</h1>
-                                <div Class=" sb-sub-card-title">@PageData("art_sub_title")</div>
+                                <div Class="sb-sub-card-title">@PageData("art_sub_title")</div>
                                 <h5>Date: @Replace(Split(Request.Url.ToString(), "-")(1), "_", "/")</h5>
+                                <div class="hidden-print" style="font-size:1.3em; cursor:pointer">
+                                    <i onclick="window.print()" class="fas fa-print"></i>
+                                    <a class="sb-primary-text" href="https://www.facebook.com/sharer/sharer.php?u=@(Request.Url.ToString())&amp;src=sdkpreparse"><i class="fab fa-facebook"></i></a>
+                                    
+                                </div>
                                 @RenderBody()
                             </div>
                         </div>
 
-                        <div Class="col-xs-12 col-sm-3">
+                        <div Class="col-xs-12 col-sm-3 hidden-print">
                             <div id="related-articles">
                                 <div Class="sb-card-title">Related Articles</div>
                                 <div Class="list-group">
@@ -135,6 +142,10 @@ End Code
             </section>
         </div>
 
+    </div>
+
+    <div id="dt-footer" class="sb-primary-bg text-center" style="height:50px;">
+        Design Threads is created and maintained by Stout Bothers Co., Inc. @Year(Date.Now())
     </div>
         
     @RenderSection("CSS", required:=False)
