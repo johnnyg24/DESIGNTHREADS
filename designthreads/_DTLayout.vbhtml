@@ -118,14 +118,14 @@ End Code
                             </div>
                         </div>
 
-                        <div Class="col-xs-12 col-sm-3 hidden-print">
+                        <div Class="col-xs-12 col-sm-3 hidden-print sb-card">
                             <div id="related-articles">
                                 <div Class="sb-card-title">Related Articles</div>
                                 <div Class="list-group">
                                     @For Each a As KeyValuePair(Of String, String) In designthreads.arts.Reverse
                                         Dim n As Object = Split(a.Key, ".")
                                         Dim d As String = Right(n(0), n(0).length - 2) & "/" & Left(n(0), 2)
-                                        @<a class="list-group-item" href="~/archive/@a.Value">@n(1) @d</a>
+                                        @<a class="list-group-item" href="~/archive/@a.Value">@n(1) <small style="color:#808080">@d</small></a>
                                     Next
                                 </div>
                             </div>
