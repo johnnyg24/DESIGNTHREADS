@@ -100,6 +100,11 @@
     margin-right:10px
 }
 
+.img-ref-link{
+    color:#878787;
+    font-size:75%
+}
+
 @media (max-width: 768px) {
     #sb-nav{padding-top:0px; padding-bottom:0px;}
     /*#sb-logo-wrap, #sb-title-wrap {

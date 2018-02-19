@@ -147,7 +147,15 @@ End Code
     <div id="dt-footer" class="sb-primary-bg text-center" style="height:50px;">
         Design Threads is created and maintained by Stout Bothers Co., Inc. @Year(Date.Now())
     </div>
-        
+    <script>
+            $(function () {
+                $("#the-article img").each(function () {
+                    if ($(this).parent().attr("href").indexOf("/details") == -1) {
+                        $(this).parent().append("<p class='img-ref-link'>Image Source</p>")
+                    }
+                })
+            })
+    </script>
     @RenderSection("CSS", required:=False)
     @RenderSection("Scripts", required:=False)
 </body>

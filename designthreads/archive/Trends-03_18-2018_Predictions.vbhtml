@@ -19,6 +19,7 @@ End Code
     <div class="col-md-6">
         <a href="http://timothywhealon.com/Project/Upper%20East%20Side%20Duplex" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-RichColor3.jpg">
+            <p>Image Source</p>
         </a>
     </div>
     <div class="col-md-6">
