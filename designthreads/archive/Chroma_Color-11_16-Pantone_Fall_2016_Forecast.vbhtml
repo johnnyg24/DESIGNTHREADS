@@ -77,7 +77,7 @@ End Code
 	</div>
 	<div class="col-md-6">
 		<a href="~/details?sku=JEFF-1" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'16-Bodacious-Jefferson1.jpg"></a>
+		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'16-Bodacious-Nolte1Purple.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
