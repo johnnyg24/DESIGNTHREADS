@@ -76,7 +76,7 @@ End Code
 		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'16-PottersClay-Lawford4.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="~/details?sku=JEFF-1" target="_blank">
+		<a href="~/details?sku=NOLT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-PantoneFall'16-Bodacious-Nolte1Purple.jpg"></a>
 	</div>
 </div>
