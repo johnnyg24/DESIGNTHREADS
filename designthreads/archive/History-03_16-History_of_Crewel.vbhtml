@@ -72,23 +72,23 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=LEOM-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LEOM-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Crewel-Leominster1Autumn.jpg"></a>
 	</div>		
 	<div class="col-md-2">
-		<a href="~/details?sku=SAMM-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=SAMM-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Crewel-Sammy2Cognac.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=PEER-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=PEER-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Crewel-Peerless1Wedgewood.jpg"></a>
 	</div>		
 	<div class="col-md-2">
-		<a href="~/details?sku=NAZA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=NAZA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Crewel-Nazareth1Turquoise.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=WHIS-7" target="_blank">
+		<a href="https://www.estout.com/details?sku=WHIS-7" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Crewel-Whistler7Navy.jpg"></a>
 	</div>
 </div>

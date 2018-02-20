@@ -18,19 +18,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=RUDD-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=RUDD-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Rudder1Multi.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TETH-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TETH-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Tether1Marine.jpg"></a>
 	</div>		
 	<div class="col-md-3">
-		<a href="~/details?sku=SAIL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SAIL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Sailor1Navy.jpg"></a>
 	</div>	
 	<div class="col-md-3">
-		<a href="~/details?sku=TERR-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TERR-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Terrazo1Delft.jpg"></a>
 	</div>
 </div>
@@ -39,19 +39,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=RUDD-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=RUDD-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Rudder2Bayside.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ARLI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ARLI-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Arlington1Chambray.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BAHA-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BAHA-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Bahama2Navy.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LECL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LECL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Leclaire1Blue.jpg"></a>
 	</div>
 </div>
@@ -60,19 +60,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=RUDD-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=RUDD-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Rudder3Seamist.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SALL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SALL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Sally1Bay.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=UPLI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=UPLI-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Uplift1Wavecrest.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BRAD-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BRAD-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Bradbury1Zest.jpg"></a>
 	</div>
 </div>
@@ -81,19 +81,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=LOBE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LOBE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Lobelia1Fog.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=OLDM-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=OLDM-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Oldmill4Granite.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TERR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=TERR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Terrazo2Dusk.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VALE-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=VALE-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Valencia2Dusk.jpg"></a>
 	</div>
 </div>
@@ -102,19 +102,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=GATS-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=GATS-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Gatsby1Ocean.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BAHA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BAHA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Bahama1Bisque.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DUNL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DUNL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Dunlop1Navy.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VALE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=VALE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-S&S-Valencia1Marine.jpg"></a>
 	</div>
 </div>

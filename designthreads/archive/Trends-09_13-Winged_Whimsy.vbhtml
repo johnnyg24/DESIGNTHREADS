@@ -15,19 +15,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-sm-6 col-md-3">
-		<a href="~/details?sku=NOST-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=NOST-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Nostalgia1Citrus.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<a href="~/details?sku=BAGA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BAGA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Bagatelle1Seaside.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<a href="~/details?sku=SECL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SECL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Secluded1Twig.jpg"></a>
 	</div>
 	<div class="col-sm-6 col-md-3">
-		<a href="~/details?sku=VALE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=VALE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-WingedWhimsy-Valencia1Marine.jpg"></a>
 	</div>
 </div>

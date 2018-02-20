@@ -73,7 +73,7 @@ End Code
 	<div class="col-md-4">
 	<div><strong>Pantone: Radiant Orchid</strong></div>
 	<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=LONE-1" target="_blank">Lonestar 1 Foxglove</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=LONE-1" target="_blank">Lonestar 1 Foxglove</a></li>
 		<li class="list-group-item">2. <a href="http://www.yliving.com/domitalia-echo-stacking-chair.html" target="_blank">Echo Chair</a>, Lilac by  Arter &amp; Citton</li>
 		<li class="list-group-item">3. Eurofase Cosmo Collection 6-Light Chrome and Purple Track <a href="http://www.homeclick.com/eurofase-lighting-23208-049-cosmo-6-light-track-lighting-in-chrome-with-purple-shade/p-573802.aspx" target="_blank">Light Fixture</a></li>
 		<li class="list-group-item">4. Basic 5 Piece <a href="http://www.didriks.com/Basic-5-PCS-Place-Setting-Lilac.html" target="_blank">Place Setting</a>-Lilac</li>
@@ -87,7 +87,7 @@ End Code
 	<div class="col-md-4">
 	<div><strong>Benjamin Moore: Breath of Fresh Air</strong></div>
 	<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=POUN-1" target="_blank">Pounce 1 Aqua</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=POUN-1" target="_blank">Pounce 1 Aqua</a></li>
 		<li class="list-group-item">2. Formula X <a href="https://www.amazon.com/dp/B00FJ33O9M/ref=asc_df_B00FJ33O9M4847057?smid=A28BLHVXLS6PZ&tag=nextagmp-20&linkCode=df0&creative=395105&creativeASIN=B00FJ33O9M&ascsubtag=-9150566753968237900&th=1" target="_blank">Nail Polish</a> for Sephora, Color: Infatuated - Powder Blue</li>
 		<li class="list-group-item">3. HERMES Light Blue Tonal Stripe Linen-Silk Scarf</li>
 		<li class="list-group-item">4. Blue Topaz and Diamond Petite Round Halo Pendant in 14k White Gold by Blue Nile</li>
@@ -108,7 +108,7 @@ End Code
 		<li class="list-group-item">4. Root Legacy Small Veriglass <a href="https://www.candlesdirect.com/root-candles-very-violet-small-veriglass-jar-candle" target="_blank">Candle</a>, Very Violet</li>
 		<li class="list-group-item">5. Precious Orchid in Purple Close Framed Print <a href="http://www.art.com/products/p12423752749-sa-i6340264/albert-koetsier-precious-orchid-in-purple-close.htm" target="_blank">Wall Art</a></li>
 		<li class="list-group-item">6. Gucci Oversized Rimless Butterfly Sunglasses</li>
-		<li class="list-group-item">7. Stout Fabric: <a href="~/details?sku=ASHV-5" target="_blank">Ashville 5 Flint</a></li>
+		<li class="list-group-item">7. Stout Fabric: <a href="https://www.estout.com/details?sku=ASHV-5" target="_blank">Ashville 5 Flint</a></li>
 	</ul>
 	</div>
 </div>

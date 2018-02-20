@@ -55,22 +55,22 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=Havana-5-Beige&sku=HAVA-5" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=Havana-5-Beige&sku=HAVA-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Havana5Beige.jpg"></a>
 		<div class="text-center">Number 1. Havana 5 Beige</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=FRANKLIN-2-FROST&sku=FRAN-2" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=FRANKLIN-2-FROST&sku=FRAN-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Franklin2Frost.jpg"></a>
 		<div class="text-center">Number 2. Franklin 2 Frost</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=NOTORA-1-ALOE&sku=NOTO-1" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=NOTORA-1-ALOE&sku=NOTO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Notora1Aloe.jpg"></a>
 		<div class="text-center">Number 3. Notora 1 Aloe</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=GAYLE-4-ONYX&sku=GAYL-4" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=GAYLE-4-ONYX&sku=GAYL-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Gayle4Onyx.jpg"></a>
 		<div class="text-center">Number 4. Gayle 4 Onyx</div>
 	</div>
@@ -79,22 +79,22 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=IPSWICH-3-ARIZONA&sku=IPSW-3" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=IPSWICH-3-ARIZONA&sku=IPSW-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Ipswitch3Arizona.jpg"></a>
 		<div class="text-center">Number 5. Ipswitch 3 Arizona</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=VENDI-21-LIME&sku=VEND-21" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=VENDI-21-LIME&sku=VEND-21" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Vendi21Lime.jpg"></a>
 		<div class="text-center">Number 6. Vendi 21 Lime</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=RAYMOND-1-CINNAMON&sku=RAYM-1" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=RAYMOND-1-CINNAMON&sku=RAYM-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Raymond1Cinnamon.jpg"></a>
 		<div class="text-center">Number 7. Raymond 1 Cinnamon</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?d=stout&fabric=LETINO-13-MINERAL&sku=LETI-13" target="_blank">
+		<a href="https://www.estout.com/details?d=stout&fabric=LETINO-13-MINERAL&sku=LETI-13" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-Retro-Letino13Mineral.jpg"></a>
 		<div class="text-center">Number 8. Letino 13 Mineral</div>
 	</div>

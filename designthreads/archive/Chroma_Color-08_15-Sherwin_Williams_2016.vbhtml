@@ -25,7 +25,7 @@ End Code
 <div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-PuraVida.jpg"></div>
 <div class="spacer"></div>
 
-<div class="text-center"><a href="~/details?sku=TIAR-1" target="_blank">Tiara 1 Sand</a></div>
+<div class="text-center"><a href="https://www.estout.com/details?sku=TIAR-1" target="_blank">Tiara 1 Sand</a></div>
 <div class="spacer"></div>
 
 <p>Translating to mean "Pure Life", this scheme exhibits lifes profound beauty. Reflecting the need to be well and remain well, Pura Vida pulls from ancient healing rituals that meant to soothe and reawaken the soul. Blush undercurrents accompany shifting sandy shades that are all grounded with a deep natural bronze. These honed tones suit our increasing desire for order and the ability to savor every moment. </p>
@@ -38,7 +38,7 @@ End Code
 <div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-MasAmorPorFavor.jpg"></div>
 <div class="spacer"></div>
 
-<div class="text-center"><a href="~/details?sku=GYRO-1" target="_blank">Gyro 1 Butterscotch</a></div>
+<div class="text-center"><a href="https://www.estout.com/details?sku=GYRO-1" target="_blank">Gyro 1 Butterscotch</a></div>
 <div class="spacer"></div>
 
 <p>Roughly translating to, "but love please", Más Amor Por Favor is a soulful link between the past and present. Connecting the social lives of generations past and future, this scheme remembers the days of intimate gatherings while embracing the common norm of todays social media.  Cheerful pinks matched with soulful greens are balanced with throwback gold and brown. Seemingly stark contrasts, this scheme proves that we have not forgotten our family values.</p>
@@ -51,7 +51,7 @@ End Code
 <div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-NouveauNarrative.jpg"></div>
 <div class="spacer"></div>
 
-<div class="text-center"><a href="~/details?sku=KEEG-1" target="_blank">Keegan 1 Jewel</a></div>
+<div class="text-center"><a href="https://www.estout.com/details?sku=KEEG-1" target="_blank">Keegan 1 Jewel</a></div>
 <div class="spacer"></div>
 
 <p>Brushing off pages from the past, Nouveau Narrative is the inspiration of past generations. Grassroots industrial, this scheme looks to embrace the Maker Movement, where working with your hands and getting down and dirty is just as important as your mental prowess. Dreaming in colors that are earthy, strong, and vaguely patriotic, a handful of grays root themselves as the foundation while metallics flash against the red and dusty blues filling out the palette. The North American evolution is coming, full of grit and and glinting pride. </p>
@@ -64,7 +64,7 @@ End Code
 <div align="center"><img class="img-responsive" alt="" src="~/images/CC-SW2016-Trajectory.jpg"></div>
 <div class="spacer"></div>
 
-<div class="text-center"><a href="~/details?sku=OSCA-1" target="_blank">Oscar 1 Violet</a></div>
+<div class="text-center"><a href="https://www.estout.com/details?sku=OSCA-1" target="_blank">Oscar 1 Violet</a></div>
 <div class="spacer"></div>
 
 <p>The definition of trajectory states that it is , "the path followed by a projectile flying or an object moving under the action of given forces". In this case, these colors are the consequence of the ever revolving world of technology. Unexpected and almost extreme, today's advancements have brought us into a state of constant wonder. Similarly, this color scheme drives a dream-like effect, with tantalizing berry purples, aquatic greens, and a metallic pewter. The future is today and it is as embraceable as ever. </p>

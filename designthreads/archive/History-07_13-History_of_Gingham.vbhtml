@@ -15,19 +15,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=ANAD-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=ANAD-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Square-Anada3Raspberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SIRO-42" target="_blank">
+		<a href="https://www.estout.com/details?sku=SIRO-42" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Square-Sirocco42Blueberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TURR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=TURR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Square-Turret2Sprite.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TRIU-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TRIU-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Square-Triumph1Domino.jpg"></a>
 	</div>
 </div>

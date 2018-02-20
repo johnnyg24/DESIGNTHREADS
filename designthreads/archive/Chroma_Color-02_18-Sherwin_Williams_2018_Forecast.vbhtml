@@ -28,22 +28,22 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-        <a href="~/details?sku=HASL-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=HASL-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Connectivity-Haslet1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=HAMM-4" target="_blank">
+        <a href="https://www.estout.com/details?sku=HAMM-4" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Connectivity-Hammered4.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=EMBE-3" target="_blank">
+        <a href="https://www.estout.com/details?sku=EMBE-3" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Connectivity-Embellish3.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=BUNK-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=BUNK-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Connectivity-Bunkhouse1.jpg">
         </a>
     </div>
@@ -62,22 +62,22 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-        <a href="~/details?sku=BROO-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=BROO-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Sincerity-Brooke1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=BUMP-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=BUMP-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Sincerity-Bumper1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=MIGN-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=MIGN-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Sincerity-Mignon1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=PART-4" target="_blank">
+        <a href="https://www.estout.com/details?sku=PART-4" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Sincerity-Party4.jpg">
         </a>
     </div>
@@ -96,22 +96,22 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-        <a href="~/details?sku=FILB-13" target="_blank">
+        <a href="https://www.estout.com/details?sku=FILB-13" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Unity-Filbert13.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=IBIZ-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=IBIZ-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Unity-Ibiza1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=HEAR-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=HEAR-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Unity-Heartbeat1.jpg">
         </a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=SOLA-5" target="_blank">
+        <a href="https://www.estout.com/details?sku=SOLA-5" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-SW2018CM-Unity-Solar5.jpg">
         </a>
     </div>

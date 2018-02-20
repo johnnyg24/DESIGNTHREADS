@@ -52,19 +52,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=LAWR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Lawrence2Salt.jpg"></a>
+		<a href="https://www.estout.com/details?sku=LAWR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Lawrence2Salt.jpg"></a>
 		<div class="text-center">Number 1: Lawrence 2 Salt</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=NERV-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Nervel1Lichen.jpg"></a>
+		<a href="https://www.estout.com/details?sku=NERV-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Nervel1Lichen.jpg"></a>
 		<div class="text-center">Number 2: Nervel 1 Lichen</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TOUR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Tournament2Grenadine.jpg"></a>
+		<a href="https://www.estout.com/details?sku=TOUR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Tournament2Grenadine.jpg"></a>
 		<div class="text-center">Number 3: Tournament 2 Grenadine</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=COHA-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Cohabit2Jet.jpg"></a>
+		<a href="https://www.estout.com/details?sku=COHA-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Eclectic-Cohabit2Jet.jpg"></a>
 		<div class="text-center">Number 4: Cohabit 2 Jet</div>
 	</div>
 </div>

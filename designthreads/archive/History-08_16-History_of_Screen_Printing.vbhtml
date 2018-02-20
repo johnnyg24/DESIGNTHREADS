@@ -86,23 +86,23 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=IPAN-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=IPAN-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-ScreenPrinting-Ipanema3Cardinal.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=YANA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=YANA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-ScreenPrinting-Yana1Seagreen.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=ROGE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ROGE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-ScreenPrinting-Roget1Harbor.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=KENT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=KENT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-ScreenPrinting-Kent1Pacific.jpg">
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=OSTE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=OSTE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-ScreenPrinting-Osterhaus1Denim.jpg"></a>
 	</div>
 </div>

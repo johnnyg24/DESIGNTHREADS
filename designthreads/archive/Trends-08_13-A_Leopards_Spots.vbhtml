@@ -20,7 +20,7 @@ End Code
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
-	<li class="list-group-item">1. Stout Brothers Fabric: <a href="~/details?sku=BEAS-1" target="_blank">Beast 1 Ebony</a></li>
+	<li class="list-group-item">1. Stout Brothers Fabric: <a href="https://www.estout.com/details?sku=BEAS-1" target="_blank">Beast 1 Ebony</a></li>
 	<li class="list-group-item">2. American Flyer Animal Print <a href="https://www.ebags.com/product/american-flyer/animal-print-5-piece-luggage-set/222414" target="_blank">Five Piece Luggage Set</a></li>
 	<li class="list-group-item">3. Roberto Cavalli Oversized Round Leopard Sunglasses</li> 
 	<li class="list-group-item">4. Nine West Sharina Heels</li>
@@ -36,7 +36,7 @@ End Code
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
-	<li class="list-group-item">1. Stout Brothers Fabric: <a href="~/details?sku=RAMP-1" target="_blank">Rampal 1 Cork</a></li> 
+	<li class="list-group-item">1. Stout Brothers Fabric: <a href="https://www.estout.com/details?sku=RAMP-1" target="_blank">Rampal 1 Cork</a></li> 
 	<li class="list-group-item">2. Antonio Melani Leopard-Print Penny Ballet Flats</li>
 	<li class="list-group-item">3. Mikasa Color Studio Khaki Leopard Accent Plate</li>
 	<li class="list-group-item">4. Light Leopard Flannel Bedding</li>
@@ -52,7 +52,7 @@ End Code
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
-	<li class="list-group-item">1. Stout Brothers Fabric: <a href="~/details?sku=UPTU-1" target="_blank">Upturn 1 Slate</a></li>
+	<li class="list-group-item">1. Stout Brothers Fabric: <a href="https://www.estout.com/details?sku=UPTU-1" target="_blank">Upturn 1 Slate</a></li>
 	<li class="list-group-item">2. Stella McCartney Blue Leopard Falabella Small Foldover Tote</li>
 	<li class="list-group-item">3. Blue Leopard TOMS shoes</li>
 	<li class="list-group-item">4. Yves Saint Laurent Leopard Print Blue Wool Cashmere Scarf</li>

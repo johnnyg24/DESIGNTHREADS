@@ -61,15 +61,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=ANDA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ANDA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-Andalucia1Desert.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=BROW-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=BROW-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-Brownsdale3Stone.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=FRAM-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=FRAM-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-Framework1Pear.jpg"></a>
 	</div>
 </div>	
@@ -77,15 +77,15 @@ End Code
 
 <div class="row" align="center">	
 	<div class="col-md-4">
-		<a href="~/details?sku=NEOP-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=NEOP-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-Neophyte2Toast.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=PRES-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=PRES-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-President1Seaglass.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=UPSW-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=UPSW-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Damask-Upswing1Dove.jpg"></a>
 	</div>
 </div>		

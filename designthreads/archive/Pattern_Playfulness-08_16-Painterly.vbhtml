@@ -69,19 +69,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=HOTW-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=HOTW-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G1-Hotwave3Fiesta.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=EMOT-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=EMOT-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G1-Emotion3Fiesta.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=HADR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=HADR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G1-Hadrane2Bahama.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LAPA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LAPA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G1-Lapaz1Cornflower.jpg"></a>
 	</div>
 </div>
@@ -89,19 +89,19 @@ End Code
 		
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=AMBI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=AMBI-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G2-Ambiance1Raspberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BOLZ-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BOLZ-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G2-Bolzano2Berry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=WEND-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=WEND-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G2-Wendell2Nectar.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VELU-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=VELU-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G2-Veluto1Jungle.jpg"></a>
 	</div>
 </div>
@@ -109,19 +109,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=TOMA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TOMA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G3-Tomahawk1Bottle.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=WARS-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=WARS-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G3-Warsaw1Jewel.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=COSE-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=COSE-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G3-Cosenza2HEather.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=WODO-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=WODO-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G3-Wodock2Shadow.jpg"></a>
 	</div>
 </div>
@@ -129,19 +129,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=MELV-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MELV-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G4-Melville1Lime.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GOVE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=GOVE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G4-Governess1Bluebird.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ELAP-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELAP-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G4-Elapse1Shoreline.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=RUDD-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=RUDD-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Painterly-G4-Rudder2Bayside.jpg"></a>
 	</div>
 </div>

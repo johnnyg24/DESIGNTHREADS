@@ -23,7 +23,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#fa2096"><strong>MAGENTA</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=FOXH-1" target="_blank">Foxhill 1 Shocking</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=FOXH-1" target="_blank">Foxhill 1 Shocking</a></li>
 		<li class="list-group-item">2. Pink Summer Steel Beverage Tub</li>
 		<li class="list-group-item">3. KESS InHouse, Summer Breeze <a href="https://www.wayfair.com/KESS-InHouse-Summer-Breeze-Placemat-QSUN5016.html" target="_blank">Placemat</a></li>
 		<li class="list-group-item">4. fermob, Luxembourg <a href="http://www.fermob.com/en/Browse-our-furniture/Flagship-collections/Luxembourg/Armchair" target="_blank">Armchair</a>, Fuchsia</li>
@@ -36,7 +36,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#d80101"><strong>RED</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=MATL-3" target="_blank">Matlock 3 Cardinal</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=MATL-3" target="_blank">Matlock 3 Cardinal</a></li>
 		<li class="list-group-item">2. Bacova Berros 20" X 32" <a href="https://www.amazon.com/Bacova-Guild-Fashion-32-Inch-Chevron/dp/B00JVQEL2C" target="_blank">Accent Rug</a></li>
 		<li class="list-group-item">3. Rydall Ottoman Red</li>
 		<li class="list-group-item">4. Fireworks Picnic Tablecloth</li>
@@ -52,7 +52,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#ff6200"><strong>ORANGE</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=HAST-1" target="_blank">Hastings 1 Orange</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=HAST-1" target="_blank">Hastings 1 Orange</a></li>
 		<li class="list-group-item">2. Vegetabowls&trade; <a href="http://www.vegetabowls.com/_p/prd1/552475421/product/cantaloupe-bowl" target="_blank">Cantaloupe Bowl</a></li>
 		<li class="list-group-item">3. <a href="http://www.howardelliott.com/searchadv.aspx?searchterm=+Scroll+Puff+Chair" target="_blank">Scroll Puff Chair</a>, Geo Tangerine, Mahogany Frame</li>
 		<li class="list-group-item">4. Orange Pop <a href="http://www.jonathanadler.com/dining/barware/decanters-and-carafes/orange-pop-decanter/24409.html#q=Orange%2BPop%2BDecanter&start=1" target="_blank">Decanter</a></li>
@@ -65,7 +65,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#fad022"><strong>YELLOW</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=ALGI-4" target="_blank">Algiers 4 Amber</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=ALGI-4" target="_blank">Algiers 4 Amber</a></li>
 		<li class="list-group-item">2. Red Vanilla, Yellow Summer <a href="http://www.overstock.com/Home-Garden/Red-Vanilla-Yellow-Summer-Ice-Cream-Bowls-Pack-of-6/6026613/product.html?refccid=YSB2ZYSKLHPYEICJW4KVJCBKNQ&searchidx=0" target="_blank">Ice Cream Bowls</a>, Pack of 6</li>
 		<li class="list-group-item">3. WAC Lighting, April G611 Accessory Quick Connect <a href="http://www.buffaloelectricusa.com/index.php?route=product/product&product_id=707" target="_blank">Pendant Shade</a>, Amber</li>
 		<li class="list-group-item">4. Arteriors Dacey Stool</li>
@@ -81,7 +81,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#48b008"><strong>GREEN</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=ERIE-1" target="_blank">Erie 1 Emerald</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=ERIE-1" target="_blank">Erie 1 Emerald</a></li>
 		<li class="list-group-item">2. Lori Harris 'Summer Stripe' <a href="http://www.denydesigns.com/products/loni-harris-summer-stripe-duvet-cover" target="_blank">Duvet Cover</a></li>
 		<li class="list-group-item">3. Worlds Away, Winter Harbor Green Coffee Table</li>
 		<li class="list-group-item">4. Jonathan Adler Green Malachite <a href="http://www.jonathanadler.com/decor-and-pillows/decor/picture-frames/green-malachite-frame-5-x-7/24427.html#start=12" target="_blank">Picture Frame</a></li>
@@ -94,7 +94,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#01aded"><strong>BLUE</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=ABIN-1" target="_blank">Abington 1 Hyssop</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=ABIN-1" target="_blank">Abington 1 Hyssop</a></li>
 		<li class="list-group-item">2. Modern Lamp Shade, Ocean Blue Color Block, by Mood Design Studio</li>
 		<li class="list-group-item">3. WallCandy, Summer Clouds <a href="http://www.2modern.com/collections/wallcandy-arts/products/summer-clouds-temporary-wallpaper?utm_campaign=cj_affiliate_sale&utm_medium=affiliate&utm_source=cj_affiliate&utm_content=2205077&utm_term=11048464" target="_blank">Temporary Wallpaper</a></li>
 		<li class="list-group-item">4. Honey-Can-Do&reg; 12-Liter <a href="http://www.jcpenney.com/p/honey-can-do-12l-step-trash-can/pp5006140513?pTmplType=regular&rrplacementtype=product2_rr&rrec=true" target="_blank">Step Trash Can</a>, Blue</li>
@@ -110,7 +110,7 @@ End Code
 	<div class="col-md-6">
 	<div style="color:#7a37d6"><strong>PURPLE</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=LONE-1" target="_blank">Lonestar 1 Foxglove</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=LONE-1" target="_blank">Lonestar 1 Foxglove</a></li>
 		<li class="list-group-item">2. JCPenney Home&trade; Quick-Dri&trade; Solid Bath Towels, French Lilac</li>
 		<li class="list-group-item">3. Karlsson, Time Pointer Alarm Clock, Purple</li>
 		<li class="list-group-item">4. Acai 32" Round Brezza <a href="http://www.lampsplus.com/products/acai-32-inch-round-brezza-wall-mirror__3w534-2f565.html" target="_blank">Wall Mirror</a></li>
@@ -123,7 +123,7 @@ End Code
 	<div class="col-md-6">
 	<div><strong>BLACK &amp; WHITE</strong></div>
 		<ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric: <a href="~/details?sku=GIGG-1" target="_blank">Giggle 1 Domino</a></li>
+		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=GIGG-1" target="_blank">Giggle 1 Domino</a></li>
 		<li class="list-group-item">2. Menu &amp; Niels R&ouml;mer's Dropp! Bowl, Snow White</li>
 		<li class="list-group-item">3. Arteriors Home, Eamon <a href="http://www.themodernroom.com/products/modern-room-furniture-arteriors-home-eamon-end-table-arn2638?variant=1051730672" target="_blank">End Table</a></li>
 		<li class="list-group-item">4. Pic- nic Melamine Dinner Plates</li>

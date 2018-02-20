@@ -75,19 +75,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-        <a href="~/details?sku=CHAN-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Chantilly1Platinum.jpg"></a>
+        <a href="https://www.estout.com/details?sku=CHAN-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Chantilly1Platinum.jpg"></a>
         Number 1: Chantilly 1 Platinum
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=PARS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Parson1Pewter.jpg"></a>
+        <a href="https://www.estout.com/details?sku=PARS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Parson1Pewter.jpg"></a>
         Number 2: Parson 1 Pewter
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=VEND-13" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Vendi13Blossom.jpg"></a>
+        <a href="https://www.estout.com/details?sku=VEND-13" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Vendi13Blossom.jpg"></a>
         Number 3: Vendi 13 Blossom
     </div>
 	<div class="col-md-3">
-        <a href="~/details?sku=OPAL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Opal1Smoke.jpg"></a>
+        <a href="https://www.estout.com/details?sku=OPAL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Baroque-Rococo8-Opal1Smoke.jpg"></a>
         Number 4: Opal 1 Smoke
     </div>
 </div>

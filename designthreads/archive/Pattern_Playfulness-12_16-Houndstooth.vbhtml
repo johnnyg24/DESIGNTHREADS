@@ -50,19 +50,19 @@ End Code
 		
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=BAYA-7" target="_blank">
+		<a href="https://www.estout.com/details?sku=BAYA-7" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Bayard7Pebble.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CHEL-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=CHEL-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Chelsea4Clove.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=INBO-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=INBO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Inbox1Sienna.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=THIC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=THIC-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Thicket1Linen.jpg"></a>
 	</div>
 </div>
@@ -70,19 +70,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=MAYD-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=MAYD-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Mayday4Lime.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ANSE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ANSE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Ansel1Lagoon.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CALE-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=CALE-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Caledonia2Blue.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ELKO-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELKO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Elko1Mulberry.jpg"></a>
 	</div>
 </div>

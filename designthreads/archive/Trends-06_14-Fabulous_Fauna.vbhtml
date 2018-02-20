@@ -19,27 +19,27 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-	<a href="~/details?sku=ABIN-2" target="_blank">
+	<a href="https://www.estout.com/details?sku=ABIN-2" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Abington2Fruit.jpg"></a>
 	<div class="text-center">Abington 2 Fruit</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=LISA-1" target="_blank">
+	<a href="https://www.estout.com/details?sku=LISA-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Lisa1Spring.jpg"></a>
 	<div class="text-center">Lisa 1 Spring</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=OYST-4" target="_blank">
+	<a href="https://www.estout.com/details?sku=OYST-4" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Oysterbay4SpringMarine.jpg"></a>
 	<div class="text-center">Oysterbay 4 Spring/Marine</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=WARS-1" target="_blank">
+	<a href="https://www.estout.com/details?sku=WARS-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Warsaw1Jewel.jpg"></a>
 	<div class="text-center">Warsaw 1 Jewel</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=BAJA-1" target="_blank">
+	<a href="https://www.estout.com/details?sku=BAJA-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Bold-Baja1Ocean.jpg"></a
 	><div class="text-center">Baja 1 Ocean</div>
 	</div>
@@ -56,7 +56,7 @@ End Code
   <li class="list-group-item">4. Waverly, Honeydew 12 Piece Dinnerware Set</li>
   <li class="list-group-item">5. Inhabit, Grass Slat- Summer Grass</li>
   <li class="list-group-item">6. Gina Rivas Design by DENY Designs, Parrot <a href="https://www.denydesigns.com/products/gina-rivas-design-parrot-throw-pillow" target="_blank">Throw Pillow</a></li>
-  <li class="list-group-item">7. Stout Fabric: <a href="~/details?sku=HUTT-2" target="_blank">Hutton 2 Oasis</a></li>
+  <li class="list-group-item">7. Stout Fabric: <a href="https://www.estout.com/details?sku=HUTT-2" target="_blank">Hutton 2 Oasis</a></li>
   <li class="list-group-item">8. Guadeloupe Floral <a href="http://www.fabricsandpapers.com/item/view/8868-Guadeloupe-Wallpaper-White" target="_blank">Wallpaper</a></li>
 </ul>
 <div class="spacer"></div>
@@ -66,27 +66,27 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-	<a href="~/details?sku=TING-1" target="_blank">
+	<a href="https://www.estout.com/details?sku=TING-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Tingle1Taupe.jpg"></a>
 	<div class="text-center">Tingle 1 Taupe</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=BELI-2" target="_blank">
+	<a href="https://www.estout.com/details?sku=BELI-2" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Belinda2Nugget.jpg"></a>
 	<div class="text-center">Belinda 2 Nugget</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=ECOL-6" target="_blank">
+	<a href="https://www.estout.com/details?sku=ECOL-6" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Ecoleaf6Oatmeal.jpg"></a>
 	<div class="text-center">Ecoleaf 6 Oatmeal</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=SECL-1" target="_blank">
+	<a href="https://www.estout.com/details?sku=SECL-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Secluded1Twig.jpg"></a>
 	<div class="text-center">Secluded 1 Twig</div>
 	</div>
 	<div class="col-md-2">
-	<a href="~/details?sku=COCO-5" target="_blank">
+	<a href="https://www.estout.com/details?sku=COCO-5" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/Trends-FabFauna-Soft-Cococay5Marine.jpg"></a>
 	<div class="text-center">Cococay 5 Marine</div>
 	</div>
@@ -104,8 +104,8 @@ End Code
   <li class="list-group-item">5. Hidden Laguna Necklace</li>
   <li class="list-group-item">6. Susan Winget, Certified International Beach Cottage 11-Inch Dinner Plates- Set of 4</li>
   <li class="list-group-item">7. Mini Sea Green <a href="http://www.pebbletileshop.com/products/Mini-Sea-Green-Pebble-Tile.html#.U4TrV_ldWt8" target="_blank">Pebble Tile</a></li>
-  <li class="list-group-item">8. Stout Fabric: <a href="~/details?sku=OCEA-1" target="_blank">Oceanside 1 Driftwood</a></li>
-  <li class="list-group-item">9. Stout Trim: <a href="~/details?sku=OZZI-3" target="_blank">Ozzie 3 Flaxen</a></li>
+  <li class="list-group-item">8. Stout Fabric: <a href="https://www.estout.com/details?sku=OCEA-1" target="_blank">Oceanside 1 Driftwood</a></li>
+  <li class="list-group-item">9. Stout Trim: <a href="https://www.estout.com/details?sku=OZZI-3" target="_blank">Ozzie 3 Flaxen</a></li>
   <li class="list-group-item">10. Driftwood Cocktail Table</li>
 </ul>
 <div class="spacer"></div>	

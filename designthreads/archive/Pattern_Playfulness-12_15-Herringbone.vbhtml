@@ -66,23 +66,23 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=FARR-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=FARR-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Farrow1Starlight.jpg"></a>
 	</div>
 	<div class="col-md-2">	
-		<a href="~/details?sku=LARA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LARA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Laramie1Seedling.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=THYM-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=THYM-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Thyme4Gunmetal.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=PRID-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=PRID-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Pride2Cappucino.jpg"></a>
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=KILD-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=KILD-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Kildare3Hemp.jpg"></a>
 	</div>
 </div>	

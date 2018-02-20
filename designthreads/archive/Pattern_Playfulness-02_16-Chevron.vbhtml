@@ -60,19 +60,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=BORG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BORG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Borgata1Granite.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CAIR-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CAIR-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Cairo1Bahama.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DRAG-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=DRAG-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Dragonfly5Sky.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=KAIS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=KAIS-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Kaiser2Vapor.jpg"></a>
 	</div>
 </div>
@@ -80,19 +80,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=KINK-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=KINK-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Kinky1Stone.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LAKEL-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=LAKEL-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Lakeland2Graphite.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LEDG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LEDG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Ledger1Baltic.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LUFT-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=LUFT-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Luftania2Navy.jpg"></a>
 	</div>
 </div>
@@ -100,19 +100,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=MCLA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MCLA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Mclane1Bahama.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=RENA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=RENA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Renaissance1Blueberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ROSE-6" target="_blank">
+		<a href="https://www.estout.com/details?sku=ROSE-6" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Rosemont6Periwinkle.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SANG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SANG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Chevron-Sangria1Salmon.jpg"></a>
 	</div>
 </div>

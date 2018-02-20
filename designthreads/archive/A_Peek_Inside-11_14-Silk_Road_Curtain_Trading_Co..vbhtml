@@ -19,15 +19,15 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-4">
 		<img class="img-responsive" alt="" src="~/images/API-SRCT-Panels2.jpg">
-		<div class="text-center"><a href="~/details?sku=BRUS-2" target="_blank">Brussels 2 Shoreline</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=BRUS-2" target="_blank">Brussels 2 Shoreline</a></div>
 	</div>
 	<div class="col-md-4">
 		<img class="img-responsive" alt="" src="~/images/API-SRCT-Valance1.jpg">
-		<div class="text-center"><a href="~/details?sku=IDEL-4" target="_blank">Idelwild 4 Grass</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=IDEL-4" target="_blank">Idelwild 4 Grass</a></div>
 	</div>
 	<div class="col-md-4">
 		<img class="img-responsive" alt="" src="~/images/API-SRCT-Valance2.jpg">
-		<div class="text-center"><a href="~/details?sku=IDEL-4" target="_blank">Idelwild 4 Grass</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=IDEL-4" target="_blank">Idelwild 4 Grass</a></div>
 	</div>
 </div>
 <div class="spacer"></div>

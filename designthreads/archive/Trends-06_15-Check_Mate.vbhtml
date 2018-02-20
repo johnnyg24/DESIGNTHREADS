@@ -44,27 +44,27 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=ELIX-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELIX-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Elixir1Garden.jpg"></a>
 		Elixir 1 Garden
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=DELE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DELE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Delegate1Beige.jpg"></a>
 		Delegate 1 Beige
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=CATE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CATE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Category1Mocha.jpg"></a>
 		Category 1 Mocha
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=ELAN-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELAN-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Elante1Orchid.jpg"></a>
 		Elante 1 Orchid
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=PIDC-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=PIDC-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-Pidcock2Federal.jpg"></a>
 		Pidcock 2 Federal
 	</div>
@@ -80,27 +80,27 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=VISS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=VISS-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Visso2Seaspray.jpg"></a>
 		Number 1. Visso 2 Seaspray
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=ABBO-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=ABBO-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Abbott3Seafoam.jpg"></a>
 		Number 2. Abbott 3 Seafoam
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=NEWH-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=NEWH-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Newhaven5Cream.jpg"></a>
 		Number 3. Newhaven 5 Cream
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=CATE-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=CATE-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Category2Spa.jpg"></a>
 		Number 4. Category 2 Spa
 	</div>
 	<div class="col-md-2">
-		<a href="~/details?sku=FOXB-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=FOXB-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-BuffaloCheck-SeagreenBR-Foxboro1Harbor.jpg"></a>
 		Number 5. Foxboro 1 Harbor
 	</div>

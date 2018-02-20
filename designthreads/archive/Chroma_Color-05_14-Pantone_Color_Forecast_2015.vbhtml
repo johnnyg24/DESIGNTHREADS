@@ -24,7 +24,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-Abstractions-Declamation.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-Abstractions-Declamation.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=DECL-1" target="_blank">Declamation 1 Fiesta</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=DECL-1" target="_blank">Declamation 1 Fiesta</a></div>
 	    </div>	
 	</div>
 	
@@ -33,7 +33,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-Botanicum-Hatfield.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-Botanicum-Hatfield.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=HATF-1" target="_blank">Hatfield 1 Multi</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=HATF-1" target="_blank">Hatfield 1 Multi</a></div>
 	    </div>	
 	</div>
 	
@@ -42,7 +42,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-PastTraces-Shetland.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-PastTraces-Shetland.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=SHET-1" target="_blank">Shetland 1 Spa</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=SHET-1" target="_blank">Shetland 1 Spa</a></div>
 	    </div>	
 	</div>
 </div>
@@ -54,7 +54,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-Serendipity-Foxhill.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-Serendipity-Foxhill.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=FOXH-3" target="_blank">Foxhill 3 Tuttifrutti</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=FOXH-3" target="_blank">Foxhill 3 Tuttifrutti</a></div>
 	    </div>	
 	</div>
 	
@@ -63,7 +63,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-Spontaneity-Smile.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-Spontaneity-Smile.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=SMIL-1" target="_blank">Smile 1 Jet</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=SMIL-1" target="_blank">Smile 1 Jet</a></div>
 	    </div>
 	</div>
 	
@@ -72,7 +72,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-StyleSetting-Victor.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-StyleSetting-Victor.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=VICT-1" target="_blank">Victor 1 Mulberry</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=VICT-1" target="_blank">Victor 1 Mulberry</a></div>
 	    </div>	
 	</div>
 </div>
@@ -84,7 +84,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-TintedMedley-Caviar.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-TintedMedley-Caviar.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=CAVI-2" target="_blank">Caviar 2 Garden</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=CAVI-2" target="_blank">Caviar 2 Garden</a></div>
 	    </div>	
 	</div>
 	
@@ -93,7 +93,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-UrbanJungle-Lebanon.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-UrbanJungle-Lebanon.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=LEBA-2" target="_blank">Lebanon 2 Multi</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=LEBA-2" target="_blank">Lebanon 2 Multi</a></div>
 	    </div>	
 	</div>
 	
@@ -102,7 +102,7 @@ Do these color story's speak to you? Can you relate to their definitions? Unlike
 		    <a href="~/images/Pantone2015-Zensations-Limelight.jpg" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Pantone2015-Zensations-Limelight.jpg"></a>
 		<hr>
-		    <div class="text-center"><a href="~/details?sku=LIME-1" target="_blank">Limelight 1 Peacock</a></div>
+		    <div class="text-center"><a href="https://www.estout.com/details?sku=LIME-1" target="_blank">Limelight 1 Peacock</a></div>
 	    </div>	
 	</div>
 </div>

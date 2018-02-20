@@ -22,25 +22,25 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=BANY-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BANY-2" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-LR3-Bayon2Mushroom.jpg"></a>
 		    <div class="text-center">Number 1: Banyon 2 Mushroom</div>
 	</div>
 	
 	<div class="col-md-3">
-		<a href="~/details?sku=CASS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=CASS-2" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-LR3-Cassago2Almond.jpg"></a>
 		    <div class="text-center">Number 2: Cassago 2 Almond</div>
 	</div>
 		
 	<div class="col-md-3">
-		<a href="~/details?sku=LUXE-44" target="_blank">
+		<a href="https://www.estout.com/details?sku=LUXE-44" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-LR3-Luxe44Ginger.jpg"></a>
 		    <div class="text-center">Number 3: Luxe 44 Ginger</div>
 	</div>
 	
 	<div class="col-md-3">
-		<a href="~/details?sku=TARY-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=TARY-4" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-LR3-Taryn4Tigerlily.jpg"></a>
 		    <div class="text-center">Number 4: Taryn 4 Tigerlily</div>
 	</div>
@@ -72,31 +72,31 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-		<a href="~/details?sku=BELI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BELI-1" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Belinda1Pewter.jpg"></a>
 		<div class="text-center">Belinda 1 Pewter</div>
 	</div>
 
 	<div class="col-md-2">
-		<a href="~/details?sku=BANY-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BANY-1" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Banyon1Onyx.jpg"></a>
 		<div class="text-center">Banyon 1 Onyx</div>
 	</div>
 	
 	<div class="col-md-2">
-		<a href="~/details?sku=TURC-9" target="_blank">
+		<a href="https://www.estout.com/details?sku=TURC-9" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Turco9Brandy.jpg"></a>
 		<div class="text-center">Turco 9 Brandy</div>
 	</div>
 	
 	<div class="col-md-2">
-		<a href="~/details?sku=NOSE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=NOSE-1" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Noseda1Chocolate.jpg"></a>
 		<div class="text-center">Noseda 1 Chocolate</div>
 	</div>
 	
 	<div class="col-md-2">
-		<a href="~/details?sku=DUKE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DUKE-1" target="_blank">
 			<img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Duke1Sienna.jpg"></a>
 		<div class="text-center">Duke 1 Sienna</div>
 	</div>
@@ -105,27 +105,27 @@ End Code
 
 <div class="row" align="center">
     <div class="col-md-2 col-md-offset-1">
-        <a href="~/details?sku=WAGO-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=WAGO-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Wagon1Oyster.jpg"></a>
         <div class="text-center">Wagon 1 Oyster</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=ASPE-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=ASPE-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Aspen1Cocoa.jpg"></a>
         <div class="text-center">Aspen 1 Cocoa</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=VIPE-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=VIPE-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Viper1Python.jpg"></a>
         <div class="text-center">Viper 1 Python</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=BEAS-4" target="_blank">
+        <a href="https://www.estout.com/details?sku=BEAS-4" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Beast4Pumpkin.jpg"></a>
         <div class="text-center">Beast 4 Pumpkin</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=HUTT-2" target="_blank">
+        <a href="https://www.estout.com/details?sku=HUTT-2" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-AnimalDesires-Hutton2Oasis.jpg"></a>
         <div class="text-center">Hutton 2 Oasis</div>
     </div>

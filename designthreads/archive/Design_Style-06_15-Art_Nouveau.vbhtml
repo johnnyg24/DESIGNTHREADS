@@ -69,22 +69,22 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=INDE-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=INDE-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Independence5Eggshell.jpg"></a>
 		Number 1. Independence 5 Eggshell
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=MARJ-9" target="_blank">
+		<a href="https://www.estout.com/details?sku=MARJ-9" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Marjorie9Snow.jpg"></a>
 		Number 2. Marjorie 9 Snow
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VEND-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=VEND-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Vendi3Mist.jpg"></a>
 		Number 3. Vendi 3 Mist
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TURC-7" target="_blank">
+		<a href="https://www.estout.com/details?sku=TURC-7" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LRFire-Turco7Espresso.jpg"></a>
 		Number 4. Turco 7 Espresso
 	</div>

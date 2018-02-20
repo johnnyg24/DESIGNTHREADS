@@ -21,19 +21,19 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-		<a href="~/details?sku=FLEU-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=FLEU-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Fleur3Harbor.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=KIRC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=KIRC-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Kirch1Blueberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LORE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LORE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Loretta1Coral.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ABIG-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=ABIG-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Holistic-Abigail2Grey.jpg"></a>
 	</div>
 </div>
@@ -51,19 +51,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=SITK-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SITK-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Sitka1Jewel.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VEND-14" target="_blank">
+		<a href="https://www.estout.com/details?sku=VEND-14" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Vendi14Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CEZA-6" target="_blank">
+		<a href="https://www.estout.com/details?sku=CEZA-6" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Cezanne6Walnut.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CHAC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CHAC-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Intrepid-Chacha1Sunset.jpg"></a>
 	</div>
 </div>
@@ -81,19 +81,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=BINN-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=BINN-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Binney3Vineyard.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=EMOT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=EMOT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Emotion1Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GLAS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=GLAS-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Glasgow2Regatta.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TRIF-11" target="_blank">
+		<a href="https://www.estout.com/details?sku=TRIF-11" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Noir-Trifecta11Citrine.jpg"></a>
 	</div>
 </div>
@@ -111,19 +111,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=HADR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=HADR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Hadrane2Bahama.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=HOTW-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=HOTW-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Hotwave2Festival.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SMIL-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=SMIL-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Smile2Festival.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=WAHO-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=WAHO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CC-SW2017-Unbounded-Wahoo1Mango.jpg"></a>
 	</div>
 </div>

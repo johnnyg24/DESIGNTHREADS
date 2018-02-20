@@ -17,22 +17,22 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="~/details?sku=LONE-1" target="_blank">
+    <a href="https://www.estout.com/details?sku=LONE-1" target="_blank">
     <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-RadiantOrchidLonestar1.jpg"></a>
 </div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=DELL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DELL-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-DazzlingBlueDellwood1.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=MARJ-46" target="_blank">
+		<a href="https://www.estout.com/details?sku=MARJ-46" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-PlacidBlueMarjorie46.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=AUBU-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=AUBU-2" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-PalomaAuburn2.jpg"></a>
 	</div>
 </div>
@@ -40,15 +40,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=WELD-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=WELD-2" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-SandWeldon2.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=COLL-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=COLL-2" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-FreesiaCollage2.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=OPTI-10" target="_blank">
+		<a href="https://www.estout.com/details?sku=OPTI-10" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-CayenneOptic10.jpg"></a>
 	</div>
 </div>	
@@ -56,17 +56,17 @@ End Code
 	
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=DUTC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DUTC-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-CelosiaOrangeDutchess1.jpg"></a>
 	</div>
 	
 	<div class="col-md-4">	
-		<a href="~/details?sku=LICT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LICT-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-MagentaPurpleLictor1.jpg"></a>
 	</div>
 	
 	<div class="col-md-4">
-		<a href="~/details?sku=EATO-8" target="_blank">
+		<a href="https://www.estout.com/details?sku=EATO-8" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-PurpleHazeEaton8.jpg"></a>
 	</div>
 </div>
@@ -74,15 +74,15 @@ End Code
 
 <div class="row" align="center">	
 	<div class="col-md-4">
-		<a href="~/details?sku=SHIR-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SHIR-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-VioletTulipShiraz1.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=ARTW-7" target="_blank">
+		<a href="https://www.estout.com/details?sku=ARTW-7" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-HemlockArtwell7.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=JULL-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=JULL-3" target="_blank">
         <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring14-ComfreyJulliard3.jpg"></a>
 	</div>
 </div>

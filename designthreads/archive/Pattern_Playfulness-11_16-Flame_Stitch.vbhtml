@@ -76,19 +76,19 @@ End Code
 		
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=DORS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=DORS-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Dorsett2Camel.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=MEND-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MEND-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Mendoza3Bayberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ENTE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ENTE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Enterprise1Fiesta.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SANG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SANG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Sangria1Salmon.jpg"></a>
 	</div>
 </div>
@@ -96,20 +96,20 @@ End Code
 		
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=GUAR-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=GUAR-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Guardian3Shadow.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DRAG-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=DRAG-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Dragonfly5Sky.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ROSE-10
+		<a href="https://www.estout.com/details?sku=ROSE-10
 " target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Rosemont10Violet.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LUFT-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=LUFT-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Luftania2Navy.jpg"></a>
 	</div>
 </div>

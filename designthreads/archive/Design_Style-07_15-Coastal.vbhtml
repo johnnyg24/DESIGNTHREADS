@@ -91,31 +91,31 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-2 col-md-offset-1">
-        <a href="~/details?sku=PASC-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=PASC-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/DesignStyle-Coastal-LRDR-Pascal1Indigo.jpg">
         </a>
         Number 1. Pascal 1 Indigo
     </div>
     <div class="col-md-2">
-        <a href="~/details?sku=CLUB-10" target="_blank">
+        <a href="https://www.estout.com/details?sku=CLUB-10" target="_blank">
             <img class="img-responsive" alt="" src="~/images/DesignStyle-Coastal-LRDR-Clubhouse10Parchment.jpg">
         </a>
         Number 2. Clubhouse 10 Parchment
     </div>
     <div class="col-md-2">
-        <a href="~/details?sku=CONL-3" target="_blank">
+        <a href="https://www.estout.com/details?sku=CONL-3" target="_blank">
             <img class="img-responsive" alt="" src="~/images/DesignStyle-Coastal-LRDR-Conlin3Royal.jpg">
         </a>
         Number 3. Conlin 3 Royal
     </div>
     <div class="col-md-2">
-        <a href="~/details?sku=VINE-2" target="_blank">
+        <a href="https://www.estout.com/details?sku=VINE-2" target="_blank">
             <img class="img-responsive" alt="" src="~/images/DesignStyle-Coastal-LRDR-Vines2Navy.jpg">
         </a>
         Number 4. Vines 2 Navy
     </div>
     <div class="col-md-2">
-        <a href="~/details?sku=CANY-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=CANY-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/DesignStyle-Coastal-LRDR-Canyon1Denim.jpg">
         </a>
         Number 5. Canyon 1 Denim

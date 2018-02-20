@@ -47,15 +47,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=COSB-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=COSB-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Cosby2Shrimp.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=ELMW-8" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELMW-8" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Elmwood8Pearl.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=KAKA-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=KAKA-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Kakapi3Hemp.jpg"></a>
 	</div>
 </div>
@@ -63,15 +63,15 @@ End Code
 	
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=VILL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=VILL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Villager1Aqua.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SCRU-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SCRU-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Scrunch1Seacrest.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=CROI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CROI-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Croix1Bay.jpg"></a>
 	</div>
 </div>
@@ -79,15 +79,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=WOLL-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=WOLL-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Wollastan3Lime.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=ALBA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ALBA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Albany1Lapis.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=AUBU-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=AUBU-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Trellis-Auburn2Silver.jpg"></a>
 	</div>
 </div>

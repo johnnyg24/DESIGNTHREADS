@@ -52,19 +52,19 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-        <a href="~/details?sku=PEDA-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=PEDA-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Pedalo1Biscuit.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=EVET-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=EVET-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Evette1Spray.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=VALB-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=VALB-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Valbrona1Graphite.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=TART-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=TART-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Tartan1Slate.jpg"></a>
     </div>
 </div>
@@ -72,19 +72,19 @@ End Code
 
 <div align="center" class="row">
     <div class="col-md-3">
-        <a href="~/details?sku=MATE-3" target="_blank">
+        <a href="https://www.estout.com/details?sku=MATE-3" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Mateo3Baltic.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=WASC-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=WASC-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Wasco1Olive.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=DENI-2" target="_blank">
+        <a href="https://www.estout.com/details?sku=DENI-2" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Denison2Redwood.jpg"></a>
     </div>
     <div class="col-md-3">
-        <a href="~/details?sku=ODES-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=ODES-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Plaid-Odessa1Paprika.jpg"></a>
     </div>
 </div>

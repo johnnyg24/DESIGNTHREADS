@@ -96,22 +96,22 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=OFFL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=OFFL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Offlimits1Clay.jpg"></a>
 		Number 1. Offlimits 1 Clay
 	</div>
 		<div class="col-md-3">
-		<a href="~/details?sku=GOWN-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=GOWN-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Gown5Curry.jpg"></a>
 		Number 2. Gown 5 Curry
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CREO-10" target="_blank">
+		<a href="https://www.estout.com/details?sku=CREO-10" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Creole10Camel.jpg"></a>
 		Number 3. Creole 10 Camel
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VLAD-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=VLAD-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-OpenConcept-Vladimir1Porcelain.jpg"></a>
 		Number 4. Vladimir 1 Porcelain
 	</div>

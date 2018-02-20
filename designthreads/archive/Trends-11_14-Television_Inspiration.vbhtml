@@ -31,15 +31,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=PRAC-3" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Practical3Sand.jpg"></a>
+		<a href="https://www.estout.com/details?sku=PRAC-3" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Practical3Sand.jpg"></a>
 		<div class="text-center">Practical 3 Sand</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=GRAN-35" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Grand35Pacific.jpg"></a>
+		<a href="https://www.estout.com/details?sku=GRAN-35" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Grand35Pacific.jpg"></a>
 		<div class="text-center">Grand 35 Pacific</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=TURC-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Turco4Caramel.jpg"></a>
+		<a href="https://www.estout.com/details?sku=TURC-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-Bones-Turco4Caramel.jpg"></a>
 		<div class="text-center">Turco 4 Caramel</div>
 	</div>
 </div>
@@ -55,15 +55,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=SINK-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Sinkler1Copper.jpg"></a>
+		<a href="https://www.estout.com/details?sku=SINK-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Sinkler1Copper.jpg"></a>
 		<div class="text-center">Sinkler 1 Copper</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=NOSE-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Noseda4Black.jpg"></a>
+		<a href="https://www.estout.com/details?sku=NOSE-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Noseda4Black.jpg"></a>
 		<div class="text-center">Noseda 4 Black</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=NEOP-3" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Neophyte3Russet.jpg"></a>
+		<a href="https://www.estout.com/details?sku=NEOP-3" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-MadMen-Neophyte3Russet.jpg"></a>
 		<div class="text-center">Neophyte 3 Russet</div>
 	</div>
 </div>
@@ -79,15 +79,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=SERR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Serrana2Chalk.jpg"></a>
+		<a href="https://www.estout.com/details?sku=SERR-2" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Serrana2Chalk.jpg"></a>
 		<div class="text-center">Serrana 2 Chalk</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=KAPO-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Kapoc1Robin.jpg"></a>
+		<a href="https://www.estout.com/details?sku=KAPO-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Kapoc1Robin.jpg"></a>
 		<div class="text-center">Kapoc 1 Robin</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=HITC-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Hitchcock1Espresso.jpg"></a>
+		<a href="https://www.estout.com/details?sku=HITC-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy-Hitchcock1Espresso.jpg"></a>
 		<div class="text-center">Hitchcock 1 Espresso</div>
 	</div>
 </div>
@@ -103,15 +103,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=LANC-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Lancaster1Sandstone.jpg"></a>
+		<a href="https://www.estout.com/details?sku=LANC-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Lancaster1Sandstone.jpg"></a>
 		<div class="text-center">Lancaster 1 Sandstone</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=PARE-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Parent4Silver.jpg"></a>
+		<a href="https://www.estout.com/details?sku=PARE-4" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Parent4Silver.jpg"></a>
 		<div class="text-center">Parent 4 Silver</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=EXET-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Exeter1Woodland.jpg"></a>
+		<a href="https://www.estout.com/details?sku=EXET-1" target="_blank"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Exeter1Woodland.jpg"></a>
 		<div class="text-center">Exeter 1 Woodland</div>
 	</div>
 </div>

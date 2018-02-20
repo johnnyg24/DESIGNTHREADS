@@ -26,15 +26,15 @@ End Code
 <div class="spacer-1x"></div>
 
 <ul class="list-group no-side-border">
-	<li class="list-group-item">1. <a href="~/details?sku=ALAN-3" target="_blank">Alana 3 Coral</a></li>
-	<li class="list-group-item">2. <a href="~/details?sku=TIDI-2" target="_blank">Tidings 2 Coral</a></li>
-	<li class="list-group-item">3. <a href="~/details?sku=VICK-2" target="_blank">Vickery 2 Flamingo</a></li>
-	<li class="list-group-item">4. <a href="~/details?sku=CHOP-18" target="_blank">Choppa 18 Coral</a></li>
-	<li class="list-group-item">5. <a href="~/details?sku=UXBR-4" target="_blank">Uxbridge 4 Punch</a></li>
-	<li class="list-group-item">6. <a href="~/details?sku=GLIN-52" target="_blank">Glint 52 Coral</a></li>
-	<li class="list-group-item">7. <a href="~/details?sku=LISA-1" target="_blank">Lisa 1 Spring</a></li>
-	<li class="list-group-item">8. <a href="~/details?sku=GUTS-1" target="_blank">Gutsy 1 Petal</a></li>
-	<li class="list-group-item">9. <a href="~/details?sku=IGNA-1" target="_blank">Ignacio 1 Punch</a></li>		
+	<li class="list-group-item">1. <a href="https://www.estout.com/details?sku=ALAN-3" target="_blank">Alana 3 Coral</a></li>
+	<li class="list-group-item">2. <a href="https://www.estout.com/details?sku=TIDI-2" target="_blank">Tidings 2 Coral</a></li>
+	<li class="list-group-item">3. <a href="https://www.estout.com/details?sku=VICK-2" target="_blank">Vickery 2 Flamingo</a></li>
+	<li class="list-group-item">4. <a href="https://www.estout.com/details?sku=CHOP-18" target="_blank">Choppa 18 Coral</a></li>
+	<li class="list-group-item">5. <a href="https://www.estout.com/details?sku=UXBR-4" target="_blank">Uxbridge 4 Punch</a></li>
+	<li class="list-group-item">6. <a href="https://www.estout.com/details?sku=GLIN-52" target="_blank">Glint 52 Coral</a></li>
+	<li class="list-group-item">7. <a href="https://www.estout.com/details?sku=LISA-1" target="_blank">Lisa 1 Spring</a></li>
+	<li class="list-group-item">8. <a href="https://www.estout.com/details?sku=GUTS-1" target="_blank">Gutsy 1 Petal</a></li>
+	<li class="list-group-item">9. <a href="https://www.estout.com/details?sku=IGNA-1" target="_blank">Ignacio 1 Punch</a></li>		
 </ul>
 <div class="spacer"></div>				
 		

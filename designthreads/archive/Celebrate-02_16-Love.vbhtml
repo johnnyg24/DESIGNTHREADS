@@ -55,19 +55,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=AEGE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=AEGE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Aegean1Dogwood.jpg"></a>
 	</div>		
 	<div class="col-md-3">
-		<a href="~/details?sku=BOLZ-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BOLZ-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Bolzano2Berry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BYGO-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BYGO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Bygone1Rose.jpg"></a>
 	</div>		
 	<div class="col-md-3">
-		<a href="~/details?sku=CEZA-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=CEZA-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Cezanne5Berry.jpg"></a>
 	</div>
 </div>
@@ -75,19 +75,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=DEIB-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=DEIB-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Deibert1Carnation.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DESE-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=DESE-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Desert3Raspberry.jpg"></a>
 	</div>		
 	<div class="col-md-3">
-		<a href="~/details?sku=LEDB-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LEDB-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Ledbury1Carnation.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LIMO-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=LIMO-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Limousine4Rouge.jpg"></a>
 	</div>
 </div>
@@ -95,19 +95,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=LORE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LORE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Loretta1Coral.jpg"></a>
 	</div>			
 	<div class="col-md-3">
-		<a href="~/details?sku=NAOM-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=NAOM-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Naomi2Tuttifrutti.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=NURI-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=NURI-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Nuri3Sorbet.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=VEND-13" target="_blank">
+		<a href="https://www.estout.com/details?sku=VEND-13" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-Love-Vendi13Blossom.jpg"></a>
 	</div>
 </div>

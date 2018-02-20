@@ -50,19 +50,19 @@ End Code
 
 <div class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=SUPP-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Supple5Acorn.jpg"></a>
+		<a href="https://www.estout.com/details?sku=SUPP-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Supple5Acorn.jpg"></a>
 		<div class="text-center">Number 1: Supple 5 Acorn</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BEDL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedlington1Silver.jpg"></a>
+		<a href="https://www.estout.com/details?sku=BEDL-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedlington1Silver.jpg"></a>
 		<div class="text-center">Number 2: Bedlington 1 Silver</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=DORS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Dorsett1Linen.jpg"></a>
+		<a href="https://www.estout.com/details?sku=DORS-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Dorsett1Linen.jpg"></a>
 		<div class="text-center">Number 3: Dorsett 1 Linen</div>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Independence5Eggshell.jpg"></a>
+		<a href="https://www.estout.com/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Independence5Eggshell.jpg"></a>
 		<div class="text-center">Number 4: Independence 5 Eggshell</div>
 	</div>
 </div>

@@ -56,37 +56,37 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">		
-	<div class="col-md-2 col-md-offset-1"><a href="~/details?sku=BUZZ-5" target="_blank">
+	<div class="col-md-2 col-md-offset-1"><a href="https://www.estout.com/details?sku=BUZZ-5" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Buzz5Fawn.jpg"></a><div class="text-center">Buzz 5 Fawn</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=CAMA-1" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=CAMA-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Camaro%201%20Cream.jpg"></a><div class="text-center">Camaro 1 Cream</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=FIRM-7" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=FIRM-7" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Firmament7Sage.jpg"></a><div class="text-center">Firmament 7 Sage</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=GEOD-1" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=GEOD-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Geode1Biscuit.jpg"></a><div class="text-center">Geode 1 Biscuit</div>	
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=JENS-2" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=JENS-2" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Jensilva%202%20Bone.jpg"></a><div class="text-center">Jensilva 2 Bone</div>
 	</div>
 </div>
 <div class="spacer"></div>
 <div class="row" align="center">		
-	<div class="col-md-2 col-md-offset-1"><a href="~/details?sku=MANA-66" target="_blank">
+	<div class="col-md-2 col-md-offset-1"><a href="https://www.estout.com/details?sku=MANA-66" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Manage66Raffia.jpg"></a><div class="text-center">Manage 66 Raffia</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=MANP-1" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=MANP-1" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Manpower1Natural.jpg"></a><div class="text-center">Manpower 1 Natural</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=OFFR-2" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=OFFR-2" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Offri2Smoke.jpg"></a><div class="text-center">Offri 2 Smoke</div>
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=PADR-3" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=PADR-3" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Padre%203%20Linen.jpg"></a><div class="text-center">Padre 3 Linen</div>	
 	</div>
-	<div class="col-md-2"><a href="~/details?sku=UPDR-4" target="_blank">
+	<div class="col-md-2"><a href="https://www.estout.com/details?sku=UPDR-4" target="_blank">
 	<img class="img-responsive" alt="" src="~/images/History-Linen-Updraft4Linen.jpg"></a><div class="text-center">Updraft 4 Linen</div>
 	</div>
 </div>		

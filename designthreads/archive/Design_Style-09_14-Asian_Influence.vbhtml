@@ -48,15 +48,15 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-4">
-		<a href="~/details?sku=ALGI-8" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Algiers8Dusk.jpg"></a>
+		<a href="https://www.estout.com/details?sku=ALGI-8" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Algiers8Dusk.jpg"></a>
 		<div class="text-center">Number 1: Algiers 8 Dusk</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SUIT-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Suite1Snow.jpg"></a>
+		<a href="https://www.estout.com/details?sku=SUIT-1" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Suite1Snow.jpg"></a>
 		<div class="text-center">Number 2: Suite 1 Snow</div>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SOLE-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Solebury2Antique.jpg"></a>
+		<a href="https://www.estout.com/details?sku=SOLE-2" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Oriental-Solebury2Antique.jpg"></a>
 		<div class="text-center">Number 3: Solebury 2 Antique</div>
 	</div>
 </div>

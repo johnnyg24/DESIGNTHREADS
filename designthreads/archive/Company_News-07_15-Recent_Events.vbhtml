@@ -72,12 +72,12 @@ Presenting over 80 patterns, our Home Classics is designed to work harmoniously 
 	<div class="col-md-6">
 		<a href="~/images/CN-RE-LateSpring15-D4H.jpg" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-D4H.jpg"></a>
-		<div class="source-link">Cornice Fabric: <a href="~/details?sku=BUDD-4" target="_blank">Buddy 4 Rose</a></div>
+		<div class="source-link">Cornice Fabric: <a href="https://www.estout.com/details?sku=BUDD-4" target="_blank">Buddy 4 Rose</a></div>
 	</div>
 	<div class="col-md-6">
 		<a href="~/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/CN-RE-LateSpring15-D4H-CurtainSkirt.jpg"></a>
-		<div class="source-link">Drapery Fabric: <a href="~/details?sku=CLOV-3" target="_blank">Clover 3 Cottoncandy</a></div>
+		<div class="source-link">Drapery Fabric: <a href="https://www.estout.com/details?sku=CLOV-3" target="_blank">Clover 3 Cottoncandy</a></div>
 	</div>
 </div>
 <hr>

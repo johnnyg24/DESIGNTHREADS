@@ -22,7 +22,7 @@ End Code
 <ul class="list-group no-side-border">
 		<li class="list-group-item">1. Knit Herringbone <a href="http://www.highstreetmarket.com/collections/home-decor/products/knit-herringbone-throw-blanket-black-white" target="_blank">Throw Blanket</a>, Black &amp; White</li>
 		<li class="list-group-item">2. "Herringbone" <a href="http://www.artedona.com/en/Glassware/Bar-glasses/Artel-Herringbone-glasses.html" target="_blank">glasses</a> by Artel</li>
-		<li class="list-group-item">3. Stout Fabric, Pattern: <a href="~/details?sku=JODY-4" target="_blank">Jody 4 Tan</a></li> 
+		<li class="list-group-item">3. Stout Fabric, Pattern: <a href="https://www.estout.com/details?sku=JODY-4" target="_blank">Jody 4 Tan</a></li> 
 		<li class="list-group-item">4. Bombay&reg; Herringbone Trunk Table</li>
 		<li class="list-group-item">5. Neiman Marcus Exclusive- Herringbone Storage Cube</li>
 		<li class="list-group-item">6. Brown Zig Zag Duvet</li>
@@ -42,7 +42,7 @@ End Code
 		<li class="list-group-item">1. Pinstripe Rug - Chambray</li>
 		<li class="list-group-item">2. Small Pinstripe <a href="http://www.burkedecor.com/collections/boxes/products/small-pinstripe-bone-box-lazy-susan" target="_blank">Bone Box</a> by Lazy Susan</li>
 		<li class="list-group-item">3. Jasper Conran for Wedgwood Pinstripe <a href="http://www.johnlewis.com/jasper-conran-for-wedgwood-pinstripe-espresso-saucer/p231037291#default" target="_blank">Espresso Saucer</a> </li>
-		<li class="list-group-item">4. Stout Fabric, Pattern: <a href="~/details?sku=HAMI-1" target="_blank">Hamilton 1 Navy</a></li>
+		<li class="list-group-item">4. Stout Fabric, Pattern: <a href="https://www.estout.com/details?sku=HAMI-1" target="_blank">Hamilton 1 Navy</a></li>
 		<li class="list-group-item">5. Sugar Paper Thanks To You <a href="https://sugarpaper.com/collections/thank-you-notes/products/classic-black-thank-you?variant=3933389057" target="_blank">Cards</a> </li>
 		<li class="list-group-item">6. 'Black Pinstripe' Laptop Skin</li>
 		<li class="list-group-item">7. Safavieh Jenna <a href="https://homegallerystores.com/safavieh/accents/hud4187a/jenna-arm-chair-black-and-cream/p357055" target="_blank">Arm Chair</a> - Black</li>
@@ -59,7 +59,7 @@ End Code
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
-		<li class="list-group-item">1. Stout Fabric, Pattern: <a href="~/details?sku=DENI-2" target="_blank">Denison 2 Redwood</a></li>
+		<li class="list-group-item">1. Stout Fabric, Pattern: <a href="https://www.estout.com/details?sku=DENI-2" target="_blank">Denison 2 Redwood</a></li>
 		<li class="list-group-item">2. Jeffrey Banks Handpainted Glass Ornaments, Set of 8 </li> 
 		<li class="list-group-item">3. Soho Wool <a href="https://www.ampersandshops.com/collections/blankets-throws/products/faribault-gray-red-plaid-soho-throw" target="_blank">Throw Blanket</a> - Gray/Red Plaid</li>
 		<li class="list-group-item">4. Plaid Reindeer Reversible <a href="https://www.overstock.com/Home-Garden/Plaid-Reindeer-Reversible-Throw-Pillow/8441371/product.html?cid=221459&track=ibvhz" target="_blank">Throw Pillow</a></li>

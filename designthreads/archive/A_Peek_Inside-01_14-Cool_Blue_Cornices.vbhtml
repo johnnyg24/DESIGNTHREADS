@@ -11,7 +11,7 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
-<p>Capping these windows as snow caps a mountain's peak, this cornice is the perfect fit for this small sitting area. Creating  a fun, yet stately frame for the wonderous winter view, our <a href="~/details?sku=CASP-2" target="_blank">Caspian 2 Baltic</a> allows for it to remain the focal point. From the cool blues of winter to the splashy sky tones of summer, this cornice has the versatility to work the year through. </p>
+<p>Capping these windows as snow caps a mountain's peak, this cornice is the perfect fit for this small sitting area. Creating  a fun, yet stately frame for the wonderous winter view, our <a href="https://www.estout.com/details?sku=CASP-2" target="_blank">Caspian 2 Baltic</a> allows for it to remain the focal point. From the cool blues of winter to the splashy sky tones of summer, this cornice has the versatility to work the year through. </p>
 <div class="spacer"></div>
 
 <div class="row" align="center">

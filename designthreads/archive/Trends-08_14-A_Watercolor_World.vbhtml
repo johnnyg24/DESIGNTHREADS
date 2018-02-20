@@ -20,12 +20,12 @@ End Code
 <div class="spacer"></div>
 
 <ul class="list-group no-side-border">
-<li class="list-group-item">1. <a href="~/details?sku=DOUG-2" target="_blank">Douglas 2 Mandarin</a></li>
-<li class="list-group-item">2. <a href="~/details?sku=COLU-2" target="_blank">Columbia 2 Lime</a></li>
-<li class="list-group-item">3. <a href="~/details?sku=ATHE-1" target="_blank">Athena 1 Opal</a></li>
-<li class="list-group-item">4. <a href="~/details?sku=ABIN-3" target="_blank">Abington 3 Whisper</a></li>
-<li class="list-group-item">5. <a href="~/details?sku=SAMO-1" target="_blank">Samos 1 Garden</a></li>
-<li class="list-group-item">6. <a href="~/details?sku=SONN-1" target="_blank">Sonnet 1 Copen</a></li>
+<li class="list-group-item">1. <a href="https://www.estout.com/details?sku=DOUG-2" target="_blank">Douglas 2 Mandarin</a></li>
+<li class="list-group-item">2. <a href="https://www.estout.com/details?sku=COLU-2" target="_blank">Columbia 2 Lime</a></li>
+<li class="list-group-item">3. <a href="https://www.estout.com/details?sku=ATHE-1" target="_blank">Athena 1 Opal</a></li>
+<li class="list-group-item">4. <a href="https://www.estout.com/details?sku=ABIN-3" target="_blank">Abington 3 Whisper</a></li>
+<li class="list-group-item">5. <a href="https://www.estout.com/details?sku=SAMO-1" target="_blank">Samos 1 Garden</a></li>
+<li class="list-group-item">6. <a href="https://www.estout.com/details?sku=SONN-1" target="_blank">Sonnet 1 Copen</a></li>
 </ul>
 <div class="spacer"></div>			
 		

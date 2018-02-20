@@ -27,22 +27,22 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details.vbhtml?sku=ABLE-5"  target="_blank">
+		<a href="https://www.estout.com/details.vbhtml?sku=ABLE-5"  target="_blank">
 		<img class="img-responsive" alt="" src="~/images/API-Jan'16-HeidiDripps-Able5Cornsilk.jpg"></a>
 		<p>Able 5 Cornsilk</p>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details.vbhtml?sku=COLB-1" target="_blank">
+		<a href="https://www.estout.com/details.vbhtml?sku=COLB-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/API-Jan'16-HeidiDripps-Colbert1Fawn.jpg"></a>
 		<p>Colbert 1 Fawn</p>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details.vbhtml?sku=GAYL-8" target="_blank">
+		<a href="https://www.estout.com/details.vbhtml?sku=GAYL-8" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/API-Jan'16-HeidiDripps-Gayle8Cardinal.jpg"></a>
 		<p>Gayle 8 Cardinal</p>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details.vbhtml?sku=TONK-2" target="_blank">
+		<a href="https://www.estout.com/details.vbhtml?sku=TONK-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/API-Jan'16-HeidiDripps-Tonkin2Gold.jpg"></a>
 		<p>Tonkin 2 Gold</p>
 	</div>

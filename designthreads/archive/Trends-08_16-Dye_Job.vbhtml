@@ -69,15 +69,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=TENA-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=TENA-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Tenacity4Denim.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=ABST-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=ABST-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Abstract2Shadow.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SURR-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=SURR-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Surrey5Slate.jpg"></a>
 	</div>
 </div>
@@ -85,15 +85,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=TONA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TONA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Tonality1Seacrest.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=SIEN-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SIEN-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Sienna1Aqua.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=FUNK-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=FUNK-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Funky2Granite.jpg"></a>
 	</div>
 </div>
@@ -101,15 +101,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=LECT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LECT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Lecto1Moonstone.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=NANC-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=NANC-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Nancy3Spring.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=PART-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=PART-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Party3Peacock.jpg"></a>
 	</div>
 </div>
@@ -117,15 +117,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=JETS-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=JETS-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Jetson1Birch.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=FLEM-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=FLEM-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Flemming2Chamomile.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=DAUP-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=DAUP-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Dauphine2Sauterne.jpg"></a>
 	</div>
 </div>

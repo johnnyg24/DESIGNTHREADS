@@ -45,38 +45,38 @@ End Code
 
 <div class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=SKYR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=SKYR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Skyron2Raisin.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ANTH-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=ANTH-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Anthony2Honey.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=APPA-6" target="_blank">
+		<a href="https://www.estout.com/details?sku=APPA-6" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Appaloosa6Melon.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=THIS-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=THIS-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Thistle5Jonquil.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
 <div class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=BEAS-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BEAS-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Beast2Palm.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TUSC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TUSC-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Tuscany1Lagoon.jpg"></a>
 	</div>
 	<div class="col-md-3">
-			<a href="~/details?sku=COMM-1" target="_blank">
+			<a href="https://www.estout.com/details?sku=COMM-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Commerce1Violet.jpg"></a>	
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=WAGO-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=WAGO-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Chenille-Wagon1Oyster.jpg"></a>
 	</div>
 </div>

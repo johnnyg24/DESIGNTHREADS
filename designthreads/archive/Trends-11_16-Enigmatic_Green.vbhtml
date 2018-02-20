@@ -63,19 +63,19 @@ End Code
 		
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=OAKL-27" target="_blank">
+		<a href="https://www.estout.com/details?sku=OAKL-27" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Oakley27Jungle.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CHES-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=CHES-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Chestnut4Teal.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TOWP-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=TOWP-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Towpath2Lagoon.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GORG-42" target="_blank">
+		<a href="https://www.estout.com/details?sku=GORG-42" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Gorgeous42Seaglass.jpg"></a>
 	</div>
 </div>
@@ -83,19 +83,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=MADD-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=MADD-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Madden5Nickel.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BROD-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=BROD-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Brody3Jasmine.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=CARM-43" target="_blank">
+		<a href="https://www.estout.com/details?sku=CARM-43" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Carmel43Thistle.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=OAKL-25" target="_blank">
+		<a href="https://www.estout.com/details?sku=OAKL-25" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Oakley25Twig.jpg"></a>
 	</div>
 </div>
@@ -103,19 +103,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=GEOM-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=GEOM-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Geometric3Taupe.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=HADD-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=HADD-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Haddon1Lagoon.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=REIM-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=REIM-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Reims3Shadow.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ALGI-10" target="_blank">
+		<a href="https://www.estout.com/details?sku=ALGI-10" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Algiers10Mineral.jpg"></a>
 	</div>
 </div>
@@ -123,19 +123,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=LETI-21" target="_blank">
+		<a href="https://www.estout.com/details?sku=LETI-21" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Letino21Seaspray.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=JUIC-29" target="_blank">
+		<a href="https://www.estout.com/details?sku=JUIC-29" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Juicy29Iron.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=PASS-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=PASS-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Passenger4Steel.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GRAN-27" target="_blank">
+		<a href="https://www.estout.com/details?sku=GRAN-27" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Grand27Navy.jpg"></a>
 	</div>
 </div>

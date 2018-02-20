@@ -16,19 +16,19 @@ End Code
 
 <div class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=BEFU-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BEFU-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/befu-2.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BOLT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BOLT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/bolt-1.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GAME-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=GAME-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/game-3.jpg"></a>		
 	</div>
     <div class="col-md-3">
-        <a href="~/details?sku=GOVE-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=GOVE-1" target="_blank">
             <img class="img-responsive" alt="" src="~/images/gove-1.jpg">
         </a>
     </div>

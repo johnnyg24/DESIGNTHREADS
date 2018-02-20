@@ -50,19 +50,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=MIXE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MIXE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Mixedbag1Raspberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=STIR-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=STIR-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Stirrup2Straw.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=BOYC-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=BOYC-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Boycott1Citrus.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=INSE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=INSE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Inseparable1Federal.jpg"></a>
 	</div>
 </div>
@@ -70,19 +70,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=GLIT-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=GLIT-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Glitch1Jute.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ELLU-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ELLU-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Elluru1Aloe.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SPLA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SPLA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Splash1Vanilla.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=GIGG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=GIGG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Swirls-Giggle1Domino.jpg"></a>
 	</div>
 </div>

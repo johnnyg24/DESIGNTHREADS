@@ -56,19 +56,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=CORF-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CORF-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Corfu1Ocean.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=MAHA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MAHA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Mahaska1Navy.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=NONS-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=NONS-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Nonsense3Shocking.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ROME-3" target="_blank">
+		<a href="https://www.estout.com/details?sku=ROME-3" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Romero3Mulberry.jpg">
 	</div>
 </div>
@@ -76,19 +76,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=FABL-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=FABL-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Fable2Taupe.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ITHA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ITHA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Ithaca1Honey.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=LEMA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=LEMA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Lemans1Smoke.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=MACH-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=MACH-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Machine1Copen.jpg">
 	</div>
 </div>
@@ -96,19 +96,19 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-3">
-		<a href="~/details?sku=CORE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=CORE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Corey1Seaside.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=KODI-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=KODI-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Kodiak1Waterway.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=QUAK-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=QUAK-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Quakertown1Royal.jpg">
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=TELL-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=TELL-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-Telluride2Lagoon.jpg">
 	</div>
 </div>

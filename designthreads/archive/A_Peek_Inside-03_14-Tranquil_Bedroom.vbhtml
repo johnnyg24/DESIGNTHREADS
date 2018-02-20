@@ -10,7 +10,7 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
-<p>Here, our pattern <a href="~/details?sku=BECK-1" target="_blank"> Beckwith 1 Tranquil</a> makes the job easy with its calming colors. The soft, almost dreamy tones of this bedroom invite you in and seem to promise a sweet night of sleep. The simplicity of the space works perfectly with the balanced design of the fabric.  </p>
+<p>Here, our pattern <a href="https://www.estout.com/details?sku=BECK-1" target="_blank"> Beckwith 1 Tranquil</a> makes the job easy with its calming colors. The soft, almost dreamy tones of this bedroom invite you in and seem to promise a sweet night of sleep. The simplicity of the space works perfectly with the balanced design of the fabric.  </p>
 <div class="spacer"></div>
 
 <div align="center"><img class="img-responsive" alt="" src="~/images/API-Framed-Beckwith.jpg"></div>

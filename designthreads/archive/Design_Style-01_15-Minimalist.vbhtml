@@ -41,13 +41,13 @@ End Code
 <div class="source-link">Room Image Credit: <a href="https://www.houzz.com/photos/1909442/Living-Room-contemporary-living-room-edmonton" target="_blank">Alberta Prairie House</a>, by Habitat Studio.</div>
 <div class="spacer"></div>
 <div class="row">
-	<div class="col-md-4"><a href="~/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Independence5Eggshell.jpg"></a>
+	<div class="col-md-4"><a href="https://www.estout.com/details?sku=INDE-5" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Independence5Eggshell.jpg"></a>
         <div class="text-center">Number 1: Independence 5 Eggshell</div>
     </div>
-	<div class="col-md-4"><a href="~/details?sku=CARM-41" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Carmel41Ginger.jpg"></a>
+	<div class="col-md-4"><a href="https://www.estout.com/details?sku=CARM-41" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Carmel41Ginger.jpg"></a>
         <div class="text-center">Number 2: Carmel 41 Ginger</div>
     </div>
-	<div class="col-md-4"><a href="~/details?sku=ECOL-3" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Ecoleaf3Fiesta.jpg"></a>
+	<div class="col-md-4"><a href="https://www.estout.com/details?sku=ECOL-3" target="_blank"><img class="img-responsive" alt="" src="~/images/DesignStyle-Minimalist-PrairieHouse-Ecoleaf3Fiesta.jpg"></a>
         <div class="text-center">Number 3: Ecoleaf 3 Fiesta</div>
     </div>
 </div>

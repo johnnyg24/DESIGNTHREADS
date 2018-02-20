@@ -116,15 +116,15 @@ End Code
 			
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=TRIS-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=TRIS-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Tristan1Honey.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=PAGE-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=PAGE-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Pageant1Peacock.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=RELA-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=RELA-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Relaxed1Pumpkin.jpg"></a>
 	</div>
 </div>
@@ -132,15 +132,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=TRIF-25" target="_blank">
+		<a href="https://www.estout.com/details?sku=TRIF-25" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Trifecta25Burgandy.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=CHAN-5" target="_blank">
+		<a href="https://www.estout.com/details?sku=CHAN-5" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Chantilly5Grape.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=ALGI-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=ALGI-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Algiers2Carbon.jpg"></a>
 	</div>
 </div>
@@ -148,15 +148,15 @@ End Code
 
 <div align="center" class="row">
 	<div class="col-md-4">
-		<a href="~/details?sku=FOLL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=FOLL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Folly1Seacrest.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=AVIL-15" target="_blank">
+		<a href="https://www.estout.com/details?sku=AVIL-15" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Avila15Jasmine.jpg"></a>
 	</div>
 	<div class="col-md-4">
-		<a href="~/details?sku=LETI-15" target="_blank">
+		<a href="https://www.estout.com/details?sku=LETI-15" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/History-Velvet-Letino15Royal.jpg"></a>
 	</div>
 </div>

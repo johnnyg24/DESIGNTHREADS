@@ -50,19 +50,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=BRYC-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=BRYC-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Bryce2Cranberry.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=HABE-4" target="_blank">
+		<a href="https://www.estout.com/details?sku=HABE-4" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Haberdash4Mango.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SOLS-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SOLS-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Solstice1Tile.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ALCU-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=ALCU-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Alcurzio1Amber.jpg"></a>
 	</div>
 </div>
@@ -70,19 +70,19 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-3">
-		<a href="~/details?sku=TACT-2" target="_blank">
+		<a href="https://www.estout.com/details?sku=TACT-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Tactile2Harbor.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=OSAG-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=OSAG-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Osage1Turquoise.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=SWEL-1" target="_blank">
+		<a href="https://www.estout.com/details?sku=SWEL-1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Swelter1Navy.jpg"></a>
 	</div>
 	<div class="col-md-3">
-		<a href="~/details?sku=ABLE-6" target="_blank">
+		<a href="https://www.estout.com/details?sku=ABLE-6" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Able6Navy.jpg"></a>
 	</div>
 </div>

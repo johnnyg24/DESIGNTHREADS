@@ -62,27 +62,27 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-2 col-md-offset-1">
-        <a href="~/details?sku=EMBA-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=EMBA-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Embassy1Misty.jpg"></a>
         <div class="text-center">Number 1: Embassy 1 Misty</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=BRON-3" target="_blank">
+        <a href="https://www.estout.com/details?sku=BRON-3" target="_blank">
         <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Bronco3Bark.jpg"></a>
         <div class="text-center">Number 2: Bronco 3 Bark</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=CREO-10" target="_blank">
+        <a href="https://www.estout.com/details?sku=CREO-10" target="_blank">
         <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Creole2Camel.jpg"></a>
         <div class="text-center">Number 3: Creole 10 Camel</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=GIGO-15" target="_blank">
+        <a href="https://www.estout.com/details?sku=GIGO-15" target="_blank">
         <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Gigonda15Moonstone.jpg"></a>
         <div class="text-center">Number 4: Gigonda 15 Moonstone</div>
     </div>
 	<div class="col-md-2">
-        <a href="~/details?sku=OSCA-1" target="_blank">
+        <a href="https://www.estout.com/details?sku=OSCA-1" target="_blank">
         <img class="img-responsive" alt="" src="~/images/DesignStyle-Trad-Laketown-Oscar1Violet.jpg"></a>
         <div class="text-center">Number 5: Oscar 1 Violet</div>
     </div>

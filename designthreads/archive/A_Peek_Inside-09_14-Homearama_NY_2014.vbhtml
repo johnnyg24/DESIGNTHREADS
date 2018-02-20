@@ -22,7 +22,7 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-SecondBedroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-SecondBedroom.jpg"></a>
-		<div class="text-center"><a href="~/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="~/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="https://www.estout.com/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
 		</div>
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-SecondBedroom-Cornice.jpg"></a>
@@ -33,7 +33,7 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Bathroom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Bathroom.jpg"></a>
-		<div class="text-center"><a href="~/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="~/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=ELOQ-3" target="_blank">Eloquence 3 Linen</a>; <a href="https://www.estout.com/details?sku=IVOR-5" target="_blank">Ivorycrest 5 Silverpine</a></div>
 		</div>
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Bathroom-Cornice.jpg"></a>
@@ -44,7 +44,7 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Office.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Office.jpg"></a>
-		<div class="text-center"><a href="~/details?sku=ILLO-1" target="_blank">Illogical 1 Grey</a>; <a href="~/details?sku=THYM-5" target="_blank">Thyme 5 Ash</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=ILLO-1" target="_blank">Illogical 1 Grey</a>; <a href="https://www.estout.com/details?sku=THYM-5" target="_blank">Thyme 5 Ash</a></div>
 	</div>
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Office-Cornice.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Office-Cornice.jpg"></a>
@@ -55,7 +55,7 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-LaundryRoom.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-LaundryRoom.jpg"></a>
-		<div class="text-center"><a href="~/details?sku=ELOQ-2" target="_blank">Eloquence 2 Fawn</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=ELOQ-2" target="_blank">Eloquence 2 Fawn</a></div>
 	</div>
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-LaundryRoom-Valance.jpg"></a>
@@ -66,7 +66,7 @@ End Code
 <div class="row" align="center">
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Stairway.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Stairway.jpg"></a>
-		<div class="text-center"><a href="~/details?sku=ACOR-4" target="_blank">Acorn 4 Cement</a></div>
+		<div class="text-center"><a href="https://www.estout.com/details?sku=ACOR-4" target="_blank">Acorn 4 Cement</a></div>
 	</div>
 	<div class="col-md-6">
 		<a href="~/images/API-HomearamaShowhouse-Stairway-Valance.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/API-HomearamaShowhouse-Stairway-Valance.jpg"></a>
