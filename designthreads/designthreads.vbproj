@@ -503,6 +503,7 @@
     <Content Include="Content\bootstrap\bootstrap-flex.scss" />
     <Content Include="archive\Trends-03_18-2018_Predictions.vbhtml" />
     <Content Include="appclasses\sitemap.vbhtml" />
+    <Content Include="archive\Spotlight-03_18-DorothyDraper.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
