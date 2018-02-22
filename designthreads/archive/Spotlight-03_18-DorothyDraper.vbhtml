@@ -28,7 +28,7 @@ End Code
 </div>
 <div class="spacer"></div>
 
-<p>An auto-didact, or self-taught decorator, Dorothy Draper had an innate instinct for design- from creating a space for all to enjoy to being extraordinarily successful at it. Taking the 1920's by storm, her splashy colors and modern designs thrilled all who were priviledged to experience them. From her roots in the exclusive Tuxedo Park New York, Dorothy utilized her frustration with the stuffy design of her home to create living environments that were instead full of life and vigor. </p>
+<p>An auto-didact, or self-taught decorator, Dorothy Draper had an innate instinct for design- from creating a space for all to enjoy to being extraordinarily successful at it. Taking the 1920's by storm, her splashy colors and modern designs thrilled all who were privileged to experience them. From her roots in the exclusive Tuxedo Park New York, Dorothy utilized her frustration with the stuffy design of her home to create living environments that were instead full of life and vigor. </p>
 <div class="spacer"></div>
 
 <div class="row" align="center">
@@ -45,7 +45,7 @@ End Code
 </div>
 <div class="spacer"></div>
 
-<p>Being born into wealth and priviledge certainly played a large part in her success, however it was the reaction from the community that ensured her design visions. Revolutionizing interiors with her colors, prints, and motifs Dorothy's designs soon came to be known as 'Modern Baroque'. Grandiose and adventurous compared to the standard 'period room' of the times, Dorothy's design mantra was the rejection of all that is impractical, uncomfortable and drab. A few of her signature styles included black and white checkered floors, unprecedented color combinations (such as aubergine and pink splashed with chartreuse and turquoise), and elaborate architectural details. Her intention was to create a space where one could feel elevated in the presence of such beauty, and that they could absorb the meaning of life. Confidence such as hers is how she maintained success and thus created the first interior design business. </p>
+<p>Being born into wealth and privilege certainly played a large part in her success, however it was the reaction from the community that ensured her design visions. Revolutionizing interiors with her colors, prints, and motifs Dorothy's designs soon came to be known as 'Modern Baroque'. Grandiose and adventurous compared to the standard 'period room' of the times, Dorothy's design mantra was the rejection of all that is impractical, uncomfortable and drab. A few of her signature styles included black and white checkered floors, unprecedented color combinations (such as aubergine and pink splashed with chartreuse and turquoise), and elaborate architectural details. Her intention was to create a space where one could feel elevated in the presence of such beauty, and that they could absorb the meaning of life. Confidence such as hers is how she maintained success and thus created the first interior design business. </p>
 <div class="spacer"></div>
 
 <div class="row" align="center">
@@ -67,7 +67,7 @@ End Code
 </div>
 <div class="spacer"></div>
 
-<p>Establishing her company in 1923, Dorothy was the first to professionalize interior design. Even more astounding was her success as a woman, which was quite unheard of at the time. By simply using her creative spirit and impressive determination Dorothy unknowingly made her name a part of history. So much so that she is currently the only interior designer to have had a major, solo retrospective of her work featured in a museum. The exhibit entitled "The High Style of Dorothy Draper" record breaking attendence during it duration in 2006. </p>
+<p>Establishing her company in 1923, Dorothy was the first to professionalize interior design. Even more astounding was her success as a woman, which was quite unheard of at the time. By simply using her creative spirit and impressive determination Dorothy unknowingly made her name a part of history. So much so that she is currently the only interior designer to have had a major, solo retrospective of her work featured in a museum. The exhibit entitled "The High Style of Dorothy Draper" record breaking attendance during it duration in 2006. </p>
 <div class="spacer"></div>
 
 <p>Aside from her commercial designs, Dorothy also masterfully worked on projects for the Convair and TWA jet lines, a line of vehicles for Packard and Chrysler in the 1950's, and packaging for Dorothy Gray cosmetics. She also gave decorating advice in her regular column for Good Housekeeping Magazine, drafted deigns for Ficks Reed as well Heritage furniture companies, and of course designed fabric lines for the Schumacher textile company and eventually for her own company. In 1941, her book, 'Entertaining Is Fun! How to Be a Popular Hostess' became a massive best seller, hot pink polka-dotted cover and all. Her love for design ran deep as she was frequently known to take control of all aspects of a design project, right down to the menus, matchbook covers, and even staff uniforms. Her drive, creativity, and astute design sense made her a unstoppable force and source of inspiration for many. </p>
