@@ -9,6 +9,10 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
+<div class="spacer"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneSpring18-Banner.jpg"></div>
+<div class="spacer"></div>
+
 <p>Inspired by the fashion runway, Pantone's seasonal forecasts influence all aspects of design, from our wardrobe to our homes. As we rely on color to define ourselves, we unconciously begin to translate it into something tangible- emotions. This season Pantone has boldly broadened the opportunity for self-expression by constructing a multi-faceted palette consisting of 12 uplifting shades plus four foundational classics. A kaleidoscope of color, these are the hues that will encourage our emotions to drive us towards being more genuine with ourselves, to allow us the freedom to explore. </p>
 <div class="spacer"></div>
 
