@@ -9,6 +9,12 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
+<div align="center"><img class="img-responsive" alt="" src="~/images/Featured-Spotlight-DorothyDraper.jpg"></div>
+<div class="spacer"></div>
+
+<p>An auto-didact, or self-taught decorator, Dorothy Draper had an innate instinct for design- from creating a space for all to enjoy to being extraordinarily successful at it. Taking the 1920's by storm, her splashy colors and modern designs thrilled all who were privileged to experience them. From her roots in the exclusive Tuxedo Park New York, Dorothy utilized her frustration with the stuffy design of her home to create living environments that were instead full of life and vigor. </p>
+<div class="spacer"></div>
+
 <div align="center" class="row">
     <div class="col-md-4">
         <a href="http://www.thepeakoftreschic.com/2016/08/honoring-greats-dorothy-draper.html" target="_blank">
@@ -28,43 +34,7 @@ End Code
 </div>
 <div class="spacer"></div>
 
-<p>An auto-didact, or self-taught decorator, Dorothy Draper had an innate instinct for design- from creating a space for all to enjoy to being extraordinarily successful at it. Taking the 1920's by storm, her splashy colors and modern designs thrilled all who were privileged to experience them. From her roots in the exclusive Tuxedo Park New York, Dorothy utilized her frustration with the stuffy design of her home to create living environments that were instead full of life and vigor. </p>
-<div class="spacer"></div>
-
-<div class="row" align="center">
-    <div class="col-md-6">
-        <a href="http://www.dorothydraper.com/historical/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-CameliaHouse-DrakeHotel.jpg">
-        </a>
-    </div>
-    <div class="col-md-6">
-        <a href="http://www.dorothydraper.com/historical/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-EssexHouse.jpg">
-        </a>
-    </div>
-</div>
-<div class="spacer"></div>
-
 <p>Being born into wealth and privilege certainly played a large part in her success, however it was the reaction from the community that ensured her design visions. Revolutionizing interiors with her colors, prints, and motifs Dorothy's designs soon came to be known as 'Modern Baroque'. Grandiose and adventurous compared to the standard 'period room' of the times, Dorothy's design mantra was the rejection of all that is impractical, uncomfortable and drab. A few of her signature styles included black and white checkered floors, unprecedented color combinations (such as aubergine and pink splashed with chartreuse and turquoise), and elaborate architectural details. Her intention was to create a space where one could feel elevated in the presence of such beauty, and that they could absorb the meaning of life. Confidence such as hers is how she maintained success and thus created the first interior design business. </p>
-<div class="spacer"></div>
-
-<div class="row" align="center">
-    <div class="col-md-4">
-        <a href="http://www.dorothydraper.com/historical/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-CotyFragranceDept.jpg">
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href="http://www.dorothydraper.com/historical/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-HampshireHouse-MainLobby.jpg">
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href="http://www.dorothydraper.com/historical/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-MET-Restaurant-1950s.jpg">
-        </a>
-    </div>
-</div>
 <div class="spacer"></div>
 
 <p>Establishing her company in 1923, Dorothy was the first to professionalize interior design. Even more astounding was her success as a woman, which was quite unheard of at the time. By simply using her creative spirit and impressive determination Dorothy unknowingly made her name a part of history. So much so that she is currently the only interior designer to have had a major, solo retrospective of her work featured in a museum. The exhibit entitled "The High Style of Dorothy Draper" record breaking attendance during it duration in 2006. </p>
@@ -171,6 +141,39 @@ End Code
     <div class="col-md-4">
         <a href="http://www.greenbrier.com/Dining/Restaurant-Collection/Draper-s" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-Greenbriar-DrapersRestaurant.jpg">
+        </a>
+    </div>
+</div>
+<div class="spacer"></div>
+<hr />
+
+<p>Inspiration can be found in any space. Below are a few of Dorothy's original designs. </p>
+<div class="spacer"></div>
+
+<div align="center" class="row">
+    <div class="col-md-2 col-md-offset-1">
+        <a href="http://www.dorothydraper.com/historical/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-CameliaHouse-DrakeHotel.jpg">
+        </a>
+    </div>
+    <div class="col-md-2">
+        <a href="http://www.dorothydraper.com/historical/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-EssexHouse.jpg">
+        </a>
+    </div>
+    <div class="col-md-2">
+        <a href="http://www.dorothydraper.com/historical/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-CotyFragranceDept.jpg">
+        </a>
+    </div>
+    <div class="col-md-2">
+        <a href="http://www.dorothydraper.com/historical/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-HampshireHouse-MainLobby.jpg">
+        </a>
+    </div>
+    <div class="col-md-2">
+        <a href="http://www.dorothydraper.com/historical/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-MET-Restaurant-1950s.jpg">
         </a>
     </div>
 </div>
