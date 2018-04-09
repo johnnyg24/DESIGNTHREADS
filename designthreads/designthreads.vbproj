@@ -505,6 +505,7 @@
     <Content Include="appclasses\sitemap.vbhtml" />
     <Content Include="archive\Spotlight-03_18-DorothyDraper.vbhtml" />
     <Content Include="archive\Chroma_Color-03_18-Pantone_Spring_2018_Forecast.vbhtml" />
+    <Content Include="archive\Knowledge-04_18-Abrasion_Resistance.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
