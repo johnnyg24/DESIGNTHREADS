@@ -8,7 +8,8 @@ End Code
 <div class="spacer"></div>
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
-
+<img class="img-responsive" src="~/images/abras.jpg" />
+<div class="spacer"></div>
 <p>In the textile industry, durability is a key selling feature. However, durability and abrasion resistance are not one and the same. Fabrics undergo strenuous testing to determine their abrasion resistance while durability is a fabrics ability to resist wear through continual use. Therefore a fabric's durability cannot be solely based on its abrasion resistance results but must also include other factors like stain repellancy and UV resistance. To determine a fabrics abrasion resistance there are two standard methods: Martindale and Wyzenbeek. While similar, the results of these two individual tests are not comparable as they are achieved differently, as you will learn below. </p>
 <div class="spacer"></div>
 
