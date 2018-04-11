@@ -18,7 +18,7 @@ End Code
 <p>Martindale is the internationally accepted method of determining abrasion resistance. The test sample is subjected to a geometric rubbing motion known as 'Lissajous', which is a wandering, oscillating circle. A specially devised machine uses abradants of either worsted wool or wire mesh to rub against the test sample until the sample fails. A failure consists of at least two broken threads or the complete wear of the pile. General household use only needs to pass 20,000 rubs while any sample that scores 40,000 or higher is best for commercial use. </p>
 <div class="spacer"></div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uLRiBB-Lnf8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="max-width:560px; height:auto" src="https://www.youtube-nocookie.com/embed/uLRiBB-Lnf8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="spacer"></div>
 
 <h4><u>Wyzenbeek</u></h4>
@@ -27,7 +27,7 @@ End Code
 <p>While similar in concept, the Wyzenbeek method of abrasion resistance is done in a completely different manner. Used primarily in North America, Wyzenbeek measures in 'double rubs' rather than cycles/rubs. This is due to how the testing is done. In the Wyzenbeek method, the sample fabric is rubbed in both the warp and weft directions in a single motion called a 'double rub'. A piece of cotton duck is used as the abradant, simulating the wear and tear that upholstery must endure. The test is run until the sample fabric shows noticable wear or when two or more yarns have broken. A score of 15,000 is accepted as appropriate for general use. This is the equivilant of getting up off an upholstered seat approximately four times a day for 10 years. A score of 30,000 double rubs is acceptable for commercial use.</p>
 <div class="spacer"></div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0HaOfcgoJp8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="max-width:560px; height:auto"  src="https://www.youtube-nocookie.com/embed/0HaOfcgoJp8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="spacer"></div>
 
 <h4><b>Residential Applications</b></h4>
