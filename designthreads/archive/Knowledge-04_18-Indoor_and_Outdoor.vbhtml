@@ -1,5 +1,5 @@
 ﻿@Code
-    PageData("Title") = "Knowledge: Performance Part 2 of 3 - Indoor and Outdoor"
+    PageData("Title") = "Knowledge: Performance Part 2 of 3 - Indoor/Outdoor"
     PageData("art_sub_title") = ""
     Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Nearly indistinguishable from its indoor counterparts, todays outdoor fabrics are a beautiful example of textile technology. "
