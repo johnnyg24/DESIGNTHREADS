@@ -4,7 +4,7 @@
     Layout = "~/_DTLayout.vbhtml"
 End Code
 
-<h1>Featured: Performance. What is it?</h1>
+<h1>Performance. What is it?</h1>
     <div class="row">
         <div class="col-xs-12">
             <a href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">
