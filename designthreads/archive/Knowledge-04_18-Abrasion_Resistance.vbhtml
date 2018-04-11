@@ -1,5 +1,5 @@
 ﻿@Code
-    PageData("Title") = "Knowledge: Abrasion Resistance"
+    PageData("Title") = "Knowledge: Performance Part 1 of 3 - Abrasion Resistance"
     PageData("art_sub_title") = ""
     Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "Durability and abrasion resistance- understanding their impact on today's textiles."
