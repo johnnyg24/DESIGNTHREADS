@@ -105,6 +105,10 @@
     font-size:75%
 }
 
+.opening{
+    font-size:1.2em; font-weight:bold;
+}
+
 @media (max-width: 768px) {
     #sb-nav{padding-top:0px; padding-bottom:0px;}
     /*#sb-logo-wrap, #sb-title-wrap {
