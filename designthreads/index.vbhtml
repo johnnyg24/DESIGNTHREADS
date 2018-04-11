@@ -7,22 +7,33 @@ End Code
 <h1>Featured: Performance. What is it?</h1>
     <div class="row">
         <div class="col-xs-12">
-            <a href="~/archive/Spotlight-03_18-DorothyDraper.vbhtml">
-                <img class="img-responsive" src="~/images/Featured-Mar'18-Spotlight-DorothyDraper.jpg">
+            <a href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">
+                <img class="img-responsive" style="width:700px; margin:auto" src="~/images/Featured-April18-Knowledge-PerformancePt1-Abrasion.jpg">
             </a>
             <div class="caption">
                 <p>From chic indoor designs to hardworking outdoor spaces, these textiles are popping up all around us. But what are they exactly? Engineered at the molecular level, these fabrics are designed to withstand the harshest of environments while maintaining a 'like new' appearance.</p>
 
                 <p>Performance textiles have many characteristics so join us in our three part series where we will be discussing:  Abrasion, Indoor/Outdoor, and Soil & Stain Repellent.  We will examine each of these standards making it easier to understand their differences.</p>
-
-               
+   
             </div>
-            <a class="btn sb-primary-bg shadow-1" href="~/archive/Spotlight-03_18-DorothyDraper.vbhtml">Part 1 - Abrasion</a>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">Part 1 - Abrasion</a>
             <hr />
         </div>
     </div>
 <h3>Recent</h3>
 <div class="row">
+    <div class="col-md-4">
+        <a href="~/archive/Spotlight-03_18-DorothyDraper.vbhtml">
+            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-Mar'18-Spotlight-DorothyDraper.jpg">
+        </a>
+        <div class="caption">
+            <h3>Spotlight: Dorothy Draper</h3>
+            <p>The exuberant design style of Dorothy Draper has defined her as an icon of the industry. Dorothy Draper had an innate instinct for design- from creating a space for all to enjoy to being extraordinarily successful at it.</p>
+        </div>
+        <a class="btn sb-primary-bg shadow-1" href="~/archive/Spotlight-03_18-DorothyDraper.vbhtml">read more</a>
+        <hr />
+    </div>
+
     <div class="col-md-4">
         <a href="~/archive/Trends-03_18-2018_Predictions.vbhtml">
             <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-Mar'18-Trends-2018Predictions.jpg">
@@ -45,18 +56,6 @@ End Code
             <p>For 2018, Sherwin Williams has chosen three unique color schemes to represent their Colormix forecast. Drawing from fashion and pop culture, to nature and the global community, they narrowed it down to 36 intensely familiar yet fresh shades broken into three palettes: Connectivity, Sincerity, and Unity. </p>
         </div>
         <a class="btn sb-primary-bg shadow-1" href="~/archive/Chroma_Color-02_18-Sherwin_Williams_2018_Forecast.vbhtml">read more</a>
-        <hr />
-    </div>
-
-    <div class="col-md-4">
-        <a href="~/archive/History-12_16-History_of_Velvet.vbhtml">
-            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/History-Velvet-1335-BursePanel.jpg">
-        </a>
-        <div class="caption">
-            <h3>History of: Velvet</h3>
-            <p>Sumptuous, sensually soft, and uncommonly sophisticated velvet boasts an exclusive history, filled with the richness of royalty.</p>
-        </div>
-        <a class="btn sb-primary-bg shadow-1" href="~/archive/History-12_16-History_of_Velvet.vbhtml">read more</a>
         <hr />
     </div>
 
