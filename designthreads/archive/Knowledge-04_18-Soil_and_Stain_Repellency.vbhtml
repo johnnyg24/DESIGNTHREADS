@@ -1,5 +1,5 @@
 ﻿@Code
-    PageData("Title") = "Knowledge: Soil and Stain Repellency"
+    PageData("Title") = "Knowledge:  Performance Part 3 of 3 - Soil and Stain Repellency"
     PageData("art_sub_title") = ""
     Layout = "~/_DTLayout.vbhtml"
     PageData("description") = "We work hard to make our homes beautiful so it is only natural that we expect what we put in our homes to live up to our expectations."
