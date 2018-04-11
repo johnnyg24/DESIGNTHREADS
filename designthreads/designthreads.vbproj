@@ -506,7 +506,7 @@
     <Content Include="archive\Spotlight-03_18-DorothyDraper.vbhtml" />
     <Content Include="archive\Chroma_Color-03_18-Pantone_Spring_2018_Forecast.vbhtml" />
     <Content Include="archive\Knowledge-04_18-Abrasion_Resistance.vbhtml" />
-    <Content Include="archive\Knowledge-04_18-Inherently_Stain_Repellent.vbhtml" />
+    <Content Include="archive\Knowledge-04_18-Indoor_and_Outdoor.vbhtml" />
     <Content Include="archive\Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
