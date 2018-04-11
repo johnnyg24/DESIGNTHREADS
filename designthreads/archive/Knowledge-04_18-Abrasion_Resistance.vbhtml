@@ -65,4 +65,5 @@ End Code
 
 <p>A common misconception is that the higher the score the stronger the fabric is. Unfortunately that is not true, as a fabric encounters more than just abrasion during its use. For example, seem slippage which is a measurement of how well a fabric will hold at the seams before tearing apart. There are many other factors that go into determining the durability of fabrics and one cannot just look at the abrasion rating in doing so. </p>
 <div class="spacer"></div>
+<p style="font-weight:bold">Join us next week for part 2 where we will discuss the inherit qualities of outdoor fabric.</p>
 
