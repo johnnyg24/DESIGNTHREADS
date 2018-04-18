@@ -9,6 +9,11 @@ End Code
 <p class="opening">@PageData("description")</p>
 <div class="spacer"></div>
 
+<div align="center">
+    <img class="img-responsive" style="width:900px; margin:auto" alt="" src="~/images/Knowledge-SSR-Crypton-All2.jpg" />
+</div>
+<div class="spacer"></div>
+
 <p>Thankfully with the many advancements in textile technology we no longer have to worry about it standing up to the daily wear and tear of life. From stains and liquids to odor resistance, todays performance fabrics allow us to enjoy every minute at home no matter how hard we play. </p>
 <div class="spacer"></div>
 
@@ -20,15 +25,28 @@ End Code
 <h4>Crypton&reg;</h4>
 <div class="spacer"></div>
 
-<p>Protecting the textiles within our homes is the objective of one of the biggest names in the performance fabric industry, Crypton. Engineered so that the performance properties become a characteristic of the fiber itself, Crypton fabrics are inherently resistant to stains, spills, and odors. The fibers are transformed through an immersion process where the protective nature is then permanently bonded to the fibers at a molecular level. This means that the performance qualities can never be washed or worn away. Crypton fabrics also feature these added benefits:
-<ul>
-    <li>The use of anti-leaching Silver Ion anti-microbial protection against odors</li>
-    <li>Free from of potentially harmful levels of PFOS, PFOA, formaldehyde, heavy metals, phenols, phthalates, and odor and skin sensitizers
-    </li>
-    <li>Surpasses flammability requirements for commercial upholstery while not containing any halogenated flame retardants (e.g., PBDE)</li>
-    <li>Enhanced abrasion resistance</li>
-    <li>Recyclability</li>
-</ul></p>
+<p>
+    Protecting the textiles within our homes is the objective of one of the biggest names in the performance fabric industry, Crypton. Engineered so that the performance properties become a characteristic of the fiber itself, Crypton fabrics are inherently resistant to stains, spills, and odors. The fibers are transformed through an immersion process where the protective nature is then permanently bonded to the fibers at a molecular level. This means that the performance qualities can never be washed or worn away. Crypton fabrics also feature these added benefits:
+    <ul>
+        <li>The use of anti-leaching Silver Ion anti-microbial protection against odors</li>
+        <li>
+            Free from of potentially harmful levels of PFOS, PFOA, formaldehyde, heavy metals, phenols, phthalates, and odor and skin sensitizers
+        </li>
+        <li>Surpasses flammability requirements for commercial upholstery while not containing any halogenated flame retardants (e.g., PBDE)</li>
+        <li>Enhanced abrasion resistance</li>
+        <li>Recyclability</li>
+    </ul>
+</p>
+<div class="spacer"></div>
+
+<div class="row" align="center">
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Cupcakes.jpg" />
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Pie.jpg" />
+    </div>
+</div>
 <div class="spacer"></div>
 
 <h4>Nano-Tex&reg;</h4>
@@ -38,7 +56,7 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Nanotex.jpg"/>
+    <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Nanotex.jpg" />
 </div>
 <div class="spacer"></div>
 
@@ -46,4 +64,14 @@ End Code
 <div class="spacer"></div>
 
 <p>Stout is proud to announce its latest performance finish, Stout Secure. An all-encompassing treatment, Stout Secure offers the latest technology in performance including soil and stain resistance, water repellency and high durability. </p>
+<div class="spacer"></div>
+
+<div class="row" align="center">
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Coffee.jpg" />
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Cookies.jpg" />
+    </div>
+</div>
 <div class="spacer"></div>
