@@ -10,15 +10,20 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <img class="img-responsive" style="width:900px; margin:auto" alt="" src="~/images/Knowledge-SSR-Crypton-All2.jpg" />
+    <img class="img-responsive" style="width:640px; margin:auto" alt="" src="~/images/Knowledge-SSR-Crypton-All4.jpg" />
 </div>
 <div class="spacer"></div>
 
 <p>Thankfully with the many advancements in textile technology we no longer have to worry about it standing up to the daily wear and tear of life. From stains and liquids to odor resistance, todays performance fabrics allow us to enjoy every minute at home no matter how hard we play. </p>
 <div class="spacer"></div>
 
-<div align="center">
-    <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-IceCream.jpg" />
+<div class="row" align="center">
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Cupcakes.jpg" />
+    </div>
+    <div class="col-md-6">
+        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Pie.jpg" />
+    </div>
 </div>
 <div class="spacer"></div>
 
@@ -39,13 +44,8 @@ End Code
 </p>
 <div class="spacer"></div>
 
-<div class="row" align="center">
-    <div class="col-md-6">
-        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Cupcakes.jpg" />
-    </div>
-    <div class="col-md-6">
-        <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-Pie.jpg" />
-    </div>
+<div align="center">
+    <img class="img-responsive" alt="" src="~/images/Knowledge-SSR-Crypton-IceCream.jpg" />
 </div>
 <div class="spacer"></div>
 
