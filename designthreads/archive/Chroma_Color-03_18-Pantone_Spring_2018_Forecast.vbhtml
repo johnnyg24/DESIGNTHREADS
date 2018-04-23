@@ -54,7 +54,7 @@ End Code
         <a href="https://www.estout.com/details?sku=MORE-2" target="_blank">
             <img class="img-responsive" alt="" src="~/images/CC-PantoneSpring'18-PinkLavender-Moresley2.jpg">
         </a>
-        <div class="text-center">Moreskey 2 Iris</div>
+        <div class="text-center">Moresley 2 Iris</div>
     </div>
     <div class="col-md-3">
         <a href="https://www.estout.com/details?sku=FITZ-1" target="_blank">
