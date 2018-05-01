@@ -22,6 +22,20 @@ End Code
     </div>
 <h3>Recent</h3>
 <div class="row">
+
+    <div class="col-md-4">
+        <a href="~/archive/Chroma_Color-04_18-Pantone_Spring_2018_Forecast.vbhtml">
+            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-April18-CC-PantoneSpring18.jpg">
+        </a>
+
+        <div class="caption">
+            <h3>Chroma Color: Pantone Spring 2018 Forecast</h3>
+            <p>This season Pantone has boldly broadened the opportunity for self-expression by constructing a multi-faceted palette consisting of 12 uplifting shades plus four foundational classics. A kaleidoscope of color, these are the hues that will encourage our emotions to drive us towards being more genuine with ourselves. </p>
+        </div>
+        <a class="btn sb-primary-bg shadow-1" href="~/archive/Chroma_Color-04_18-Pantone_Spring_2018_Forecast.vbhtml">read more</a>
+        <hr />
+    </div>
+
     <div class="col-md-4">
         <a href="~/archive/Spotlight-03_18-DorothyDraper.vbhtml">
             <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-Mar'18-Spotlight-DorothyDraper.jpg">
@@ -43,19 +57,6 @@ End Code
             <p>Looking to the past helps shape our future in many ways. We can learn from its mistakes and improve upon it. As the new year slowly takes shape, we are beginning to see which trends are setting the tone for this year.</p>
         </div>
         <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-03_18-2018_Predictions.vbhtml">read more</a>
-        <hr />
-    </div>
-
-    <div class="col-md-4">
-        <a href="~/archive/Chroma_Color-02_18-Sherwin_Williams_2018_Forecast.vbhtml">
-            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-Feb'18-CC-SW2018CM.jpg">
-        </a>
-
-        <div class="caption">
-            <h3>Chroma Color: Sherwin Williams 2018 Colormix Forecast</h3>
-            <p>For 2018, Sherwin Williams has chosen three unique color schemes to represent their Colormix forecast. Drawing from fashion and pop culture, to nature and the global community, they narrowed it down to 36 intensely familiar yet fresh shades broken into three palettes: Connectivity, Sincerity, and Unity. </p>
-        </div>
-        <a class="btn sb-primary-bg shadow-1" href="~/archive/Chroma_Color-02_18-Sherwin_Williams_2018_Forecast.vbhtml">read more</a>
         <hr />
     </div>
 
