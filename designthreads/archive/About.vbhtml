@@ -12,7 +12,7 @@ End Code
 <p>Available to all, this newsletter is a great read for everyone. </p>
 <p>Contact Info:</p>
 Heather Shermer<br>
-heathers@estout.com
+               <a href="mailto:heathers@estout.com">heathers@estout.com</a>
 </div>
 		
 			

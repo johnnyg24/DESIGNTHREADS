@@ -78,7 +78,7 @@ End Code
                         <li><a href="~/archive/@(designthreads.cats("A Peek Inside"))">A Peek Inside</a></li>
                         <li><a href="~/archive/@(designthreads.cats("Pattern Playfulness"))">Pattern Playfulness</a></li>
                         <li><a href="~/archive/@(designthreads.cats("Company News"))">Company News</a></li>
-                        <li><a href="#">About Us</a></li>
+                        <li><a href="~/archive/about">About Us</a></li>
                     </ul>
                 </li>
 
