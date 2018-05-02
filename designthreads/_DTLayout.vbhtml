@@ -74,6 +74,7 @@ End Code
                 <li class="dropdown nav-toggle" style="padding-bottom:20px">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
                     <ul class="dropdown-menu sb-primary-bg">
+                        <li><a href="~/archive/@(designthreads.cats("Spotlight"))">Spotlight</a></li>
                         <li><a href="~/archive/@(designthreads.cats("Celebrate"))">Celebrate</a></li>
                         <li><a href="~/archive/@(designthreads.cats("A Peek Inside"))">A Peek Inside</a></li>
                         <li><a href="~/archive/@(designthreads.cats("Pattern Playfulness"))">Pattern Playfulness</a></li>
