@@ -14,7 +14,7 @@ End Code
 </div>
 <div class="spacer"></div>
 
-<p>Thankfully with the many advancements in textile technology we no longer have to worry about it standing up to the daily wear and tear of life. From stains and liquids to odor resistance, todays performance fabrics allow us to enjoy every minute at home no matter how hard we play. </p>
+<p>Wrapping up our Performance series we're thrilled to bring you the best of soil and stain repellency. Thankfully with the many advancements in textile technology we no longer have to worry about our textiles standing up to the daily wear and tear of life. From stains and liquids to odor resistance, todays performance fabrics allow us to enjoy every minute at home no matter how hard we play. </p>
 <div class="spacer"></div>
 
 <div class="row" align="center">
@@ -63,7 +63,7 @@ End Code
 <h4>Stout Secure</h4>
 <div class="spacer"></div>
 
-<p>Stout is proud to announce its latest performance finish, Stout Secure. An all-encompassing treatment, Stout Secure offers the latest technology in performance including soil and stain resistance, water repellency and high durability. </p>
+<p>Stout is proud to announce its latest performance finish, Stout Secure. An all-encompassing treatment, Stout Secure offers the newest technology in performance including soil and stain resistance, water repellency and high durability. Transformed fibers that are permanently protected provide worry free fabrics with effortless care.</p>
 <div class="spacer"></div>
 
 <div class="row" align="center">
