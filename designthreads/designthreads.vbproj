@@ -186,6 +186,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="archive\Chroma_Color-03_17-Pantone_Spring_2017_Forecast.vbhtml" />
+    <Content Include="archive\Trends-11_16-Enigmatic_Green.vbhtml" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -415,7 +416,6 @@
     <Content Include="archive\Trends-10_13-Molten_Metallics.vbhtml" />
     <Content Include="archive\Trends-11_14-Television_Inspiration.vbhtml" />
     <Content Include="archive\Trends-11_15-Honeycomb.vbhtml" />
-    <Content Include="archive\Trends-11_16-Enigmatic_Green.vbhtml" />
     <Content Include="archive\Trends-12_13-Merry_Menswear.vbhtml" />
     <Content Include="archive\Trends-12_14-Animal_Desires.vbhtml" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -508,6 +508,7 @@
     <Content Include="archive\Knowledge-04_18-Abrasion_Resistance.vbhtml" />
     <Content Include="archive\Knowledge-04_18-Indoor_and_Outdoor.vbhtml" />
     <Content Include="archive\Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml" />
+    <Content Include="archive\Trends-06_18-Captivating_Curves.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
