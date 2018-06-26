@@ -4,24 +4,34 @@
     Layout = "~/_DTLayout.vbhtml"
 End Code
 
-<h1>Performance. What is it?</h1>
+<h1>Featured</h1>
     <div class="row">
         <div class="col-xs-12">
-            <a href="~/archive/Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml">
-                <img class="img-responsive" style="width:700px; margin:auto" src="~/images/Featured-June18-Knowledge-SSR-Crypton.jpg">
+            <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
+                <img class="img-responsive" style="width:700px; margin:auto" src="~/images/Featured-Trends-Curves-DR1.jpg">
             </a>
             <div class="caption">
-                <p>Wrapping up our Performance series we're thrilled to bring you the best of soil and stain repellency. Thankfully with the many advancements in textile technology we no longer have to worry about our textiles standing up to the daily wear and tear of life.</p>
-
-                <p>Performance textiles have many characteristics so join us in our three part series where we will be discussing:  Abrasion, Indoor/Outdoor, and Soil & Stain Repellent.  We will examine each of these standards making it easier to understand their differences.</p>
-   
+                <p>As summer beings to heat up there is a steamy new trend makings its way to the forefront of design. Strong and yet subtle, curves of all kind are piquing the interest of many this season.</p>
             </div>
-            <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml">Part 3 - Soil and Stain Repellency</a>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">Trends: Captivating Curves</a>
             <hr />
         </div>
     </div>
 <h3>Recent</h3>
 <div class="row">
+
+    <div class="col-md-4">
+        <a href="~/archive/Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml">
+            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-June18-Knowledge-SSR-Crypton.jpg">
+        </a>
+
+        <div class="caption">
+            <h3>Knowledge: Performance Series, Pt 3- Soil and Stain Repellency</h3>
+            <p>Wrapping up our Performance series we're thrilled to bring you the best of soil and stain repellency. Thankfully with the many advancements in textile technology we no longer have to worry about our textiles standing up to the daily wear and tear of life. </p>
+        </div>
+        <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml">read more</a>
+        <hr />
+    </div>
 
     <div class="col-md-4">
         <a href="~/archive/Knowledge-04_18-Indoor_and_Outdoor.vbhtml">
@@ -45,19 +55,6 @@ End Code
             <p>From chic indoor designs to hardworking outdoor spaces, these textiles are popping up all around us. But what are they exactly? Engineered at the molecular level, these fabrics are designed to withstand the harshest of environments while maintaining a 'like new' appearance.</p>
         </div>
         <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">read more</a>
-        <hr />
-    </div>
-
-    <div class="col-md-4">
-        <a href="~/archive/Chroma_Color-04_18-Pantone_Spring_2018_Forecast.vbhtml">
-            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-April18-CC-PantoneSpring18.jpg">
-        </a>
-
-        <div class="caption">
-            <h3>Chroma Color: Pantone Spring 2018 Forecast</h3>
-            <p>This season Pantone has boldly broadened the opportunity for self-expression by constructing a multi-faceted palette consisting of 12 uplifting shades plus four foundational classics. A kaleidoscope of color, these are the hues that will encourage our emotions to drive us towards being more genuine with ourselves. </p>
-        </div>
-        <a class="btn sb-primary-bg shadow-1" href="~/archive/Chroma_Color-04_18-Pantone_Spring_2018_Forecast.vbhtml">read more</a>
         <hr />
     </div>
 

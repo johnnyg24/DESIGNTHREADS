@@ -11,17 +11,12 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-    <div class="col-md-3">
+    <div class="col-md-6">
         <a href="http://massimointeriors.com.au/portfolio/malvern-residence-2/" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-Curves-Chair.jpg">
         </a>
     </div>
-    <div class="col-md-3">
-        <a href="http://www.gontermanconstruction.com/snug-harbor-2/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-Curves-DR1.jpg">
-        </a>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-6">
         <a href="http://www.joshwynneconstruction.com/the-pearl/g6t1oue32iyg1buulns2kkdjs960ms" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-Curves-LR1.jpg">
         </a>
