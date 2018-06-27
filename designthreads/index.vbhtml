@@ -5,7 +5,7 @@
 End Code
 
 <h1>Featured</h1>
-    <div class="row">
+    <div class="row" align="center">
         <div class="col-xs-12">
             <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
                 <img class="img-responsive" src="~/images/Featured-Trends-Curves-DR1.jpg">
