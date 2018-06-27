@@ -8,7 +8,7 @@ End Code
     <div class="row">
         <div class="col-xs-12">
             <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
-                <img class="img-responsive" style="width:700px; margin:auto" src="~/images/Featured-Trends-Curves-DR1.jpg">
+                <img class="img-responsive" src="~/images/Featured-Trends-Curves-DR1.jpg">
             </a>
             <div class="caption">
                 <p>As summer beings to heat up there is a steamy new trend makings its way to the forefront of design. Strong and yet subtle, curves of all kind are piquing the interest of many this season.</p>
