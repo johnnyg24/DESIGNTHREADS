@@ -509,6 +509,7 @@
     <Content Include="archive\Knowledge-04_18-Indoor_and_Outdoor.vbhtml" />
     <Content Include="archive\Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml" />
     <Content Include="archive\Trends-06_18-Captivating_Curves.vbhtml" />
+    <Content Include="archive\History-07_18-History_of_Fiber_Dyeing.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
