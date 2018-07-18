@@ -7,18 +7,32 @@ End Code
 <h1>Featured</h1>
     <div class="row" align="center">
         <div class="col-xs-12">
-            <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
-                <img class="img-responsive" src="~/images/Featured-Trends-Curves-DR1.jpg">
+            <a href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">
+                <img class="img-responsive" src="~/images/Featured-History-FiberDyeing-OaxacaYarns.jpg">
             </a>
+            <div class="spacer-1x"></div>
             <div class="caption">
-                <p>As summer beings to heat up there is a steamy new trend makings its way to the forefront of design. Strong and yet subtle, curves of all kind are piquing the interest of many this season.</p>
+                <h3>History of Fiber Dyeing</h3>
+                <p>Woven goods have been around nearly as long as humans. And so it is no surprise the evolution of the textile dyeing process dates back almost as far. From Egypt to England, Asia to America, the dyeing process became more than the simple ornamentation of goods. It grew into its own industry.</p>
             </div>
-            <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">Trends: Captivating Curves</a>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">History of Fiber Dyeing</a>
             <hr />
         </div>
     </div>
 <h3>Recent</h3>
 <div class="row">
+
+    <div class="col-md-4">
+        <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
+            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-Trends-Curves-DR1.jpg">
+        </a>
+        <div class="caption">
+            <h3>Trends: Captivating Curves</h3>
+            <p>As summer beings to heat up there is a steamy new trend makings its way to the forefront of design. Strong and yet subtle, curves of all kind are piquing the interest of many this season.</p>
+        </div>
+        <a class="btn sb-primary-bg shadow-1" href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">read more</a>
+        <hr />
+    </div>
 
     <div class="col-md-4">
         <a href="~/archive/Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml">
@@ -45,19 +59,6 @@ End Code
         <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Indoor_and_Outdoor.vbhtml">read more</a>
         <hr />
     </div>
-
-    <div class="col-md-4">
-        <a href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">
-            <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/Featured-April18-Knowledge-PerformancePt1-Abrasion.jpg">
-        </a>
-        <div class="caption">
-            <h3>Knowledge: Performance Series, Pt 1- Abrasion</h3>
-            <p>From chic indoor designs to hardworking outdoor spaces, these textiles are popping up all around us. But what are they exactly? Engineered at the molecular level, these fabrics are designed to withstand the harshest of environments while maintaining a 'like new' appearance.</p>
-        </div>
-        <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Abrasion_Resistance.vbhtml">read more</a>
-        <hr />
-    </div>
-
 </div>
 		
 			
