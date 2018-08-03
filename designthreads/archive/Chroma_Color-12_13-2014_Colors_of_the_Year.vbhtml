@@ -74,8 +74,8 @@ End Code
 	<div><strong>Pantone: Radiant Orchid</strong></div>
 	<ul class="list-group no-side-border">
 		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=LONE-1" target="_blank">Lonestar 1 Foxglove</a></li>
-		<li class="list-group-item">2. <a href="http://www.yliving.com/domitalia-echo-stacking-chair.html" target="_blank">Echo Chair</a>, Lilac by  Arter &amp; Citton</li>
-		<li class="list-group-item">3. Eurofase Cosmo Collection 6-Light Chrome and Purple Track <a href="http://www.homeclick.com/eurofase-lighting-23208-049-cosmo-6-light-track-lighting-in-chrome-with-purple-shade/p-573802.aspx" target="_blank">Light Fixture</a></li>
+		<li class="list-group-item">2. <a href="https://www.luxedecor.com/product/domitalia-echo-modern-dining-chair-room-domecho" target="_blank">Echo Chair</a>, Lilac by  Arter &amp; Citton</li>
+		<li class="list-group-item">3. Eurofase Cosmo Collection 6-Light Chrome and Purple Track <a href="http://www.canadalite.com/Canadalite.com-Eurofase-23208-049-6-Light-Track-with-purple-glass-Lighting-Fixtures" target="_blank">Light Fixture</a></li>
 		<li class="list-group-item">4. Basic 5 Piece <a href="http://www.didriks.com/Basic-5-PCS-Place-Setting-Lilac.html" target="_blank">Place Setting</a>-Lilac</li>
 		<li class="list-group-item">5. Forzieri Lilac <a href="http://www.forzieri.com/long-scarves/forzieri/fz20180-007-00" target="_blank">Pashmina Shawl</a></li>
 		<li class="list-group-item">6. Lavender Soy <a href="https://sonomalavendershop.com/collections/gifts-home-accents/products/lavender-soy-candle-40-hour?variant=20568566979" target="_blank">Candle</a> by Sonoma Lavender</li>
@@ -88,14 +88,14 @@ End Code
 	<div><strong>Benjamin Moore: Breath of Fresh Air</strong></div>
 	<ul class="list-group no-side-border">
 		<li class="list-group-item">1. Stout Fabric: <a href="https://www.estout.com/details?sku=POUN-1" target="_blank">Pounce 1 Aqua</a></li>
-		<li class="list-group-item">2. Formula X <a href="https://www.amazon.com/dp/B00FJ33O9M/ref=asc_df_B00FJ33O9M4847057?smid=A28BLHVXLS6PZ&tag=nextagmp-20&linkCode=df0&creative=395105&creativeASIN=B00FJ33O9M&ascsubtag=-9150566753968237900&th=1" target="_blank">Nail Polish</a> for Sephora, Color: Infatuated - Powder Blue</li>
+		<li class="list-group-item">2. Formula X Nail Polish for Sephora, Color: Infatuated - Powder Blue</li>
 		<li class="list-group-item">3. HERMES Light Blue Tonal Stripe Linen-Silk Scarf</li>
 		<li class="list-group-item">4. Blue Topaz and Diamond Petite Round Halo Pendant in 14k White Gold by Blue Nile</li>
 		<li class="list-group-item">5. Powder Blue Crescent Chair by Southwood</li>
 		<li class="list-group-item">6. Jars Ceramics Plume <a href="http://www.didriks.com/Jars-Ceramics-Plume-Dessert-Plate.html" target="_blank">Dessert Plate</a></li>
 		<li class="list-group-item">7. Pleated <a href="https://shopninespace.com/products/pleated-sheet-set?variant=8963982787" target="_blank">Sheet Set</a> - Powder Blue</li>
 		<li class="list-group-item">8. Modu-licious #4 <a href="http://www.bludot.com/modu-licious-4-config.html" target="_blank">Storage Drawers</a></li>
-		<li class="list-group-item">9. Bungalow 5 Emilia Light Blue <a href="http://www.laylagrayce.com/Products/Bungalow-5-Emilia-Table-Lamp-Base__COL-B521.aspx" target="_blank">Table Lamp</a></li>
+		<li class="list-group-item">9. Bungalow 5 Emilia Light Blue <a href="https://www.perigold.com/lighting/pdp/bungalow-5-emilia-29-table-lamp-base-bglw1084.html?PiID%5B%5D=19603719&source=hotdeals" target="_blank">Table Lamp</a></li>
 		</ul>
 		</div>
 		
@@ -105,7 +105,7 @@ End Code
 		<li class="list-group-item">1. Venice Bedspread, Plum</li>
 		<li class="list-group-item">2. angelo:HOME Dover Armless Chair, Feathered Amethyst Purple Paisley</li>
 		<li class="list-group-item">3. Bottega Veneta Intrecciato Leather Belt</li>
-		<li class="list-group-item">4. Root Legacy Small Veriglass <a href="https://www.candlesdirect.com/root-candles-very-violet-small-veriglass-jar-candle" target="_blank">Candle</a>, Very Violet</li>
+		<li class="list-group-item">4. Root Legacy Small Veriglass Candle, Very Violet</li>
 		<li class="list-group-item">5. Precious Orchid in Purple Close Framed Print <a href="http://www.art.com/products/p12423752749-sa-i6340264/albert-koetsier-precious-orchid-in-purple-close.htm" target="_blank">Wall Art</a></li>
 		<li class="list-group-item">6. Gucci Oversized Rimless Butterfly Sunglasses</li>
 		<li class="list-group-item">7. Stout Fabric: <a href="https://www.estout.com/details?sku=ASHV-5" target="_blank">Ashville 5 Flint</a></li>
