@@ -7,20 +7,33 @@ End Code
 <h1>Featured</h1>
     <div class="row" align="center">
         <div class="col-xs-12">
-            <a href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">
-                <img class="img-responsive" src="~/images/Featured-History-FiberDyeing-OaxacaYarns.jpg">
+            <a href="~/archive/Chroma_Color-11_18-Pantone_Fall_2018_Forecast.vbhtml">
+                <img class="img-responsive" src="~/images/Featured-CC-PantoneFall2018-CorkBoard.jpg">
             </a>
-            <div class="spacer-1x"></div>
+            <div class="spacer"></div>
             <div class="caption">
-                <h3>History of Fiber Dyeing</h3>
-                <p>Woven goods have been around nearly as long as humans. And so it is no surprise the evolution of the textile dyeing process dates back almost as far. From Egypt to England, Asia to America, the dyeing process became more than the simple ornamentation of goods. It grew into its own industry.</p>
+                <h3>Chroma Color: Pantone Fall 2018 Forecast</h3>
+                <p>As trends become tried-and-true favorites the design industry is embracing this evolution by incorporating them into the foundation of their predictions for each seasonal palette. As evidenced by Pantone's predictions for this fall, their palette highlights five new core classic colors with ten unexpected seasonal shades.</p>
             </div>
-            <a class="btn sb-primary-bg shadow-1" href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">History of Fiber Dyeing</a>
+            <a class="btn sb-primary-bg shadow-1" href="~/archive/Chroma_Color-11_18-Pantone_Fall_2018_Forecast.vbhtml">Pantone Fall 2018 Forecast</a>
             <hr />
         </div>
     </div>
 <h3>Recent</h3>
 <div class="row">
+
+    <div class="col-md-4">
+        <a href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">
+            <img class="img-responsive" src="~/images/Featured-History-FiberDyeing-OaxacaYarns.jpg">
+        </a>
+        <div class="spacer-1x"></div>
+        <div class="caption">
+            <h3>History of Fiber Dyeing</h3>
+            <p>Woven goods have been around nearly as long as humans. And so it is no surprise the evolution of the textile dyeing process dates back almost as far. From Egypt to England, Asia to America, the dyeing process became more than the simple ornamentation of goods. It grew into its own industry.</p>
+        </div>
+        <a class="btn sb-primary-bg shadow-1" href="~/archive/History-07_18-History_of_Fiber_Dyeing.vbhtml">read more</a>
+        <hr />
+    </div>
 
     <div class="col-md-4">
         <a href="~/archive/Trends-06_18-Captivating_Curves.vbhtml">
@@ -47,18 +60,6 @@ End Code
         <hr />
     </div>
 
-    <div class="col-md-4">
-        <a href="~/archive/Knowledge-04_18-Indoor_and_Outdoor.vbhtml">
-            <img class="img-responsive" style="width:700px; margin:auto" src="~/images/Featured-May18-Knowledge-IndoorOutdoor-IndoorOutdoor7.jpg">
-        </a>
-        <div class="spacer"></div>
-        <div class="caption">
-            <h3>Knowledge: Peformance Series, Pt 2-Indoor/Outdoor</h3>
-            <p>From water and stain resistance to an unbelievably soft touch, outdoor fabrics are far from what they used to be. Acrylics have revolutionized the textile industry and are at the forefront of multi-functional designs today. With so many inherent properties, acylics are hard to beat when it comes to durabilty and endurance both within and outside the home.</p>
-        </div>
-        <a class="btn sb-primary-bg shadow-1" href="~/archive/Knowledge-04_18-Indoor_and_Outdoor.vbhtml">read more</a>
-        <hr />
-    </div>
 </div>
 		
 			
