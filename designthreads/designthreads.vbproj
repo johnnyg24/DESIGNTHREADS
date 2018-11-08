@@ -186,6 +186,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="archive\Chroma_Color-03_17-Pantone_Spring_2017_Forecast.vbhtml" />
+    <Content Include="archive\Chroma_Color-10_17-Pantone_Fall_2017_Forecast.vbhtml" />
     <Content Include="archive\Trends-11_16-Enigmatic_Green.vbhtml" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -316,7 +317,6 @@
     <Content Include="archive\Chroma_Color-10_13-Pantones_Fall_Forecast_2013.vbhtml" />
     <Content Include="archive\Chroma_Color-10_13-White_Hot_Part_Two.vbhtml" />
     <Content Include="archive\Chroma_Color-10_14-Pantone_Fall_Forecast_2014.vbhtml" />
-    <Content Include="archive\Chroma_Color-10_17-Pantone_Fall_2017_Forecast.vbhtml" />
     <Content Include="archive\Chroma_Color-11_13-White_Hot_Part_Three.vbhtml" />
     <Content Include="archive\Chroma_Color-11_15-Pantone_Fall_Forecast_2015.vbhtml" />
     <Content Include="archive\Chroma_Color-11_16-Pantone_Fall_2016_Forecast.vbhtml" />
@@ -510,6 +510,7 @@
     <Content Include="archive\Knowledge-04_18-Soil_and_Stain_Repellency.vbhtml" />
     <Content Include="archive\Trends-06_18-Captivating_Curves.vbhtml" />
     <Content Include="archive\History-07_18-History_of_Fiber_Dyeing.vbhtml" />
+    <Content Include="archive\Chroma_Color-11_18-Pantone_Fall_2018_Forecast.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
