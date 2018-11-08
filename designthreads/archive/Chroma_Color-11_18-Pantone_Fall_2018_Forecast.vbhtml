@@ -9,13 +9,16 @@ End Code
 <div class="spacer"></div>
 
 <div class="spacer"></div>
-<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneFall2018-Banner.jpg"></div>
+<div align="center"><img class="img-responsive" alt="" src="~/images/CC-PantoneFall18-Banner-Leaves.jpg"></div>
 <div class="spacer"></div>
 
 <p>As trends become tried-and-true favorites the design industry is embracing this evolution by incorporating them into the foundation of their predictions for each seasonal palette. As evidenced by Pantone's predictions for this fall, their palette highlights five new core classic colors with ten unexpected seasonal shades. Drawing from deep forest hues, rich foliage, and striking twilight tones Pantone has created a bold modern palette that expresses our desire for more individuality, ingenuity and creativity. Reinventing the standard seasonal colorscape, here is a palette that underscores our thirst for originality. Colorful classicism balanced with a striking artistry results in a self-expressive palette that transcends the season. </p>
 <div class="spacer"></div>
 
 <p>The continued transition away from antiquated autumnal color choices is creating a stronger focus on suprising seasonal shades. Incorporating this outburst of color is easier than you may think. Take a look below at how Stout interprets this palette and find your own seasonal inspiration! </p>
+<div class="spacer"></div>
+
+<p>Pantone's five Classic Core Colors</p>
 <div class="spacer"></div>
 
 <div align="center" class="row">
@@ -50,6 +53,9 @@ End Code
         <div class="text-center">Cardinal 8 Toffee</div>
     </div>
 </div>
+<div class="spacer"></div>
+
+<p>Pantone's ten Extraordinary Seasonal Shades</p>
 <div class="spacer"></div>
 
 <div align="center" class="row">
