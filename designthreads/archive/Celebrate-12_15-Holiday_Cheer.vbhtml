@@ -94,9 +94,6 @@ End Code
 <hr>
 <div class="spacer"></div>
 
-<p><strong>Kwanzaa</strong></p>
-<div align="center"><a href="http://www.hgtv.com/design/make-and-celebrate/entertaining/a-colorful-kwanzaa-celebration-pictures" target="_blank"><img style="width:600px; margin:auto" class="img-responsive" alt="" src="~/images/Celebrate-HolidayCheer-KwanzaaTable.jpeg"></a></div>
-<div class="spacer"></div>
 		
 		
 		
