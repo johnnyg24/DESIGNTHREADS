@@ -29,7 +29,7 @@ End Code
         <div class="spacer visible-xs visible-sm"></div>
     </div>
     <div class="col-md-4">
-        <a href="https://media.architecturaldigest.com/photos/55e76785302ba71f301668a8/master/pass/dam-images-architects-2006-05-draper-arsl03_draper.jpg" target="_blank">
+        <a href="http://maggieoverbystudios.com/2013/10/09/welcome-to-hollywood/" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-DorothyDraper1948.jpg">
         </a>
         <div class="spacer visible-xs visible-sm"></div>
@@ -97,25 +97,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-    <div class="col-md-3">
-        <a href="http://www.goodhousekeeping.com/home/g2234/dorothy-draper/?slide=14" target="_blank">
+    <div class="col-md-4">
+        <a href="https://www.studiointernational.com/index.php/the-draper-touch" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-AirplaneRendering1957.jpg">
         </a>
         <div class="spacer visible-xs visible-sm"></div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="http://blog.circawho.com/tag/dorothy-draper/" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-Heritage-Espana.jpg">
         </a>
         <div class="spacer visible-xs visible-sm"></div>
     </div>
-    <div class="col-md-3">
-        <a href="http://www.goodhousekeeping.com/home/g2234/dorothy-draper/?slide=18" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-Schumacher-Brazilliance.jpg">
-        </a>
-        <div class="spacer visible-xs visible-sm"></div>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="http://www.motorcities.org/Story/1950s+Designing+Women+of+Packard+br+By+Robert+Tate+Automotive+HistorianResearcher+br+Images+Courtesy+of+the+National+Automotive+History+Collection-368.html" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Spotlight-DorothyDraper-Packard1952.jpg">
         </a>
