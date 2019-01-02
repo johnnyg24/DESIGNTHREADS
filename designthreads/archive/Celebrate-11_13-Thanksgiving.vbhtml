@@ -57,23 +57,19 @@ End Code
 <div class="spacer"></div>	
 
 <div class="row" align="center">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://kaminskiscreations.blogspot.com/2011/11/we-give-thanks.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle.JPG"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://lilluna.com/thanksgiving-mantel/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle10.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://organizeyourstuffnow.com/wordpress/thanksgiving-mantel-2 " target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle4.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.thistlewoodfarms.com/thank-you-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle7.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://whipperberry.com/thanksgiving-garland/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle3.jpg"></a>
 	</div>
@@ -81,23 +77,19 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://modvintagelife.blogspot.com/2010/11/fall-mantel.html " target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle8.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://myblessedlife.net/2011/09/fall-mantel-fireplace.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle9.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.shelterness.com/62-exciting-fall-mantel-decor-ideas/pictures/19282/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle1.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://theletteredcottage.net/autumn-fall-ideas-giveaway/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle5.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.shelterness.com/45-great-thanksgiving-mantel-decorating-ideas/pictures/13654/ " target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Mantle6.jpg"></a>
 	</div>
@@ -108,23 +100,19 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://www.sassysanctuary.com/2011/11/thanksgiving-mantle.html" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Thanks-Decor6.JPG"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.thehouseofsmiths.com/2011/11/thanksgiving-decorating-and-crafts-for.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Decor.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://shannamichellephotography.blogspot.com/2011/11/featured.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Decor4.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.digsdigs.com/37-cool-fall-kitchen-decor-ideas/pictures/60354/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Decor2.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.digsdigs.com/37-cool-fall-kitchen-decor-ideas/pictures/60333/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Decor5.jpg"></a>
 	</div>
