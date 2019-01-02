@@ -12,8 +12,10 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="http://www.countryliving.com/remodeling-renovation/expert-advice/how-to/g1316/how-to-decorate-room/" target="_blank">
-    <img class="img-responsive" src="~/images/PatrioticRoom-LR.jpg" alt="" /></a>
+    <a href='https://www.houzz.com/photo/9152445-cheshire-house-2-traditional-living-room-manchester-uk' target='_blank'>
+        <img src='https://st.hzcdn.com/simgs/90014e5903063fed_3-2203/traditional-living-room.jpg' alt='' border=0 width='320' height='214' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+    <div style='color:#444;'><small><a style="text-decoration:none;color:#444;" href="https://www.houzz.com/pro/fionawatkins/fiona-watkins-design-limited" target="_blank">Photo by Fiona Watkins Design Limited</a> - <a style="text-decoration:none;color:#444;" href="https://www.houzz.com/photos/living-room" target="_blank">Search living room design ideas</a></small>
+    </div>
 </div>
 <div class="spacer"></div>
 
@@ -28,25 +30,6 @@ End Code
     <img class="img-responsive" alt="" src="~/images/RedWhiteBlue-LR.jpg"></a>
 </div>
 <div class="spacer"></div>
-
-<p>Maybe you enjoy being crafty. If so, here are a few patriotic ideas from Martha Stewart. </p>
-<div class="spacer"></div>
-
-<div align="center" class="row">
-	<div class="col-md-4">
-		<a href="http://www.marthastewart.com/266017/patriotic-doormat?search_key=patriotic%20doormats" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/MS_doormat.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.marthastewart.com/353633/rocket-favor-packaging" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/MS-rockets.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.marthastewart.com/273439/holiday-gathering" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/MS_stickfireworks.jpg"></a>
-	</div>
-</div>	
-<div class="spacer"></div>	
 	
 <p>No matter how you choose to show off your patriotism, just know that your style is your own and there is no better design than the one that makes you proud. </p>		
 <div class="spacer"></div>		
