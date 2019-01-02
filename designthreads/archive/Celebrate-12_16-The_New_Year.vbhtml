@@ -11,15 +11,11 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://craftthatparty.blogspot.com/2012/12/new-years-eve-party-diy-confetti-wreath.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-Sequins.jpg"></a>
 	</div>
-	<div class="col-md-4">
-		<a href="https://www.stlmag.com/home/Holiday-Decor-for-Thanksgiving-Hanukkah-Christmas-and-New-Years-Eve-on-a-Budget/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-SideTable3.jpg"></a>
-	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://frame.bloglovin.com/?blog=7689639&post=2109588203" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-NewYears-BarCart2.jpg"></a>
 	</div>
