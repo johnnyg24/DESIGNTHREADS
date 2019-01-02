@@ -39,10 +39,6 @@ End Code
 
 <p>Adding Americana attire inside your home is also a great way to showcase your spirit. With a nearly endless supply of patriotic decor, you can easily outift your home from top to bottom. Pillow covers, table runners, throw blankets- there is an Americana alternative for every room. </p>
 <div class="spacer"></div>
-
-<div align="center"><a href="http://www.housebeautiful.com/decorating/colors/4th-of-july-decor-and-patriotic-decorating#slide-9" target="_blank">
-	<img class="img-responsive" alt="" src="~/images/Americana-RWB-LivingRoom.jpg"></a></div>
-<div class="spacer"></div>
 	
 <p>Celebrating the Fourth of July is a spectacular event, although we must remember why this day is so special. The Declaration of Independence came to be on this day and history would write other important events, all of which deserve to be honored and remembered. So while you are enjoying the BBQ or awed by fireworks, take a moment to wish America a very happy birthday. </p>
 <div class="spacer"></div>		
