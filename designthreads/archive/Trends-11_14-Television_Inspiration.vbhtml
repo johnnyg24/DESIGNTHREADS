@@ -74,7 +74,7 @@ End Code
 <div class="spacer"></div>
 
 <div align="center"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy.jpg"></div>
-<div class="source-link">Source: <a href="http://www.architecturaldigest.com/ad/set-design/2012/modern-family-sets-slideshow_slideshow_item3_4" target="_blank">ArchitecturalDigest.com</a></div>
+<div class="source-link">Source: <a href="https://etcpb.com/modern-family-dunphy-house-floor-plan/modern-family-dunphy-house-floor-plan-fresh-modern-family-house/#content" target="_blank"></a></div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
