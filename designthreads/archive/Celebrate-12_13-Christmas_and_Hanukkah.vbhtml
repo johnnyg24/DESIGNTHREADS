@@ -86,19 +86,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://blog.wisteria.com/2011/11/our-coastal-christmas-trees/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Beachy.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.cocokelley.com/2010/11/a-modern-day-christmas/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Tinsel.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.bystephanielynn.com/2013/11/easy-holiday-ornament-ideas.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-WoodyNatural.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://queenbee1924.tumblr.com/post/37188616805" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-AppleGreen.jpg"></a>
 	</div>
