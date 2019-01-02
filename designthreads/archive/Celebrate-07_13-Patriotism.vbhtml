@@ -13,7 +13,7 @@ End Code
 
 <div align="center">
     <a href='https://www.houzz.com/photo/9152445-cheshire-house-2-traditional-living-room-manchester-uk' target='_blank'>
-        <img src='https://st.hzcdn.com/simgs/90014e5903063fed_3-2203/traditional-living-room.jpg' alt='' border=0 width='320' height='214' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+        <img class="img-responsive" src='https://st.hzcdn.com/simgs/90014e5903063fed_3-2203/traditional-living-room.jpg' alt='' border=0 width='640' height='428' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
     <div style='color:#444;'><small><a style="text-decoration:none;color:#444;" href="https://www.houzz.com/pro/fionawatkins/fiona-watkins-design-limited" target="_blank">Photo by Fiona Watkins Design Limited</a> - <a style="text-decoration:none;color:#444;" href="https://www.houzz.com/photos/living-room" target="_blank">Search living room design ideas</a></small>
     </div>
 </div>
