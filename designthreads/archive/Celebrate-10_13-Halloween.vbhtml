@@ -17,27 +17,16 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-6">
 		<a href="http://www.cornerhouseblog.com/2011/10/i-shared-tutorial-for-my-count-down-to.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-DIY-Countdown.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/images/500-DIY-Wreath.jpg">
-        <div class="source-link">Tutorial No Longer Available</div>
-    </div>
-	<div class="col-md-2">
+	<div class="col-md-6">
 		<a href="http://www.craftsunleashed.com/paper-crafts/beware-halloween-banner/" target="_blank">
 		<img class="img-responsive" src="~/images/500-DIY-Banner.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.womansday.com/home/craft-ideas/craft-project-lace-spiderweb-123863" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-DIY-LaceyWeb.jpg"></a>
-		<div class="source-link">Photo by: Antonis Achilleos/Halloween Celebrations</div>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.hgtv.com/design/make-and-celebrate/handmade/20-hip-halloween-decorating-ideas-pictures" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-DIY-ApothecaryBottles.jpg"></a>
-	</div>
+
+
 </div>
 <div class="spacer"></div>
 
@@ -45,25 +34,13 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://www.familycircle.com/home/decorating/ideas/6-winter-home-decoration/#page=5" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Pumpkins-CandleHolder.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-6">
 		<a href="http://www.justthebeesknees.com/2012/09/3-ways-to-create-metallic-pumpkins.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Pumpkins-Metallic.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.marthastewart.com/271636/pumpkin-basket-how-to?czone=holiday%2Fhalloween-center%2Fhalloween-center-decor&gallery=275513&slide=271636&center=276965" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Pumpkins-Basket.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-6">
 		<a href="https://blog.buckle.com/2012/10/26/d-i-y-denim-pumpkins/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Pumpkins-Ribbon2.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.hgtvgardens.com/decorating/mod-gourd-create-a-swirly-pumpkin?soc=pinterest" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Pumpkins-Fairytale.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -96,14 +73,6 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://www.goodhousekeeping.com/holidays/halloween-ideas/g421/halloween-decorating-ideas-1007/?slide=4&thumbnails=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Decor-FrontDoor.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.goodhousekeeping.com/holidays/halloween-ideas/g421/halloween-decorating-ideas-1007/?slide=14&thumbnails=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Decor-Hall.jpg"></a>
-	</div>
 	<div class="col-md-2">
 		<a href="http://www.houzz.com/photos/1870835/Dallas-TX-Melissa-and-Guillermo-eclectic-entry-dallas" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Decor-Misc.jpg"></a>
