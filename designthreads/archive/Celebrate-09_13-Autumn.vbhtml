@@ -33,22 +33,18 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-SquirrelPillow.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Pillow-LeafPattern.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Blanket-Kennebunk2.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.rugstudio.com/marthastewartbysafaviehmsr3611autumnwoodsbarearug.aspx" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Rug-Brown.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://adventuresindecorating1.blogspot.com/2012/07/all-ready-for-fall.html?m=0" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Mantle.jpg"></a>
 	</div>
 </div>
 <hr>
@@ -65,23 +61,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://www.wayfair.com/Fifth-Avenue-Crystal-Venezia-Flower-Serving-Tray-51201-FIY1148.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-ServingBowl.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Vase.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="https://www.amazon.com/Homewear-Harvest-Time-Collection-Place/dp/B01N5X40FU/ref=sr_1_fkmr0_1?ie=UTF8&qid=1487190549&sr=8-1-fkmr0&keywords=Homewear+Table+Linens%2C+Harvest+Time+Collection" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-TableLinens2.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-ChairCushion.jpg">
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.southernliving.com/home-garden/decorating/dining-room-decorating-ideas/seasonal-accessories" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-DR2.jpg"></a>
 	</div>
 </div>
 <hr>
@@ -98,23 +90,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-FlannelBedSheets.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.sundancecatalog.com/product/53221.do" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Quilt-Gold.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-AreaRug.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://sydneyhaleco.com/products/cedarwood-vanilla" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Candle-Cedarwood.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.stylecraftbuilders.com/find-your-home/killeen-copperas-cove/yowell-ranch" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Bdrm.jpg"></a>
 	</div>
 </div>
 <hr>
@@ -131,22 +119,17 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://www.pier1.com/Red-Birch-Trees-Art/PS43601,default,pd.html?cgid=mirrors_wall_decor" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Art.jpg"></a>
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/500-Autumn-Art.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Wreath-Sunflower.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-FauxWheat.jpg">
     </div>
-	<div class="col-md-2">
-		<a href="http://www.restorationhardware.com/catalog/product/product.jsp?productId=prod1159290&categoryId=cat1560032" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Drapery-VintageVelvet.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Mirrors.jpg">
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/500-Autumn-Drapery-VintageVelvet.jpg">
 	</div>
 </div>
 <hr>
@@ -163,24 +146,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-OutdoorBlanket.jpg">
 	</div>
-	<div class="col-md-2">
-		<a href="https://www.lowes.com/cd_Fall-Blooming+Annuals+and+Perennials+Buying+Guide_1282159210_" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-Flowers-Pansies.jpg"></a>
+	<div class="col-md-3">
+		<img class="img-responsive" alt="" src="~/images/500-Autumn-Flowers-Pansies.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.beneathmyheart.net/2011/09/autumn-word-art-crate/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-Flowers-Crate.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="https://www.amazon.com/Lumanux-Included-Outdoor-Commercial-Wedding/dp/B011D4UJMK" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Autumn-GlobeStringLights.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.bhg.com/halloween/outdoor-decorations/fall-outdoor-decorating-from-halloween-to-thanksgiving/#page=14" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Autumn-MiniDeck.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
