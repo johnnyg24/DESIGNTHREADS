@@ -17,23 +17,19 @@ End Code
 <div class="spacer"></div>		
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://www.houzz.com/photos/3042599/Zonta-Holiday-House-traditional-bedroom-other" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Bedroom-ClassicRed.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.idealhome.co.uk/picture/green-and-red-christmas-dining-room-2" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Dining-RedWhite.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.houzz.com/photos/7412402/Modern-Christmas-Decor-contemporary-perth" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-LR-SlateGreen.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.awomensclub.com/christmas-tree-decorating-ideas.php" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Xmas-LR-MagentaChartreuse.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.digsdigs.com/55-dreamy-christmas-living-room-decor-ideas/pictures/65778/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-LR-PaleBlueGold.jpg"></a>
 	</div>
@@ -44,23 +40,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://christmasdecorated.com/modern-christmas-decor-ideas-dining-room-with-christmas-tree/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Xmas-Dining-SkyBlueGold.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://frenchcountrycottage.blogspot.com/2011/12/its-beginning-to-look-lot-like.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Bedroom-FrenchCountry.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.homestoriesatoz.com/christmas/25-unique-christmas-mantels.html#comment-46079" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Mantle-Birch.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://eclecticallyvintage.com/2013/12/holiday-house-walk-christmas-house-tour/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Mantle-Joy.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="https://indeeddecor.com/cozy-cabin-holiday-gift-guide/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Nook-Bench.jpg"></a>
 	</div>
@@ -71,23 +63,19 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://chicbeautifullife.blogspot.com/2011/12/merry-christmas.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-SnowyWhite.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.flickr.com/photos/mchasesteely/3079979293/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Traditional.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.centsationalgirl.com/2012/11/candy-colored-christmas-tree/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Colorful.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.usmagazine.com/celebrity-style/pictures/a-list-holiday-decorating-tips-2010812/11832" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Simple.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.centsationalgirl.com/2011/12/crimson-white-christmas-tree/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-RedWhite.jpg"></a>
 	</div>
@@ -98,10 +86,6 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="http://www.countryliving.com/home-design/decorating-ideas/g1378/eddie-ross-christmas-decorations/?slide=3&thumbnails=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-GoldMini.jpg"></a>
-	</div>
 	<div class="col-md-2">
 		<a href="http://blog.wisteria.com/2011/11/our-coastal-christmas-trees/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Xmas-Tree-Beachy.jpg"></a>
@@ -128,23 +112,20 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://ideas.evite.com/slide/wood-and-gold-hanukkah-tablescape/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-TableSetting2.jpg"></a>
 	</div>
-	<div class="col-md-2">
-		<a href="http://www.stlmag.com/St-Louis-AT-HOME/November-December-2012/Holiday-Decor-for-Thanksgiving-Hanukkah-Christmas-and-New-Years-Eve-on-a-Budget/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Buffet1.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.hgtv.com/design/decorating/design-101/haute-hanukkah-decorating-ideas-pictures" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-DiningRoom.jpg"></a>
-	</div>
-	<div class="col-md-2">
+    <div class="col-md-3">
+        <a href='https://www.houzz.com/photo/77898015-diy-hanukkah-party-modern-dining-room-columbus' target='_blank'>
+            <img src='https://st.hzcdn.com/simgs/7f41cfd70835ecc2_3-4244/modern-dining-room.jpg' alt='' border=0 width='320' height='180' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+            <div style='color:#444;'><small><a style="text-decoration:none;color:#444;" href="https://www.houzz.com/pro/bitememore/bitememorecom" target="_blank">Photo by BiteMeMore.com</a> - <a style="text-decoration:none;color:#444;" href="https://www.houzz.com/photos/dining" target="_blank">More dining room ideas</a></small></div>
+    </div>
+	<div class="col-md-3">
 		<a href="http://suburbsmama.blogspot.com/2013/11/hanukkah-decor-2013.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Buffet2.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.thejewishhostess.com/the-hanukka-hostess-shops-ikea-and-west-elm-for-a-hanukka-blue-table-setting/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-TableSetting1.jpg"></a>
 	</div>
@@ -155,23 +136,20 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="https://www.georgewatts.com/gifts/religious/odelia-9-candleholder-tree-menorah-16-x-JMO001" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Menorah-Tree.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Menorah-Branches.jpg">
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.momastore.org/museum/moma/ProductDisplay?purpose=crawl&catalogId=10451&categoryId=11550&productId=11954&langId=-1&parent_category_rn=26663&keyWord=Flexus+Menorah&storeId=10001" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Menorah-Glass.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.michaelaram.com/nsite/iteminfo.aspx?hdid=143322&cid=9#" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Menorah-Molten.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<img class="img-responsive" alt="" src="~/images/500-Hanukkah-Menorah-Votives.jpg">
 	</div>
 </div>
 <div class="spacer"></div>
