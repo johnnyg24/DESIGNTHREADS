@@ -17,12 +17,8 @@ End Code
 <p>The oldest dyed goods to have been found as of yet date back as far as 6,000 years ago. It is clear from these findings that the art of dyeing goods was highly prized, as the fabric remnants are determined to be from the higher echelons of society. In those civilizations, the processes of dyeing fabric were quite complicated, given that the dyes had to be extracted from local natural elements, such as flowers, insects, and trees. Since the actual woven goods themselves do not preserve well, there are very few in existence to help us understand the extent of their dyeing processes and even the dyes themselves that were used. A few of these dyeing processes have been discovered in ancient written texts, such as the Stockholm Papyrus as well as records found in China and India. Though, there is no one area that is credited with the invention and evolution of the dye process as all areas were experimenting and creating dyed goods throughout the ages. However, despite the vast geographical distances between them, it is astounding that the processes for dyeing goods are remarkably similar. It is this commonality that brought the dye industry together as the world evolved. From Egypt to England, Asia to America, the dyeing process became more than the simple ornamentation of goods. It grew into its own industry. </p>
 <div class="spacer"></div>
 
-<div class="row" align="center">
-    <div class="col-md-6">
-        <a href="https://500px.com/photo/134559763/colors-of-poverty-by-brigitta-story?ctx_page=1&from=search&ctx_q=dye+vats&ctx_type=photos&ctx_sort=relevance" target="_blank"><img class="img-responsive" alt="" src="~/images/History-FiberDyeing-ChouaraTannery.jpg" /></a>
-    </div>
-    <div class="col-md-6">
-        <a href="https://www.jetsetter.com/magazine/places-in-morocco-design-lovers-must-visit/" target="_blank"><img class="img-responsive" alt="" src="~/images/History-FiberDyeing-FesTannery.jpg" /></a>
+<div align="center">
+        <a href="https://www.jetsetter.com/magazine/places-in-morocco-design-lovers-must-visit/" target="_blank"><img class="img-responsive" alt="" style="width:500px; margin:auto" src="~/images/History-FiberDyeing-FesTannery.jpg" /></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -31,13 +27,10 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-    <div class="col-md-4">
-        <a href="https://500px.com/photo/230727145/the-people-of-chinchero-peru-by-mario-g-mejia?ctx_page=1&from=search&ctx_q=textile+dye&ctx_type=photos&ctx_sort=relevance" target="_blank"><img class="img-responsive" alt="" src="~/images/History-FiberDyeing-ChinceroPeru.jpg" /></a>
-    </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         <a href="http://tiastephanietours.com/wp-content/uploads/2015/01/6.jpg" target="_blank"><img class="img-responsive" alt="" src="~/images/History-FiberDyeing-OaxacaMexico.jpg" /></a>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         <a href="https://www.clothroads.com/resources/textile-travel/#jp-carousel-11538" target="_blank"><img class="img-responsive" alt="" src="~/images/History-FiberDyeing-LacDye-Laos.jpg" /></a>
     </div>
 </div>
