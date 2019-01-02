@@ -17,7 +17,7 @@ End Code
 
 <div align="center">
     <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedroom2.jpg"></a>
+    <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/DesignStyle-Modern-Bedroom2.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -26,7 +26,7 @@ End Code
 
 <div align="center">
     <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Kitchen.jpg"></a>
+    <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/DesignStyle-Modern-Kitchen.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -35,7 +35,7 @@ End Code
 
 <div align="center">
     <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-LR2.jpg"></a>
+    <img class="img-responsive" style="width:500px; margin:auto" alt="" src="~/images/DesignStyle-Modern-LR2.jpg"></a>
 </div>
 <div class="spacer"></div>
 
