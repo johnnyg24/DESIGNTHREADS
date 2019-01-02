@@ -20,10 +20,11 @@ End Code
 <div align="center" class="row">
     <div class="col-md-6">
         <a href='https://www.houzz.com/photo/45386818-classic-sitting-room-eclectic-living-room-atlanta' target='_blank'>
-        <img src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+        <img class="img-responsive" src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
     </div>
     <div class="col-md-6">
-       <a href='https://www.houzz.com/photo/836397-transitional-music-room-in-westport-ct-transitional-living-room-new-york' target='_blank'><img src='https://st.hzcdn.com/simgs/75b142a70f928ece_8-0578/transitional-living-room.jpg' alt='' border=0 width='500' height='320' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+       <a href='https://www.houzz.com/photo/836397-transitional-music-room-in-westport-ct-transitional-living-room-new-york' target='_blank'>
+        <img class="img-responsive" src='https://st.hzcdn.com/simgs/75b142a70f928ece_8-0578/transitional-living-room.jpg' alt='' border=0 width='500' height='320' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
     </div>
 </div>
 <div class="spacer"></div>
@@ -39,7 +40,8 @@ End Code
 	</div>
     <div class="col-md-4">
        <a href='https://www.houzz.com/photo/53531807-proyecto-claudio-coello-contemporary-living-room-madrid' target='_blank'>
-           <img src='https://st.hzcdn.com/simgs/e1d1d4d3071e00ff_8-4179/contemporary-living-room.jpg' alt='' border=0 width='500' height='376' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+           <img class="img-responsive" src='https://st.hzcdn.com/simgs/e1d1d4d3071e00ff_8-4179/contemporary-living-room.jpg' alt='' border=0 width='500' height='376' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' />
+       </a>
     </div>
 </div>
 <div class="spacer"></div>
