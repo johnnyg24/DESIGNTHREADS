@@ -16,8 +16,8 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="http://designfile.architecturaldigest.com/photo/modern-bedroom-jacobsen-architecture-washington-dc-201102?sponsor=#" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedroom.jpg"></a>
+    <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Bedroom2.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -25,8 +25,8 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="http://designfile.architecturaldigest.com/photo/modern-dining-room-anthony-montalto-new-york-new-york-200609" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-DiningRoom.jpg"></a>
+    <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-Kitchen.jpg"></a>
 </div>
 <div class="spacer"></div>
 
@@ -34,8 +34,8 @@ End Code
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="http://designfile.architecturaldigest.com/photo/modern-media-game-room-jamie-bush-co-goldman-firth-rossi-malibu-california-201003?sponsor=" target="_blank">
-    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-MediaRoom.jpg"></a>
+    <a href="https://www.brittocharette.com/portfolio-posts/green-17/" target="_blank">
+    <img class="img-responsive" alt="" src="~/images/DesignStyle-Modern-LR2.jpg"></a>
 </div>
 <div class="spacer"></div>
 
