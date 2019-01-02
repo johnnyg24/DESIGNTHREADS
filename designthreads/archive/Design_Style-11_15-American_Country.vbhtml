@@ -13,18 +13,6 @@ End Code
 <p>American Country interiors stem from farmhouses built centuries ago, where the design was simple, efficient, and practical. Blending these traits with today's designs creates a home with a chic country feel. Interiors are generally a combination of furnishings from various era's gone by, such as antique pieces handed down through the generations, complemented with the cleaner lines of modern furniture. This allows for an unexpected yet inviting union of old with new. Similarly, upholstery and window treatments must promote balance within their space. Through the use of gingham, muted florals, and natural textures, textiles are essential to the rooms design. Pairing well-worn wood with a tailored textile creates the harmony a country home is so well known for. </p>
 <div class="spacer"></div>	
 
-<div class="row" align="center">
-	<div class="col-md-6">
-		<a href="http://designfile.architecturaldigest.com/photo/beach-living-room-karin-blake-malibu-california-200801?sponsor=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-LivingRoom2.jpg"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="http://designfile.architecturaldigest.com/photo/rustic-dining-room-backen-gillam-kroeger-architects-st-helena-california-200910?sponsor=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/DesignStyle-AmericanCountry-DiningRoom2.jpg"></a>
-	</div>
-</div>
-<div class="spacer"></div>
-
 <p>Country homes commonly include an abundance of the color white. Not neccessarily bright white but warm whites with age and character. Restful yet hinging on rustic modern, these classic shades of white match beautifully with any decor. From beadboard to whitewashed floors, this color is found throughout the home. However, country interiors are far from bland. Traditional primary colors are often seen enlivening these spaces. Muted or vibrant, these tones offer a sense of simplicity and country authenticity. Maintaining this authenticity though does not mean one must embrace the 'chippy' and 'shabby' appearance aged paint acquires. Freshening up peeling paint is always acceptable, unless this aesthetic fits in with the rooms design. </p>
 <div class="spacer"></div>	
 
