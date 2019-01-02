@@ -18,14 +18,13 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-6">
-		<a href="http://www.goodhousekeeping.com/home/decorating-ideas/g1186/breezy-home-florida/?slide=2" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-Headboard.jpg"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="http://www.traditionalhome.com/design/beautiful-homes/fresh-face-traditional-style?page=4" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-BreakfastNook.jpg"></a>
-	</div>
+    <div class="col-md-6">
+        <a href='https://www.houzz.com/photo/45386818-classic-sitting-room-eclectic-living-room-atlanta' target='_blank'>
+        <img src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+    </div>
+    <div class="col-md-6">
+       <a href='https://www.houzz.com/photo/836397-transitional-music-room-in-westport-ct-transitional-living-room-new-york' target='_blank'><img src='https://st.hzcdn.com/simgs/75b142a70f928ece_8-0578/transitional-living-room.jpg' alt='' border=0 width='500' height='320' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+    </div>
 </div>
 <div class="spacer"></div>
 
@@ -38,10 +37,10 @@ End Code
 		<a href="https://www.houzz.com/photos/510577/Study-eclectic-home-office-dc-metro" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-LRChairs.jpg"></a>
 	</div>
-	<div class="col-md-4">
-		<a href="http://www.traditionalhome.com/design/beautiful-homes/and-after-revived-georgian-style-home?page=10" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-OfficeOttoman.jpg"></a>
-	</div>
+    <div class="col-md-4">
+       <a href='https://www.houzz.com/photo/53531807-proyecto-claudio-coello-contemporary-living-room-madrid' target='_blank'>
+           <img src='https://st.hzcdn.com/simgs/e1d1d4d3071e00ff_8-4179/contemporary-living-room.jpg' alt='' border=0 width='500' height='376' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+    </div>
 </div>
 <div class="spacer"></div>
 
