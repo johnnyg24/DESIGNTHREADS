@@ -45,15 +45,11 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-4">
-		<a href="http://www.healthcaredesignmagazine.com/article/photo-tour-grossman-burn-center-offices-and-surgery" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Celebrate-LaborDay-BreakRoom7.jpg"></a>
-	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://officesnapshots.com/2012/10/19/landesk-office-design/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-LaborDay-BreakRoom4.jpeg"></a>	
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.desiretoinspire.net/blog/2012/11/9/kyla-bidgoods-office-redo.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Celebrate-LaborDay-BreakRoom6.jpg"></a>
 	</div>
