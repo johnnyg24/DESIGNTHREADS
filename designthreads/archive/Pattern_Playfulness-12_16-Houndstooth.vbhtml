@@ -17,10 +17,17 @@ End Code
 <p>While it may seem strange to name a pattern after such a thing, the houndstooth motif is believed to have originated centuries ago in the Scottish Lowlands where hunting with hounds was a way of life. Defined as, "a large checked pattern with notched corners suggestive of a canine tooth..." houndstooth is an unmistakable design. Characterized by its abstract four-pointed shapes, houndstooth is considered a 'tesselation', which is the tiling of a plane using one or more geometric shapes, called tiles, with no overlaps and no gaps. The traditional houndstooth check is made with alternating bands of four dark and four light threads in both warp and weft/filling woven in a simple 2:2 twill, two over and two under the warp, advancing one thread each pass. Originally woven out of black and white or neutral brown earthtones, there is a defined alternating pattern, resulting in a striking geometric repetition. Also known as dogstooth, pied-de-poule, or even puppytooth the houndstooth pattern may be of any scale- puppytooth describing a much smaller sized check. </p>
 <div class="spacer"></div>
 
+<div align="center">
+    <a href='https://www.houzz.com/photo/45386818-classic-sitting-room-eclectic-living-room-atlanta' target='_blank'>
+        <img class="img-responsive" src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' />
+    </a>
+</div>
+
 <div align="center" class="row">
-    <div class="col-md-6">
-        <a href='https://www.houzz.com/photo/45386818-classic-sitting-room-eclectic-living-room-atlanta' target='_blank'>
-        <img class="img-responsive" src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+    <div class="col-md-4">
+        <a href='https://www.houzz.com/photo/53531807-proyecto-claudio-coello-contemporary-living-room-madrid' target='_blank'>
+            <img class="img-responsive" src='https://st.hzcdn.com/simgs/e1d1d4d3071e00ff_8-4179/contemporary-living-room.jpg' alt='' border=0 width='500' height='376' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' />
+        </a>
     </div>
     <div class="col-md-6">
        <a href='https://www.houzz.com/photo/836397-transitional-music-room-in-westport-ct-transitional-living-room-new-york' target='_blank'>
@@ -30,19 +37,14 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="https://www.houzz.com/photos/4507664/Suburban-Country-Estate-traditional-kitchen-new-york" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-KitchenChairs.jpg"></a>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="https://www.houzz.com/photos/510577/Study-eclectic-home-office-dc-metro" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Houndstooth-LRChairs.jpg"></a>
 	</div>
-    <div class="col-md-4">
-       <a href='https://www.houzz.com/photo/53531807-proyecto-claudio-coello-contemporary-living-room-madrid' target='_blank'>
-           <img class="img-responsive" src='https://st.hzcdn.com/simgs/e1d1d4d3071e00ff_8-4179/contemporary-living-room.jpg' alt='' border=0 width='500' height='376' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' />
-       </a>
-    </div>
 </div>
 <div class="spacer"></div>
 
