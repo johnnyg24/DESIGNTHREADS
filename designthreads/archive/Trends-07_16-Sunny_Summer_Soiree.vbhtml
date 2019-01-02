@@ -25,15 +25,10 @@ End Code
 <p>Sun-drenched days and star-filled nights fill the summer season. The world surrounds us with vibrant colors, infusing our lives with joy. Trendy patterns and motifs bring happiness to our homes with their graphic imagery, adding to the summer spirit. While the patterns themselves may change from year to year, there will always be the constant trend of sunny, summer refreshment. Whether it's geometric or floral, vivid brights or silly solids, summer can be relied on for its trendy yet gratifying outrageousness. </p>
 <div class="spacer"></div>
 
-<div align="center" class="row">
-	<div class="col-md-6">
+<div align="center">
 		<a href="http://thedesignfiles.net/2013/06/brisbane-home-helen-and-chris-bayley-and-family/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Trends-SSS-DiningNook.jpg"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="http://www.traditionalhome.com/design/beautiful-homes/three-ring-style?page=4" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Trends-SSS-FamilyRoom.jpg"></a>
-	</div>
+		<img class="img-responsive" alt="" style="width:500px; margin:auto" src="~/images/Trends-SSS-DiningNook.jpg"></a>
+	
 </div>
 <div class="spacer"></div>
  
