@@ -14,19 +14,24 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-3">
+	<div class="col-md-6">
 		<a href="http://theselby.com/galleries/locations/the-louis-vuitton-family-home-and-the-louis-vuitton-bag-workshop-in-asnierese/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-LouisVuitton.jpg"></a>
 	</div>
-	<div class="col-md-3">
-		<a href="http://www.newartinterior.eu/en/view-showcase/18/Private-Residence-61" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Bedroom.jpg"></a>
-	</div>
-	<div class="col-md-3">
+    <div class="col-md-6">
+        <a href="http://www.newartinterior.eu/en/view-showcase/18/Private-Residence-61" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Bedroom.jpg">
+        </a>
+    </div>
+</div>
+<div class="spacer"></div>
+
+<div align="center" class="row">
+	<div class="col-md-6">
 		<a href="http://www.margodowninginteriors.com/portfolio.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-ModernTownhome.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-6">
 		<a href="http://www.draperdbs.com/gallery/media-room-custom-cabinets-art-nouveau/#1" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Library.jpg"></a>
 	</div>
@@ -38,19 +43,15 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-3">
-		<a href="http://designfile.architecturaldigest.com/photo/bedroom-vladimir-alexandrovich-fabrikov-alan-wazenberg-new-york-new-york-200601" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-BRDoors.jpg"></a>
-	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://hauthaus.com/remodel_fairmount.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-Kitchen.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.sarahklassen.com/2012/09/interior-masculine-mood.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-StainedGlass.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://interiordesignfiles.com/art-nouveau-style-house-villa-liberty/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/DesignStyle-ArtNouveau-DiningRoom.jpg"></a>
 	</div>
