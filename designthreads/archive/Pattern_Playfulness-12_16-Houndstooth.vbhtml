@@ -32,7 +32,7 @@ End Code
     </div>
     <div class="col-md-6">
        <a href='https://www.houzz.com/photo/836397-transitional-music-room-in-westport-ct-transitional-living-room-new-york' target='_blank'>
-        <img class="img-responsive" src='https://st.hzcdn.com/simgs/75b142a70f928ece_8-0578/transitional-living-room.jpg' alt='' border=0 width='500' height='320' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' /></a>
+        <img class="img-responsive" alt="" src='~/images/PatternPlay-Houndstooth-Ottoman.jpg'></a>
     </div>
 </div>
 <div class="spacer"></div>
