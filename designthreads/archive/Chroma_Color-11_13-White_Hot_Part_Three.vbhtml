@@ -20,17 +20,13 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.lorismyth.com/lori-smyth-design/1ctuipmsc83ro0de0vzvyjt5yrl9ec" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-SubwayTile.jpg"></a>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://cgapartners.net/portfolio?album=1&gallery=62" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-ColoredCeiling.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.atlantahomesmag.com/article/perfect-pitch#photos" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/H500-White-Kitchen-DarkEclectic.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
