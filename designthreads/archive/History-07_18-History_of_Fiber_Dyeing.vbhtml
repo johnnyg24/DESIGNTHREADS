@@ -19,7 +19,6 @@ End Code
 
 <div align="center">
         <a href="https://www.jetsetter.com/magazine/places-in-morocco-design-lovers-must-visit/" target="_blank"><img class="img-responsive" alt="" style="width:500px; margin:auto" src="~/images/History-FiberDyeing-FesTannery.jpg" /></a>
-    </div>
 </div>
 <div class="spacer"></div>
 
