@@ -73,8 +73,10 @@ End Code
 <p>From the set of <a href="http://abc.go.com/shows/modern-family" target="_blank">'Modern Family'</a>, the Dunphy home.</p>
 <div class="spacer"></div>
 
-<div align="center"><img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy.jpg"></div>
-<div class="source-link">Source: <a href="https://etcpb.com/modern-family-dunphy-house-floor-plan/modern-family-dunphy-house-floor-plan-fresh-modern-family-house/#content" target="_blank"></a></div>
+<div align="center">
+    <img class="img-responsive" alt="" src="~/images/Trends-TV-ModernFamily-Dunphy.jpg">
+    <div class="source-link">Source: <a href="https://etcpb.com/modern-family-dunphy-house-floor-plan/modern-family-dunphy-house-floor-plan-fresh-modern-family-house/#content" target="_blank">Contemporary and Modern House Plans</a></div>
+</div>
 <div class="spacer"></div>
 
 <div class="row" align="center">
