@@ -18,13 +18,13 @@ End Code
 
 <div class="row" align="center">
 	<div class="col-md-6">
-        <a href="http://www.traditionalhome.com/design/lighting-ideas-great-chandeliers?page=17" target="_blank">
-        <img class="img-responsive" alt="" src="~/images/Trends-Velvet-Bedroom.jpg"></a>
+        <a href="http://ameliacarter.com/project/notting-hill-family-house/" target="_blank">
+        <img class="img-responsive" alt="" src="~/images/Trends-Velvet-Couch.jpg"></a>
     </div>
 	<div class="col-md-6">
-        <a href="https://www.estout.com/details?sku=ALGI-8" target="_blank">
+        <a href="https://www.estout.com/details?upsell=true&tab=false&sku=VELV-8" target="_blank">
         <img class="img-responsive" alt="" src="~/images/Trends-Velvet-Algiers8Dusk.jpg"></a>
-        <div class="text-center">Algiers 8 Dusk</div>
+        <div class="text-center">Velvety 8 Smoke</div>
     </div>
 </div>	
 <hr />	
