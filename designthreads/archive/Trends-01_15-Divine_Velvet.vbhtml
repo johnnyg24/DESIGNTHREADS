@@ -23,7 +23,7 @@ End Code
     </div>
 	<div class="col-md-6">
         <a href="https://www.estout.com/details?upsell=true&tab=false&sku=VELV-8" target="_blank">
-        <img class="img-responsive" alt="" src="~/images/Trends-Velvet-Algiers8Dusk.jpg"></a>
+        <img class="img-responsive" alt="" src="~/images/Trends-Velvet-Velvety8Smoke.jpg"></a>
         <div class="text-center">Velvety 8 Smoke</div>
     </div>
 </div>	
