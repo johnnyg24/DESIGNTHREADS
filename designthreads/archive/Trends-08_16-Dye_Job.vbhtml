@@ -30,17 +30,13 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.malcolmduffin.co.uk/interior-design-portfolio/edinburgh-apartment/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-ChairPillows.jpg"></a>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.houzz.com/projects/576695/lake-house" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-Ottomans.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.traditionalhome.com/design/beautiful-homes/sophisticated-second-home?page=8" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Trends-DyeJob-TradHome.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
