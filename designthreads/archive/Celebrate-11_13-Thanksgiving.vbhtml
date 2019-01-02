@@ -14,47 +14,39 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-2 col-md-offset-1">
+	<div class="col-md-3">
 		<a href="http://socialcafemag.com/thanksgiving-decorating/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table2.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://akadesign.ca/fall-table-thanksgiving-table/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table8.jpg"></a>
 	</div>
-	<div class="col-md-2 ">
+	<div class="col-md-3">
 		<a href="http://www.digsdigs.com/39-fresh-green-thanksgiving-decor-ideas/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table1.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.tinysidekick.com/fall-table-inspiration-from-5-bloggers/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table6.jpg"></a>
-	</div>
-	<div class="col-md-2">
-		<a href="http://www.marthastewart.com/264215/setting-a-thanksgiving-table" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Thanks-Table5.jpg"></a>
 	</div>
 </div>	
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-2 col-md-offset-1">
-		<a href="https://www.pinterest.com/pin/215821007116278897/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Thanks-Table4.jpg"></a>
-	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://upcycledtreasures.com/2013/09/5-fall-tablescape-ideas/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table7.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.stylisheve.com/white-pumpkin-centerpieces-thanksgiving/pumpkin-centerpieces-for-thanksgiving-think-white_08/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table10.jpg"></a>
 	</div>	
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.flickr.com/photos/8346295@N07/7882172946/in/photolist-d1wcpy-9EikAU-dvsYoJ-8ZyosL-8Wb98x-8Ut1ZA-8Wb9Mr-dvsYhU-8WbHzq-aKPRcF-aL1jAc-aL1jkF-aL1jSV-8WnWnx-8WbHxJ-aKPRd8-8VEjFJ-8VmwPE-8VmwPy-8VmwPu-8XaSVW-8XaSHE-8XaTEm-8X7SzD-8X7SWF-8XaT8E" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table9.jpg"></a>
 	</div>
-	<div class="col-md-2">
+	<div class="col-md-3">
 		<a href="http://www.athoughtfulplaceblog.com/2011/11/hope-you-all-had-wonderful-weekend.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Thanks-Table12.jpg"></a>
 	</div>
