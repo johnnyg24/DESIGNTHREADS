@@ -22,6 +22,7 @@ End Code
         <img class="img-responsive" src='https://st.hzcdn.com/simgs/85419a3406759013_8-3624/eclectic-living-room.jpg' alt='' border=0 width='500' height='750' nopin='nopin' ondragstart='return false;' onselectstart='return false;' oncontextmenu='return false;' />
     </a>
 </div>
+<div class="spacer"></div>
 
 <div align="center" class="row">
     <div class="col-md-6">
