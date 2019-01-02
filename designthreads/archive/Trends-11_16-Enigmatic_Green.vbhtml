@@ -14,19 +14,15 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-3">
-		<a href="http://atlantahomesmag.com/article/modern-clean-hunter-green/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Bathroom.jpg"></a>
-	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.huntedinterior.com/2016/10/projectfamjam-bathroom-renovation.html#more" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-BathWalls.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://lillybunn.com/projects2.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Couch.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.abeautifulmess.com/2014/08/at-home-with-mandy-pellegrin.html" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Headboard.jpg"></a>
 	</div>
@@ -37,21 +33,17 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-3">
-		<a href="http://www.housebeautiful.com/home-remodeling/interior-designers/a5635/next-wave-cece-barfield-thompson/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-LivingRoom.jpg"></a>
-	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.yellowtrace.com.au/althaus-restaurant-by-pb-studio-and-filip-kozarski-gdynia-poland/
 " target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Restaurant.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.simplifiedbee.com/2015/06/san-francisco-decorator-showcase-master-bedroom.html
 " target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Showhouse.jpg"></a>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 		<a href="http://www.teddyedwards.co.uk/brooklands/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/Trends-MoodyGreen-Kitchen.jpg"></a>
 	</div>
