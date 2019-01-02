@@ -31,15 +31,11 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-sm-4">
-		<a href="http://www.housebeautiful.com/room-decorating/bathrooms/tips/g1332/unique-creative-bathroom-designs-1212/?slide=28&thumbnails=" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Art.jpg"></a>
-	</div>
-	<div class="col-sm-4">
+	<div class="col-sm-6">
 		<a href="http://www.luminosusdesigns.com/portfolio/pleasantville-bathrooms/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Lime.jpg"></a>
 	</div>
-	<div class="col-sm-4">
+	<div class="col-sm-6">
 		<a href="http://www.katedavidsondesign.com/portfolio/residential-design/4-sideroad" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/H500-White-Bathroom-Texture.jpg"></a>
 	</div>
