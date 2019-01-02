@@ -102,24 +102,19 @@ End Code
 <div class="spacer"></div>
 
 <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="http://www.styleathome.com/decorating-design/high-or-low/article/high-low-parisian-style-kitchen" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-MixedMetals2.jpg">
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="https://drummonds-uk.com/gallery/townhouse-london-case-study/" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-MixedMetals3.jpg">
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
         <a href="http://www.pencilandpaperco.com/sunny-kitchen" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-MixedMetals4.jpg">
-        </a>
-    </div>
-    <div class="col-md-3">
-        <a href="https://www.architecturaldigest.com/gallery/meg-ryan-new-york-city-loft#7" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-MixedMetals5.jpg">
         </a>
     </div>
 </div>
@@ -146,22 +141,10 @@ End Code
 <p>Less is more in 2018. Less over-produced products and more sustainable designs. Eco-consciousness is pushing its way to the front this year. The preference for natural elements and materials is surging ahead of cookie-cutter mass productions. Craftsmanship is back. Embracing renewable sources and greener designs not only results in timeless beauty but also a better sense of well-being. Artisan accessories are taking the spotlight and showing the true beauty of sustainable designs. </p>
 <div class="spacer"></div>
 
-<div class="row">
-    <div class="col-md-4">
-        <a href="https://www.homepolish.com/mag/fashiontoast" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-Natural1.jpeg">
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href="https://domino.com/how-to-get-california-style-home#2" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-Natural2.jpg">
-        </a>
-    </div>
-    <div class="col-md-4">
+<div align="center">
         <a href="https://www.visi.co.za/woodstock-studio-apartment/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-Natural3.jpg">
+            <img class="img-responsive" alt="" style="width:500px; margin:auto" src="~/images/Trends-2018Predictions-Natural3.jpg">
         </a>
-    </div>
 </div>
 <div class="spacer"></div>
 <hr>
@@ -176,24 +159,14 @@ End Code
 <div class="spacer"></div>
 
 <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-6">
         <a href="http://www.houseandgarden.co.uk/article/vic-brotherson-scarlet-and-violet" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-BigBold3.jpg">
         </a>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-6">
         <a href="http://www.designsponge.com/2011/01/sneak-peek-fiona-douglas-of-bluebellgray.html" target="_blank">
             <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-BigBold4.jpg">
-        </a>
-    </div>
-    <div class="col-md-3">
-        <a href="http://www.housebeautiful.co.uk/decorate/looks/g50/wallpaper-and-fabric-inspiration-for-summer-florals-are-back/?slide=5" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-BigBold5.jpg">
-        </a>
-    </div>
-    <div class="col-md-3">
-        <a href="http://ruemag.com/magazine/issue/issue-two#196" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/Trends-2018Predictions-BigBold6.jpg">
         </a>
     </div>
 </div>
