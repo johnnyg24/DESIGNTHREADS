@@ -60,6 +60,7 @@ End Code
         <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg">
     </a>
 </div>
+<div class="spacer"></div>
 
 <p>Bring a little herringbone into your home this season with a selection from Stout. Visit our <a href="~/search/results?page=1&searchtype=f&ctype=colorName&sty=22&pp=45" target="_blank">website</a> for more herringbone options. </p>
 <div class="spacer"></div>
