@@ -17,28 +17,28 @@ End Code
 <p>Our debut pattern is Abstract. Even in its own definition, this term pushes boundaries. An expression that is distinct from any specific concept, Abstract paints with a disregard for order. Random imagery that is unified as a whole, these works of art run the gamut from being quirky and colorful to moody and faded. This broad spectrum allows Abstract products to fit into nearly any interior design. They are now found to easily coexist in all varieties of interiors, acting as a complement rather than the focal point. Whether they lighten traditional settings or deepen transitional ones, Abstract accessories provide a boost to any space. </p>
 <div class="spacer"></div>
 
+<div align="center">
+        <a href="http://www.emilyruddo.com/portfolio/projects/galleries/Hancock-Park" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-LR.jpg">
+        </a>
+</div>
+
 <div align="center" class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
+        <a href="http://www.taraseawright.com/interiors/#/interior-3/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-SunRoom.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="http://apieceoftoastblog.com/2014/11/05/one-room-challenge-week-6/" target="_blank">
+            <img class="img-responsive" src="~/images/PatternPlay-Abstract-Bedroom.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
         <a href="http://www.aaronhom.com/one/4_20_346.html" target="_blank">
             <img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-Chairs.jpg">
         </a>
     </div>
-    <div class="col-md-6">
-        <a href="http://www.emilyruddo.com/portfolio/projects/galleries/Hancock-Park" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-LR.jpg">
-        </a>
-    </div>
-</div>
-
-<div align="center" class="row">
-	<div class="col-md-6">
-		<a href="http://www.taraseawright.com/interiors/#/interior-3/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Abstract-SunRoom.jpg"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="http://apieceoftoastblog.com/2014/11/05/one-room-challenge-week-6/" target="_blank">
-		<img class="img-responsive" src="~/images/PatternPlay-Abstract-Bedroom.jpg"></a>
-	</div>
 </div>
 
 <div align="center" class="row">
