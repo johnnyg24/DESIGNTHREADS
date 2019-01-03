@@ -20,8 +20,8 @@ End Code
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-DarkChair.jpg"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.architecturaldigest.com/gallery/hubert-zandberg-shirin-elghanayan-london-townhouse-renovation-slideshow#11" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-DeskChair.jpg"></a>
+		<a href="https://robinsnestky.com/2017/10/prospect-update-study/" target="_blank">
+		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-StudyChair.jpg"></a>
 	</div>
 </div>
 <div class="spacer"></div>
@@ -44,15 +44,9 @@ End Code
 <p>Known by many aliases, the flame stitch is also referred to as: Bargello, Florentine, and Hungarian Point (if not other lesser known names). The confusion stems from the locale each name stems from. The Bargello arises from Bargello Palace where numerous chairs were covered in the geometric flame pattern stitches. Similarly, the Florentine also derives its name because of the large quantity of furniture produced with the same needlework design. Hungarian Point is believed to have begun from the legend of a Hungarian princess bringing this style embroidery with her when she married a Florence prince. They all have one similarity though, that the pattern emerged into high demand sometime between the 17th and 18th centuries. Through time and as the popularity of this pattern spread through Europe, the individual names slowly became replaced with the more common descriptive name of 'flame stitch'. </p>
 <div class="spacer"></div>
 
-<div align="center" class="row">
-	<div class="col-md-6">
+<div align="center">
 		<a href="http://www.michaelabrams.com/delaware" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-BR.jpg"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="https://www.onekingslane.com/live-love-home/nina-farmer-home/?utm_content=nina_farmer_tour_daybed_vertical&utm_medium=social&crlt.pid=camp.tnz5UqmUuEV6&utm_source=pinterest&utm_campaign=room_blog" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-FlameStitch-Chaise.jpg"></a>
-	</div>
 </div>
 <div class="spacer"></div>
 
