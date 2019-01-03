@@ -11,18 +11,21 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-4">
-		<a href="http://www.housebeautiful.com/design-inspiration/house-tours/g1773/feminine-palm-beach-apartment/?slide=1" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-LR.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.mmagazinemilwaukee.com/index.php?src=gendocs&ref=SeasonsofChange%20" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Chair.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.lonny.com/photos/Betsy+Burnham/NhviQbl1Qdp" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-WindowSeat.jpg"></a>
-	</div>
+    <div class="col-md-4">
+        <a href="http://www.emilyruddo.com/portfolio/projects/galleries/Westwood" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Chairs.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="http://www.houzz.com/photos/1409034/Nantucket-MA-Residence-eclectic-bedroom-other-metro" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-BR2.jpg">
+        </a>
+    </div>
+    <div class="col-md-4">
+        <a href="http://ibbdesign.com/studyhome-office/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-SittingCorner.jpg">
+        </a>
+    </div>
 </div>
 <div class="spacer"></div>
 
@@ -30,18 +33,15 @@ End Code
 <div class="spacer"></div>
 
 <div class="row" align="center">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.colleenknowles.com/work/#/greenbriar-lane/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-BR.jpg"></a>
 	</div>
-	<div class="col-md-4">
-		<a href="http://www.houzz.com/photos/1409034/Nantucket-MA-Residence-eclectic-bedroom-other-metro" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-BR2.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://ibbdesign.com/studyhome-office/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-SittingCorner.jpg"></a>
-	</div>
+    <div class="col-md-6">
+        <a href="https://daherinteriordesign.com/recent_work/color-inspired/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Ikat-Banquet.jpg">
+        </a>
+    </div>
 </div>
 <div class="spacer"></div>
 
