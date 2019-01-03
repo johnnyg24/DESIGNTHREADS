@@ -48,16 +48,16 @@ End Code
         </a>
     </div>
     <div class="col-md-6">
-        <a href="http://www.coddingtondesign.com/portfolio-items/castro-victorian/" target="_blank">
-            <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg">
+        <a href="http://amandanisbetdesign.com/portfolio/city/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Armchairs.jpg">
         </a>
     </div>
 </div>			
 <div class="spacer"></div>
 
 <div align="center">
-    <a href="http://amandanisbetdesign.com/portfolio/city/" target="_blank">
-        <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Armchairs.jpg">
+    <a href="http://www.coddingtondesign.com/portfolio-items/castro-victorian/" target="_blank">
+        <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg">
     </a>
 </div>
 
