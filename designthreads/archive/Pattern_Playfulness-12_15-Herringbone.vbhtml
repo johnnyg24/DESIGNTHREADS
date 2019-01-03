@@ -30,36 +30,36 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.refinedllc.com/properties/gallery-3/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-LR.jpg"></a>
 	</div>		
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.grandwood.com.au/Images/The-Sanctuary/The-Sanctuary_22.aspx" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-OttomanLR.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.coddingtondesign.com/portfolio-items/castro-victorian/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg"></a>
 	</div>
 </div>		
 <div class="spacer"></div>	
 	
 <div align="center" class="row">
-	<div class="col-md-4">
-		<a href="http://www.housebeautiful.com/shopping/best-stores/news/g262/seacloth-1007/?slide=7" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Seacloth.jpg"></a>
-	</div>		
-	<div class="col-md-4">
-		<a href="http://amandanisbetdesign.com/portfolio/city/" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Armchairs.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://lmarieinteriors.com/residential-portfolio/#jp-carousel-231" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-SofaLR.jpg"></a>
-	</div>
+    <div class="col-md-6">
+        <a href="http://lmarieinteriors.com/residential-portfolio/#jp-carousel-231" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-SofaLR.jpg">
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="http://www.coddingtondesign.com/portfolio-items/castro-victorian/" target="_blank">
+            <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Sofas.jpg">
+        </a>
+    </div>
 </div>			
 <div class="spacer"></div>
+
+<div align="center">
+    <a href="http://amandanisbetdesign.com/portfolio/city/" target="_blank">
+        <img class="img-responsive" alt="" src="~/images/PatternPlay-Herringbone-Armchairs.jpg">
+    </a>
+</div>
 
 <p>Bring a little herringbone into your home this season with a selection from Stout. Visit our <a href="~/search/results?page=1&searchtype=f&ctype=colorName&sty=22&pp=45" target="_blank">website</a> for more herringbone options. </p>
 <div class="spacer"></div>
