@@ -35,21 +35,6 @@ End Code
 
 <div class="row">
 	<div class="col-md-4">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Foliage-LivingRoom.jpg">
-	</div>
-	<div class="col-md-4">
-		<a href="https://luxesource.com/collection/1778/31264" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Foliage-Kitchen.jpg"></a>
-	</div>
-	<div class="col-md-4">
-		<a href="http://www.elledecor.com/celebrity-style/celebrity-homes/g1530/all-in-the-family-1/?slide=2" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Foliage-DiningRoom.jpg"></a>
-	</div>	
-</div>
-<div class="spacer"></div>
-
-<div class="row">
-	<div class="col-md-4">
 		<a href="https://www.houzz.com/photos/205679/Gallery-Loft-scandinavian-home-office-los-angeles" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Foliage-LoftWindow.jpg"></a>
 	</div>
