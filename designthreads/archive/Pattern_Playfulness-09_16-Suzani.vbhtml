@@ -15,16 +15,11 @@ End Code
 <div class="spacer"></div>
 
 <div align="center" class="row">
-	<div class="col-md-4">
-		<a href="http://www.architecturaldigest.com/gallery/4-smart-living-room-ideas-from-a-revamped-beverly-hills-home?mbid=social_facebook
-" target="_blank">
-		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-LivingRoom.jpg"></a>
-	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.donaroseneinteriors.com/projects/599110/mirage-residence" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-PlayRoom.jpg"></a>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-6">
 		<a href="http://www.peltierinteriors.com/portfolio_page/pasadena-family-home/" target="_blank">
 		<img class="img-responsive" alt="" src="~/images/PatternPlay-Suzani-WindowCurtains.jpg"></a>
 	</div>
