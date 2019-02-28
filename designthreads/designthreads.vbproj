@@ -185,6 +185,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="archive\Chroma_Color-01_18-2018_Colors_of_the_Year.vbhtml" />
     <Content Include="archive\Chroma_Color-03_17-Pantone_Spring_2017_Forecast.vbhtml" />
     <Content Include="archive\Chroma_Color-10_17-Pantone_Fall_2017_Forecast.vbhtml" />
     <Content Include="archive\Trends-11_16-Enigmatic_Green.vbhtml" />
@@ -301,7 +302,6 @@
     <Content Include="archive\Chroma_Color-01_15-2015_Colors_of_the_Year.vbhtml" />
     <Content Include="archive\Chroma_Color-01_16-2016_Colors_of_the_Year.vbhtml" />
     <Content Include="archive\Chroma_Color-01_17-2017_Colors_of_the_Year.vbhtml" />
-    <Content Include="archive\Chroma_Color-01_18-2018_Colors_of_the_Year.vbhtml" />
     <Content Include="archive\Chroma_Color-02_18-Sherwin_Williams_2018_Forecast.vbhtml" />
     <Content Include="archive\Chroma_Color-03_14-White_Hot_Part_Six.vbhtml" />
     <Content Include="archive\Chroma_Color-04_14-Pantone_Spring_2014.vbhtml" />
@@ -511,6 +511,7 @@
     <Content Include="archive\Trends-06_18-Captivating_Curves.vbhtml" />
     <Content Include="archive\History-07_18-History_of_Fiber_Dyeing.vbhtml" />
     <Content Include="archive\Chroma_Color-11_18-Pantone_Fall_2018_Forecast.vbhtml" />
+    <Content Include="archive\Chroma_Color-01_19-2019_Colors_of_the_Year.vbhtml" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\angular-mocks.js" />
